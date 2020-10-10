@@ -1,0 +1,32 @@
+#Blocks
+tile.contenttweaker.compressedoctuplecompressedcobblestone.name=Compressed Octuple Compressed Cobblestone
+tile.contenttweaker.doublecompressedoctuplecompressedcobblestone.name=Double Compressed Octuple Compressed Cobblestone
+tile.contenttweaker.triplecompressedoctuplecompressedcobblestone.name=Triple Compressed Octuple Compressed Cobbletone
+tile.contenttweaker.quadruplecompressedoctuplecompressedcobblestone.name=Quadruple Compressed Octuple Compressed Cobbblestone
+tile.contenttweaker.quintuplecompressedoctuplecompressedcobblestone.name=Quintuple Compressed Octuple Compressed Cobblestone
+tile.contenttweaker.sextuplecompressedoctuplecompressedcobblestone.name=Sextuple Compressed Octuple Compressed Cobblestone
+tile.contenttweaker.septuplecompressedoctuplecompressedcobblestone.name=Septuple Compressed Octuple Compressed Cobblestone
+tile.contenttweaker.octuplecompressedoctuplecompressedcobblestone.name=Octuple Compressed Octuple Compressed Cobblestone
+tile.contenttweaker.arbitrarium_ore.name=Arbitrarium Ore
+tile.contenttweaker.arbitrarium_block.name=Block of Arbitrarium
+tile.contenttweaker.dungeon_loot.name=Dungeon Chest Ore
+ct.ore.dungeon=Dungeon Chest
+tile.contenttweaker.mineshaft_loot.name=Mineshaft Chest Ore
+ct.ore.mineshaft=Mineshaft Loot Chest
+tile.contenttweaker.jungle_loot.name=Jungle Chest Ore
+ct.ore.jungle=Jungle Loot Chest
+tile.contenttweaker.desert_loot.name=Desert Chest Ore
+ct.ore.desert=Desert Loot Chest
+tile.contenttweaker.nether_loot.name=Nether Chest Ore
+ct.ore.nether=Nether Loot Chest
+
+
+#Items
+item.contenttweaker.arbitrarium_ingot.name=Arbitrarium Ingot
+item.contenttweaker.university_logo.name=FTB University Logo
+item.contenttweaker.creative_mana_drum.name=Creative Mana Drum
+
+item.contenttweaker.eightsmore.name=EightS'more OctoS'mingot
+item.contenttweaker.sixteensmore.name=SixteenS'more HexadecaS'mingot
+item.contenttweaker.thirtytwosmore.name=Half-stack-o'-S'more TriacontadyoS'mingot
+item.contenttweaker.sixtyfoursmore.name=Stack-o'-S'more HexecontatettaraS'mingot
