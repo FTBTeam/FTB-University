@@ -1,6 +1,6 @@
 ---
 name: Mod Request
-about: Use this to request a mod to be added.
+about: This mod should be added
 title: "[Mod Request]: "
 labels: Mod Request
 ---
