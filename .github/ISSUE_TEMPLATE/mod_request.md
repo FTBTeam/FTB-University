@@ -1,6 +1,6 @@
 ---
 name: Mod Request
-about: Use this template for tracking new features.
+about: Use this to request a mod to be added.
 title: "[Mod Request]: "
 labels: Mod Request
 ---
