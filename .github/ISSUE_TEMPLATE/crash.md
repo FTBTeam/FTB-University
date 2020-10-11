@@ -9,3 +9,5 @@ labels: Modpack Problem, Mod Problem
 * Have you added any mods:
 * If yes, which mods:
 * Crash report link (preferably Pastebin etc, not the file):
+* What were you doing when the crash happened:
+* Any other details:
