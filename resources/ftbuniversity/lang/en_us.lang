@@ -8,9 +8,10 @@ ftbuniversity.leavespawn.title=Welcome to &dFTB University&7!
 ftbuniversity.leavespawn.subtitle=Walk a suitable distance from spawn
 ftbuniversity.leavespawn.desc1=&dFTB University&r is a modpack dedicated to teaching semi-experienced players the more complex mods and mechanics of modern modded Minecraft.
 ftbuniversity.leavespawn.desc2=University assumes you already have some basic knowledge. If you haven't, we recommend playing &dFTB Academy&r first.
-ftbuniversity.leavespawn.desc3=To start out with, just walk some distance from spawn. I won't ask you to punch down 16 trees or anything, just &bwalk (don't run) about 100 blocks from wherever you spawned&r.
+ftbuniversity.leavespawn.desc3=To start out with, just walk some distance from spawn. I won't ask you to punch down 16 trees or anything, just &bwalk (or run) about 100 blocks from wherever you spawned&r.
 ftbuniversity.leavespawn.desc4=You can pin this quest to see how far you've gone.
-ftbuniversity.leavespawn.task=Walk 100 blocks
+ftbuniversity.leavespawn.task1=Walk 100 blocks
+ftbuniversity.leavespawn.task2=Sprint 100 blocks
 
 ftbuniversity.worldtp.title=Choose a World Generator!
 ftbuniversity.worldtp.subtitle=Decide what planet you want to live on
@@ -20,6 +21,7 @@ ftbuniversity.worldtp.desc3=&6The quest directly above this&r has a list of pres
 ftbuniversity.worldtp.desc4=&cA warning&r: OTG presets are fairly resource-intensive to generate, so you may want to &6pregenerate&r them using the OTG menu (see controls).
 ftbuniversity.worldtp.desc5=&cA second warning&r: Teleporting into ungenerated chunks causes a surprising amount of lag, so be wary of that.
 ftbuniversity.worldtp.desc6=&cA third warning&r: You &ccannot make Nether portals on other planets&r. Unfortunately, this is a technical limitation, so you'll have to make at least a small base on Earth that has a portal. Certain &cstructures and biomes from other mods will also not generate&r.
+ftbuniversity.worldtp.reward=60 seconds of immortality, in case you teleport into a block
 
 ftbuniversity.worldtp.rewards=Planets
 ftbuniversity.worldtp.reward1=Earth
@@ -1581,8 +1583,10 @@ ftbuniversity.pollinated.task2=Grafter
 
 ftbuniversity.butterflies.title=Boneless Bees
 ftbuniversity.butterflies.subtitle=Butterflies also exist, kind of
-ftbuniversity.butterflies.desc1=&6Butterflies&r are pretty much the most obscure, esoteric feature of any mod. Most people don't breed bees, even less people breed &otrees&r, and that gives a &6tiny chance to spawn a Butterfly&r.
+ftbuniversity.butterflies.desc1=&6Butterflies&r are pretty much the most obscure, esoteric feature of any mod. Most people don't breed bees, even less people breed &otrees&r, which are the only way to get Butterflies. &6Forestry leaves have a very low chance to spawn a random Butterfly.&r
 ftbuniversity.butterflies.desc2=Right-click a Butterfly with a &6Scoop&r to catch it, turning it into an item. &oAllegedly&r, throwing the item on the ground will allow it to return to being a mob, &cthough this appears to not work&r.
+ftbuniversity.butterflies.desc3=You can &6mate&r two Butterflies by crafting them together. Once this mated Butterfly is returned to the world and it reaches the end of its lifespan, it will find some Leaves, spawn a Cocoon, and die. Some time later, a new Butterfly will emerge.
+ftbuniversity.butterflies.desc4=Like Bees and trees, Butterflies can be &6scanned in the Portable Analyzer&r. Butterflies also &cdo not have any produce&r, they only work to &6spread Pollen&r. And, of course, make your world prettier.0
 
 ftbuniversity.gendustry.title=Gendustry!
 ftbuniversity.gendustry.subtitle=Learn about Gendustry
@@ -3130,9 +3134,10 @@ ftbuniversity.simplecrafter.desc2=Set the recipe on the right, and then input it
 ftbuniversity.capitems.title=Capacitors
 ftbuniversity.capitems.subtitle=Make any Capacitor
 ftbuniversity.capitems.desc1=&bCapacitors&r must be installed onto machines above Simple-tier for them to function.
-ftbuniversity.capitems.desc2=Capacitors come in &6several tiers&r, the order of which is not normally obvious. We've gone through and added tooltips to make this easier.
+ftbuniversity.capitems.desc2=Capacitors come in &6several tiers&r. Normally the order might not be obvious, but the mod &eLoot Capacitor Tooltips&r also adds tooltips showing the power of each.
 ftbuniversity.capitems.desc3=&6Capacitors of higher tier work faster and store more RF.&r
 ftbuniversity.capitems.desc4=Several of these Capacitors do not come default with Ender IO, and are actually from the addon mod &eEnder IO Endergy&r. They use the same mod id, so we've added tooltips to specify.
+ftbuniversity.capitems.desc5=You may also find &bLoot Capacitors&r in dungeon chests. These give &6bonuses to specific machines&r. Normally you pretty much have to guess, but the mod &eLoot Capacitor Tooltips&r just puts it into the tooltip.
 ftbuniversity.capitems.task=Any Capacitor
 
 ftbuniversity.induschass.subtitle=Make an Industrial Machine Chassis
@@ -3161,7 +3166,8 @@ ftbuniversity.alloysmelter.reward2=Auto-complete Simple Alloy Smelter quest
 ftbuniversity.sagmill.title=Semi-Autogenous Grinding
 ftbuniversity.sagmill.subtitle=Make a SAG Mill
 ftbuniversity.sagmill.desc1=The &bSAG Mill&r uses RF to crush items.
-ftbuniversity.sagmill.desc2=What separates this from the Simple SAG Mill is that you can insert &6Grinding Balls&r, which give a chance to give more drops and use less energy. See their thumbnails for information.
+ftbuniversity.sagmill.desc2=What separates this from the Simple SAG Mill is that you can insert &bGrinding Balls&r, which give a chance to give more drops and use less energy. See their thumbnails for information.
+ftbuniversity.sagmill.task=Grinding Balls
 ftbuniversity.sagmill.reward=Auto-complete Simple SAG Mill quest
 
 ftbuniversity.wiredcharger.subtitle=Make a Wired Charger
@@ -3481,7 +3487,8 @@ ftbuniversity.mekchap.title=Mekanism v9
 ftbuniversity.mekic2.title=Not So Universal After All
 ftbuniversity.mekic2.subtitle=Mekanism's EU support is disabled
 ftbuniversity.mekic2.desc1=Normally, Mekanism can use both RF and EU. However, in order to not trivialize Industrial Craft, &cwe've disabled EU support&r in Mekanism.
-ftbuniversity.mekic2.desc2=In the event that something says it can use EU, ignore it.
+ftbuniversity.mekic2.desc2=It is our opinion that, while energy conversion is an important feature of Mekanism, IC2 being its own system is more integral to the mod than energy conversion is to Mekanism.
+ftbuniversity.mekic2.desc3=We do have the mod &eEnergy Converters&r, though it is locked behind the latest IC2 quests.
 
 ftbuniversity.osmium.title=Ozzy Osmium
 ftbuniversity.osmium.subtitle=Mine some Osmium
@@ -3844,8 +3851,8 @@ ftbuniversity.mekreactor.title=Disco Reactor
 ftbuniversity.mekreactor.subtitle=Construct a Fusion Reactor
 ftbuniversity.mekreactor.desc1=The &bFusion Reactor&r is a rather complex multiblock, capable of generating extremely high amounts of RF.
 ftbuniversity.mekreactor.desc2=To begin with, make a 5x5 star of &bReactor Frames&r (that is, a 3x3 square with another going out the middle of each side).
-ftbuniversity.mekreactor.desc3=On the next layer, make a 5x5 square without corners, again using Reactor Frames.
-ftbuniversity.mekreactor.desc4=On the third layer, make a 5x5 square &owith&r corners. 3 of the non-corner blocks must be &bReactor Ports&r, and one must be a &bLaser Focus Matrix&r.
+ftbuniversity.mekreactor.desc3=On the next layer, make a hollow 5x5 square without corners, again using Reactor Frames.
+ftbuniversity.mekreactor.desc4=On the third layer, make a hollow 5x5 square &owith&r corners. 3 of the non-corner blocks must be &bReactor Ports&r, and one must be a &bLaser Focus Matrix&r.
 ftbuniversity.mekreactor.desc5=The fourth layer should be the same as the second, and the fifth and final layer should be the same as the first, but with a &bReactor Controller&r in the center.
 ftbuniversity.mekreactor.desc6=Any Frame that isn't on an edge can be replaced with &6Reactor Glass&r.
 ftbuniversity.mekreactor.task=74x Reactor Frame
@@ -5723,7 +5730,7 @@ ftbuniversity.elementaltools.task=Elemental tools
 
 ftbuniversity.runicshielding.title=Runic Shielding
 ftbuniversity.runicshielding.subtitle=Learn about Runic Shielding
-ftbuniversity.runicshielding.desc1=&bRunic Shielding&r can be applied to any armor or bauble. For each level of Shielding, it &6blocks 1 point of damage until depleted&r. It regenerates after some time.
+ftbuniversity.runicshielding.desc1=&bRunic Shielding&r can be applied to any armor or bauble. For each level of Shielding, it &6adds half a heart of temporary health&r. This generates over time.
 ftbuniversity.runicshielding.desc2=Though the Thaumonomicon only shows up to Runic Shielding +3, there's theoretically &6no limit to how high it can go&r.
 
 ftbuniversity.cloudstepper.title=Skywalker
