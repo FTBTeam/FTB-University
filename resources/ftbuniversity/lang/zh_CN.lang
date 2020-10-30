@@ -80,7 +80,7 @@ ftbuniversity.drawerstorageupgrade.task=存储升级
 
 ftbuniversity.drawerkeys.title=请给我钥匙
 ftbuniversity.drawerkeys.subtitle=制作各种钥匙
-ftbuniversity.drawerkeys.desc1=The &b抽屉钥匙&r 将锁定它被单击的抽屉，仅允许其中已有的项目进入。这意味着如果将其清空，其他物品仍然无法填充。
+ftbuniversity.drawerkeys.desc1=The &b抽屉钥匙&r 将锁定它被单击的抽屉，仅允许其中已有的物品进入。这意味着如果将其清空，其他物品仍然无法填充。
 ftbuniversity.drawerkeys.desc2=The &b隐藏钥匙&r 将隐藏被单击的抽屉的内容，尽管它仍可以交互。
 ftbuniversity.drawerkeys.desc3=The &b个人钥匙&r 将阻止其他玩家与单击它的抽屉进行交互，但是他还是可以和管道机器进行交互。
 ftbuniversity.drawerkeys.desc4=The &b量化钥匙&r 将使单击它的抽屉显示它具有的每个物品的数量。
@@ -106,12 +106,12 @@ ftbuniversity.claimchunk.title=来自Academy的这个无耻失窃的任务
 ftbuniversity.claimchunk.subtitle=认领区块
 ftbuniversity.claimchunk.desc1=在物品栏的左上方， &6点击地图按钮查看&r 周围区块的地图。
 ftbuniversity.claimchunk.desc2=你可以为了你的团队 &b左键单击一个区块以认领它&r ，因此来自不同团队的任何人都无法在你认领的区块中放置或破坏区块。右键单击以取消认领区块。
-ftbuniversity.claimchunk.desc3=你可以在按住shift键的同时＆6点击已认领的区块以将其加载&r, 即使你不在或处于离线状态，它也可以确保一切正常运行。
+ftbuniversity.claimchunk.desc3=你可以在按住shift键的同时&6点击已认领的区块以将其加载&r, 即使你不在或处于离线状态，它也可以确保一切正常运行。
 
 # So was this
 ftbuniversity.claimexplosions.title=AWW MAN
 ftbuniversity.claimexplosions.subtitle=让爬行者炸毁你认领的区块
-ftbuniversity.claimexplosions.desc1=在认领的区块中 &6爆炸将被完全禁用&r。他们仍然可以对您造成伤害，但不会破坏任何方块。这也适用于TNT。
+ftbuniversity.claimexplosions.desc1=在认领的区块中 &6爆炸将被完全禁用&r。他们仍然可以对你造成伤害，但不会破坏任何方块。这也适用于TNT。
 ftbuniversity.claimexplosions.desc2=这也可以防止凋灵爆炸引起的方块伤害，但是在受到伤害时并不能阻止凋灵打破自身周围的方块。
 
 ftbuniversity.noticon.title=其他品牌可用
@@ -131,204 +131,204 @@ ftbuniversity.quarkbackpack.desc1=&bBackpacks&r, added by &eQuark Oddities&r, al
 ftbuniversity.quarkbackpack.desc2=The backpack cannot be removed while any item is in the backpack slots.
 ftbuniversity.quarkbackpack.desc3=Notice how it doesn't have a "normal" crafting recipe; instead, you have to &6trade&r for it.
 
-ftbuniversity.simplevoid.title=We Are Officially a Skyblock Now
-ftbuniversity.simplevoid.subtitle=Make a Portal to the Void
-ftbuniversity.simplevoid.desc1=Right-click a &bPortal to the Void&r to be teleported to an entirely blank void dimension.
-ftbuniversity.simplevoid.desc2=The Void-side portal is at the exact same coordinates as the Overworld-side portal.
-ftbuniversity.simplevoid.desc3=There may be &6some jank&r if you use other means to teleport to/from the Void world, rather than the Portal block. 
+ftbuniversity.simplevoid.title=我们现在开始是一个空岛模组包
+ftbuniversity.simplevoid.subtitle=制作一个虚空传送门
+ftbuniversity.simplevoid.desc1=右键 &b虚空传送门&r 你就会被传送到一个什么都没有的虚空世界
+ftbuniversity.simplevoid.desc2=虚空那边的传送门与主世界的的坐标完全相同。
+ftbuniversity.simplevoid.desc3=如果你用其他方法传送到虚空世界，可能会有 &6一些BUG&r。
 
 # This is enchanting table language, leave it
 ftbuniversity.quarkenchant.title=ᑑ⚍ᔑ∷ꖌ ╎ᓭ ᔑ ᒲ𝙹↸ ʖ|| ⍊ᔑ⨅ꖌ╎╎
-ftbuniversity.quarkenchant.subtitle=Learn how to use matrix enchanting
-ftbuniversity.quarkenchant.desc1=&eQuark Oddities&r completely overhauls how the Enchantment Table works.
-ftbuniversity.quarkenchant.desc2=At the bottom, you can see the amount of levels required to create an &6enchantment shape&r. That will add that shape to the list on the right. Some enchantments might require you have over a specific amount of xp, even if it doesn't cost that much to actually make it. &6The more Bookshelves you have, the more shapes you can create&r.
-ftbuniversity.quarkenchant.desc3=Click an enchantment out of the list, and then place it anywhere in the 5x5 grid next to it (you can right-click while holding the shape to rotate it). That will apply that enchantment to the item. &6You can add as many enchantments as you have shapes, so long as they all fit together within the grid&r.
-ftbuniversity.quarkenchant.desc4=If you have multiple shapes of one enchantment, place them on top of each other to upgrade the level of that enchantment.
-ftbuniversity.quarkenchant.desc5=This can be disabled in the &6Mod Options...&r menu, searching and opening "Quark" (&nnot "Quark Oddities"&r), opening Oddities, then clicking the checkmark next to "Matrix Enchanting."
+ftbuniversity.quarkenchant.subtitle=了解如何使用矩阵附魔
+ftbuniversity.quarkenchant.desc1=&e夸克-奇思妙想&r 彻底改变附魔台的工作方式。
+ftbuniversity.quarkenchant.desc2=在底部，你可以看到创建&6附魔形状&r所需的级别数量。 这样会将形状添加到右侧的列表中。有些附魔可能会要求你拥有一定数量的xp，即使实际花费不多。 &6你拥有的书架越多，可以创建的形状就越多&r.
+ftbuniversity.quarkenchant.desc3=从列表中单击一个附魔，然后将其放置在其旁边的5x5网格中的任何位置（你可以在按住形状的同时单击鼠标右键以旋转它）。这将使该附魔作用于该物品。&6你可以根据需要添加任意数量的附魔，只要它们都可以在网格中放在一起&r.
+ftbuniversity.quarkenchant.desc4=如果一个附魔具有多种形状，请将它们相互叠加以升级该附魔的等级。
+ftbuniversity.quarkenchant.desc5=这个可以在 &6模组选项...&r 菜单中禁用, 寻找 "Quark" (&n不是 "Quark Oddities"&r), 打开奇思妙想, 然后点击 "矩阵附魔"边上的勾。
 
-ftbuniversity.exu2search.title=Legitimizing Soaryn Chests Since 2014
-ftbuniversity.exu2search.subtitle=Learn about ExU2's item locator
-ftbuniversity.exu2search.desc1=Extra Utilities 2 adds a keybind that lets you &bhover over any item in your inventory and hit T&r, and it will &6spawn particles in any nearby blocks that have that item&r.
-ftbuniversity.exu2search.desc2=This is incredibly useful for those that haven't done very much sorting in their base yet, as you can find what specific chest has a certain item.
+ftbuniversity.exu2search.title=合理化不整理箱子，自2014年以来
+ftbuniversity.exu2search.subtitle=了解有关ExU2的物品定位器
+ftbuniversity.exu2search.desc1=Extra Utilities 2添加了可让你使用的按键 &b将鼠标悬停在物品栏中的任何物品上，然后按T&r, 然后它就会 &6在附近有该物品的方块中产生粒子&r.
+ftbuniversity.exu2search.desc2=这对于那些尚未对其基地进行太多整理的人非常有用，因为你可以找到特定箱子中有哪些物品。
 
-ftbuniversity.ironchests.title=Bigger on the Inside
-ftbuniversity.ironchests.subtitle=Make an upgraded Chest
-ftbuniversity.ironchests.desc1=The mod &eIron Chests&r adds several tiers of Chests that have &6more storage space&r.
-ftbuniversity.ironchests.desc2=&bCopper&r has &645&r slots.
-ftbuniversity.ironchests.desc3=&bIron&r has &654&r slots.
-ftbuniversity.ironchests.desc4=&bSilver&r has &672&r slots.
-ftbuniversity.ironchests.desc5=&bGold&r has &681&r slots.
-ftbuniversity.ironchests.desc6=&bDiamond&r, &bCrystal&r, and &bObsidian&r all have &6108&r slots. Crystal is see-through, and Obsidian is blast-proof.
-ftbuniversity.ironchests.desc7=There are also &bChest Upgrades&r that can be used on a Chest to upgrade it, without having to break it.
-ftbuniversity.ironchests.desc8=Additionally, Shulkers can also be crafted into these advanced tiers.
-ftbuniversity.ironchests.task1=Chests
-ftbuniversity.ironchests.task2=Chest Upgrades
+ftbuniversity.ironchests.title=内在更大
+ftbuniversity.ironchests.subtitle=制作升级版的宝箱
+ftbuniversity.ironchests.desc1=这个 &e铁箱子&r 模组增加了具有更多的存储空间的储物箱。
+ftbuniversity.ironchests.desc2=&b铜&r 有 &645&r 个物品栏。
+ftbuniversity.ironchests.desc3=&b铁&r 有 &654&r 个物品栏。
+ftbuniversity.ironchests.desc4=&b银&r 有 &672&r 个物品栏。
+ftbuniversity.ironchests.desc5=&b金&r 有 &681&r 个物品栏。
+ftbuniversity.ironchests.desc6=&b钻石&r, &b水晶&r, and &b黑曜石&r 都有 &6108&r 个物品栏。 水晶可以看到里面, 而黑曜石是防爆的。
+ftbuniversity.ironchests.desc7=也可以在宝箱上使用&b箱子升级&r，而不必破坏它。
+ftbuniversity.ironchests.desc8=另外，也可以将潜影盒制作为这些高级箱子。
+ftbuniversity.ironchests.task1=箱子
+ftbuniversity.ironchests.task2=箱子升级
 
 ftbuniversity.yabba.title=YABBA DABBA DOO
-ftbuniversity.yabba.subtitle=Make an Item Barrel
-ftbuniversity.yabba.desc1=&bItem Barrels&r from the mod &eYABBA&r work fairly similarly to &eStorage Drawers&r' Storage Drawers. They can &6store a massive amount of a single item&r. Right-click an item to insert it, left-click to extract.
-ftbuniversity.yabba.desc2=Item Barrels have &6lower raw storage capability&r (fully upgraded, holding 4096 stacks compared to Storage Drawers' 7168), but has &6more unique upgrades&r, and having &6better aesthetic abilities&r.
-ftbuniversity.yabba.desc3=Sneak right-click an Item Barrel to open its settings. There, you can toggle if it's locked, if it requires you to sneak to see its contents, and if it should show a progress bar instead of exact amounts.
-ftbuniversity.yabba.desc4=Barrels keep their contents when broken.
+ftbuniversity.yabba.subtitle=制作物品桶
+ftbuniversity.yabba.desc1=&b物品桶&r 来自 &eYABBA&r 模组，它和 &e储物柜&r 运作模式相似。它们能够&6存储大量的单个物品&r。右键单击一个物品以将其插入, 左键单击以提取。
+ftbuniversity.yabba.desc2=物品桶有 &6较低的存储能力&r (完全升级，可容纳4096组，而储物柜的为7168), 但有 &6更多独特的升级&r, 并且有 &6更好的伪装能力&r.
+ftbuniversity.yabba.desc3=右键单击物品桶以打开其设置。在这里，你可以切换是否已锁定，是否需要潜行以查看其内容以及是否应显示进度条而不是确切的数量。
+ftbuniversity.yabba.desc4=桶被挖掘时保持其内容物。
 
-ftbuniversity.ibconn.title=Barrel Controller
-ftbuniversity.ibconn.subtitle=Make an Item Barrel Connector
-ftbuniversity.ibconn.desc1=The &bItem Barrel Connector&r provides &6access to all connected Item Barrels&r.
-ftbuniversity.ibconn.desc2=This &6only works for pipes&r and the like; &cyou can't use it manually&r. It's GUI simply allows you to see the stored items and their amounts.
+ftbuniversity.ibconn.title=桶控制器
+ftbuniversity.ibconn.subtitle=制作物品桶连接器
+ftbuniversity.ibconn.desc1=The &b物品桶连接器&r 提供 &6打开所有连接的物品桶的渠道&r
+ftbuniversity.ibconn.desc2=这个 &6仅适用于管道&r 等等; &c你不能手动使用&r。它的GUI仅允许你查看存储的物品及其数量。
 
-ftbuniversity.antibarrel.title=Unstackables
-ftbuniversity.antibarrel.subtitle=Make an AntiBarrel
-ftbuniversity.antibarrel.desc1=The &bAntiBarrel&r &6stores unstackable items&r, like swords and the like.
-ftbuniversity.antibarrel.desc2=It is &6not limited to a single item type&r. It can store items regardless of their NBT and damage.
-ftbuniversity.antibarrel.desc3=This makes it &nextremely useful for mob farms&r, so you don't have to make some complex setup to void these items.
+ftbuniversity.antibarrel.title=不可堆叠
+ftbuniversity.antibarrel.subtitle=制作一个反桶
+ftbuniversity.antibarrel.desc1=这个 &b反桶&r &6存放不可堆叠的物品&r像剑之类的。
+ftbuniversity.antibarrel.desc2=它&6不受限于单一物品种类&r。它可以存储物品，而不管其NBT和损坏情况如何。
+ftbuniversity.antibarrel.desc3=这使它 &n对怪物农场非常有用&r，因此您无需进行复杂的设置即可把这些物品丢进垃圾桶。
 
-ftbuniversity.yabtier.title=This Isn't Even My Final Form
-ftbuniversity.yabtier.subtitle=Make a tier upgrade
-ftbuniversity.yabtier.desc1=These tier upgrades allow you to &6store more items&r in an Item Barrel. They &6must be placed in order&r: Iron, then Gold, then Diamond. Infinite Capacity can be installed at any point, however.
-ftbuniversity.yabtier.desc2=• &bIron Tier&r can store 256 stacks.
-ftbuniversity.yabtier.desc3=• &bGold Tier&r can store 1024 stacks.
-ftbuniversity.yabtier.desc4=• &bDiamond Tier&r can store 4096 stacks.
-ftbuniversity.yabtier.desc5=• &bInfinite Capacity&r, as the name implies, can store an infinite amount.
-ftbuniversity.yabtier.task=Tier upgrades
+ftbuniversity.yabtier.title=这甚至不是我的最终形式
+ftbuniversity.yabtier.subtitle=制作升级
+ftbuniversity.yabtier.desc1=通过这些升级，您可以在&6“物品桶”&r中存储更多物品。他们&6必须按顺序放置&r: 铁，然后金，然后是钻石。但是，可以在任意位置安装无限容量。
+ftbuniversity.yabtier.desc2=• &b铁&r 可以存储256组。
+ftbuniversity.yabtier.desc3=• &b金&r 可以存储1024组。
+ftbuniversity.yabtier.desc4=• &b钻石&r 可以存储4096组。
+ftbuniversity.yabtier.desc5=• &b无限&r, 顾名思义，可以存储无限物品。
+ftbuniversity.yabtier.task=桶升级
 
-ftbuniversity.yabups.title=Function Over Form
-ftbuniversity.yabups.subtitle=Make a function upgrade
-ftbuniversity.yabups.desc1=These items can be added to Item Barrels of any tier to add some functionality.
-ftbuniversity.yabups.desc2=&bObsidian Shell&r makes Barrels &6resist explosions&r.
-ftbuniversity.yabups.desc3=&bRedstone Output&r adds several options to the Barrel's GUI to allow it to &6emit a redstone signal based on the amount stored&r.
-ftbuniversity.yabups.desc4=&bHopper&r adds options to the GUI that allow it to &6work like a Hopper&r: pulling from inventories above, pushing into inventories below, and grabbing item entities on top. All of these are configurable.
-ftbuniversity.yabups.desc5=&bVoid Items&r allows the Barrel to &6accept items even when full, destroying them&r.
-ftbuniversity.yabups.desc6=&bCollect Pickups&r allows the Barrel, when broken and in your inventory, to &6automatically collect items that you pick up&r. This is excellent for storing Cobblestone, as you can bring it with you when you go mining.
-ftbuniversity.yabups.desc7=&bItem Smelting&r will attempt to &6smelt the stored item every 20 seconds&r, dropping the result in front of it.
-ftbuniversity.yabups.task=Function upgrades
+ftbuniversity.yabups.title=功能升级
+ftbuniversity.yabups.subtitle=制作一个功能升级
+ftbuniversity.yabups.desc1=这些物品可以添加到任何等级的桶中以添加一些功能。
+ftbuniversity.yabups.desc2=&b黑曜石壳&r进行桶装&6抵抗爆炸&r。
+ftbuniversity.yabups.desc3=&b红石输出&r在桶的GUI中添加了几个选项，以使其能够基于存储的数量&6发射红石信号。
+ftbuniversity.yabups.desc4=&b漏斗&r 在GUI中添加选项，使其可以像&6漏斗＆r一样工作：从上方的物品栏中拉出，推入下方的物品栏中，并在顶部抓取物品实体。所有这些都是可配置的。
+ftbuniversity.yabups.desc5=&b虚空升级&r 允许桶 &6即使已满也接受物品，并将其破坏&r.
+ftbuniversity.yabups.desc6=&b收集升级&r 允许桶在损坏和在您的物品栏中时 &6自动收集您拿起的物品&r。这对于存储鹅卵石非常有用，因为您可以在采矿时随身携带它。
+ftbuniversity.yabups.desc7=&b物品熔炼&r 将尝试 &6每20秒熔炼一次存储的物品&r，将结果放在前面。
+ftbuniversity.yabups.task=功能升级
 
-ftbuniversity.barham.title=Form Over Function
-ftbuniversity.barham.subtitle=Make the various Barrel decorative items
-ftbuniversity.barham.desc1=The &bBarrel Hammer&r allows you to &6change a Barrel's model&r.
-ftbuniversity.barham.desc2=To do this, sneak right-click the Hammer, choose a model, then right-click the Barrel to apply it.
-ftbuniversity.barham.desc3=Likewise, the &bBarrel Painter&r allows you to &6change a Barrel's texture&r.
-ftbuniversity.barham.desc4=Again, sneak-right click the Painter, choose a block to use the texture of, then right-click the Barrel to apply it.
-ftbuniversity.barham.desc5=The &bBarrel Wrench&r allows you to &6rotate Barrels&r by right-clicking them. Sneak to instantly break the Barrel.
+ftbuniversity.barham.title=形式超越功能
+ftbuniversity.barham.subtitle=制作各种桶装饰品
+ftbuniversity.barham.desc1=&b桶锤&r 让你 &6改变桶的模型&r.
+ftbuniversity.barham.desc2=为此，用锤子右键单击桶，选择一个模型，然后应用它。
+ftbuniversity.barham.desc3=同样，&b桶画笔&r 让你 &6改变桶的纹理&r.
+ftbuniversity.barham.desc4=再次，用画笔右键单击桶，选择一个要使用其纹理的块，然后应用它。
+ftbuniversity.barham.desc5=&b桶扳手&r 让你通过右键单击桶来 &6旋转它们&r。潜行时右键将捡起桶。
 
 ##Progression
-ftbuniversity.progression.title=Introductions
+ftbuniversity.progression.title=引言
 
-ftbuniversity.progintro.title=Welcome to Mods!
-ftbuniversity.progintro.subtitle=What makes mods special
-ftbuniversity.progintro.desc1=This chapter will show you what makes each mod special, and generally &6when you should start playing with them&r.
-ftbuniversity.progintro.desc2=Don't do these mods one at a time! Mods work best when mixed together!
-ftbuniversity.progintro.desc3=The &6Akashic Tome&r (this quest's reward) can be crafted with any other book to store them. Right-click it to choose a book for it to transform into, and punch the air with it to reset it.
-ftbuniversity.progintro.desc4=Throw a transformed book to to remove it, giving it back as an item.
+ftbuniversity.progintro.title=欢迎来到模组！
+ftbuniversity.progintro.subtitle=是什么让模组特别
+ftbuniversity.progintro.desc1=本章将向您展示使每个模组变得与众不同的原因 &6什么时候应该玩&r。
+ftbuniversity.progintro.desc2=不要一次做一个模组！ 模组组合在一起时效果最佳！
+ftbuniversity.progintro.desc3= &6阿卡什宝典&r （此任务的奖励）可以与其他任何书籍一起制作以存储它们。右键单击它以选择要转换成的书，左键点击空气重置。
+ftbuniversity.progintro.desc4=将变形后的书扔掉以将其作为物品退还。
 
-ftbuniversity.progfor.title=Forestry
-ftbuniversity.progfor.subtitle=Nature tech
-ftbuniversity.progfor.desc1=&eForestry&r is a mod that deals with farming.
-ftbuniversity.progfor.desc2=Its most famous feature is bee breeding, which can make bees that generate items, from string to diamonds. (Technically the inorganic bees are from an addon, but still.)
-ftbuniversity.progfor.desc3=Forestry is great for &6early game&r, since it's fairly cheap and lets you automate wood and crops quickly.
+ftbuniversity.progfor.title=林业
+ftbuniversity.progfor.subtitle=自然科技
+ftbuniversity.progfor.desc1=&e林业&r 是涉及农业的模组。
+ftbuniversity.progfor.desc2=它最著名的特征是蜜蜂育种，它可以使蜜蜂产生从线到钻石的各种物品。 （从技术上讲，无机蜜蜂来自附加组件，但仍然如此。）
+ftbuniversity.progfor.desc3=林业非常适合 &6开局&r, 因为它相当便宜，可以让您快速实现木材和农作物的自动化。
 
-ftbuniversity.progexu2.title=Extra Utilities 2
-ftbuniversity.progexu2.subtitle=Magicky tech
-ftbuniversity.progexu2.desc1=As the name implies, &eExtra Utilities 2&r mostly adds &6simple utility items&r. However, it also adds its own &6unique wireless energy system&r and several machines that use RF.
-ftbuniversity.progexu2.desc2=ExU2 can be started from &6pretty early on, though some items have a bit of a resource requirement&r.
+ftbuniversity.progexu2.title=更多实用工具2
+ftbuniversity.progexu2.subtitle=魔术型科技
+ftbuniversity.progexu2.desc1=顾名思义， &e更多实用工具 2&r 主要添加 &6简单实用物品&r。但是，它也添加了自己的 &6独特的无线能源系统&r 和几台使用RF的机器。
+ftbuniversity.progexu2.desc2=ExU2在 &6相当早就开始，尽管有些物品需要一些资源&r.
 
-ftbuniversity.progbot.title=Botania
-ftbuniversity.progbot.subtitle=Botania is a mod by Vazkii
-ftbuniversity.progbot.desc1=&eBotania&r calls itself a tech mod with a theme of natural magic. So while it &6looks like a magic mod&r, it &6plays like a tech mod&r.
-ftbuniversity.progbot.desc2=The bulk of Botania was covered in &dFTB Academy&r, so University will only go over the more complex aspects.
-ftbuniversity.progbot.desc3=Botania can be accessed pretty much &6from the beginning&r, so you can jump in as soon as you have the materials.
+ftbuniversity.progbot.title=植物魔法
+ftbuniversity.progbot.subtitle=植物魔法是一个来自Vazkii的科技模组
+ftbuniversity.progbot.desc1=&e植物魔法&r 自称是以自然魔法为主题的科技模组。 所以虽然 &6看起来像魔法模组&r, 它 &6玩起来像是科技模组&r.
+ftbuniversity.progbot.desc2=植物魔法的大部分在&dFTB Academy&r被覆盖 ，因此大学只会教导更复杂的方面。
+ftbuniversity.progbot.desc3=植物魔法几乎在&6从最开始&r访问,这样您就可以在掌握材料后立即开始。
 
-ftbuniversity.progic2.title=Industrial Craft 2
-ftbuniversity.progic2.subtitle=Laboratory tech
-ftbuniversity.progic2.desc1=Unlike most other tech mods which use RF, &eIndustrial Craft 2&r uses &6EU&r for its energy system.
-ftbuniversity.progic2.desc2=Its machines start off slower than other mods', but when upgraded are by far the fastest. It has &6nearly zero cross-mod interaction&r though.
-ftbuniversity.progic2.desc3=IC2 should last the entire modpack, from &6beginning to end&r.
+ftbuniversity.progic2.title=工业2
+ftbuniversity.progic2.subtitle=实验室科技
+ftbuniversity.progic2.desc1=与其他大多数使用RF的科技模组不同，&eIC2&r 使用 &6EU&r 为其能源系统。
+ftbuniversity.progic2.desc2=它的机器启动速度比其他模块慢，但升级后速度最快。 但是它有 &6几乎零的模组交叉&r。
+ftbuniversity.progic2.desc3=IC2应该持续整个模组包，从 &6开始到结束&r.
 
-ftbuniversity.proglog.title=Logistics Pipes
-ftbuniversity.proglog.subtitle=Logical automation
-ftbuniversity.proglog.desc1=&eLogistics Pipes&r is a mod that adds really &6fun and interesting pipes&r for automating your base.
-ftbuniversity.proglog.desc2=Logistics Pipes is &6fairly early game&r, but requires a bit of infrastructure in the way of energy.
+ftbuniversity.proglog.title=物流管道
+ftbuniversity.proglog.subtitle=逻辑自动化
+ftbuniversity.proglog.desc1=&e物流管道&r 是一个增加了 &6有趣的管道&r 来自动化您的基地的模组。
+ftbuniversity.proglog.desc2=物流管道是 &6相当的前期&r, 但需要一些能源基础设施。
 
-ftbuniversity.progie.title=Immersive Engineering
-ftbuniversity.progie.subtitle=Factory-y tech
-ftbuniversity.progie.desc1=&eImmersive Engineering&r is a tech mod that uses RF. What makes it stand out is that all the machines are &6multiblocks that ooze with style&r.
-ftbuniversity.progie.desc2=Immersive Engineering requires a lot of Coal and Iron, but &6if you have the resources you can jump in whenever&r.
+ftbuniversity.progie.title=沉浸工程
+ftbuniversity.progie.subtitle=工厂科技
+ftbuniversity.progie.desc1=&e沉浸工程&r 是使用RF的科技模组。令其脱颖而出的是所有机器都是 &6充满风格的多方块&r.
+ftbuniversity.progie.desc2=沉浸工程需要大量的煤和铁，但是 &6如果您有资源，可以随时开始&r.
 
-ftbuniversity.progpneu.title=PneumaticCraft: Repressurized
-ftbuniversity.progpneu.subtitle=Airy tech
-ftbuniversity.progpneu.desc1=&ePneumaticCraft&r is a tech mod that uses &6air pressure and heat&r instead of electrical energy.
-ftbuniversity.progpneu.desc2=PneumaticCraft is best approached around &6early-midgame&r.
+ftbuniversity.progpneu.title=气动工艺
+ftbuniversity.progpneu.subtitle=空气科技
+ftbuniversity.progpneu.desc1=&e气动工艺&r 是一个使用 &6气压和热量&r 代替电能的科技模组.
+ftbuniversity.progpneu.desc2=气动工艺适合 &6中早期&r。
 
-ftbuniversity.progthaum.title=Thaumcraft 6
-ftbuniversity.progthaum.subtitle=Magitechy magic
-ftbuniversity.progthaum.desc1=&eThaumcraft&r is a magic mod that has themes of &6magitech and steampunk&r. It's also &6incredibly pretty&r, with absolutely magical visuals.
-ftbuniversity.progthaum.desc2=Thaumcraft can be started &6from the beginning&r of a playthrough.
-ftbuniversity.progthaum.reward=Vis Crystals
+ftbuniversity.progthaum.title=神秘时代6
+ftbuniversity.progthaum.subtitle=魔幻魔法
+ftbuniversity.progthaum.desc1=&e神秘时代6&r 是一个魔法模组，主题是 &6魔法师和蒸汽朋克&r。它&6非常漂亮&r，具有绝对神奇的视觉效果。
+ftbuniversity.progthaum.desc2=神秘时代可以在 &6从最开始&r 进入。
+ftbuniversity.progthaum.reward=Vis晶体
 
-ftbuniversity.progblood.title=Blood Magic: Alchemical Wizardry
-ftbuniversity.progblood.subtitle=Edgy magic
-ftbuniversity.progblood.desc1=&eBlood Magic&r is a mod that &6uses Life Essence&r to power &6rituals&r, &6alchemy&r, and &6spells&r.
-ftbuniversity.progblood.desc2=The first steps require a fair amount of precious ores, but it can be started &6fairly early game&r. 
+ftbuniversity.progblood.title=血魔法：炼金术士
+ftbuniversity.progblood.subtitle=酷炫魔法
+ftbuniversity.progblood.desc1=&e血魔法&r是一个 &6使用生命精华&r 来驱动 &6祭坛&r, &6炼金术&r, 和 &6咒语&r的模组。
+ftbuniversity.progblood.desc2=第一步需要大量珍贵的矿石，但是可以 &6相当前期&r开始。
 
-ftbuniversity.progeio.title=Ender IO
-ftbuniversity.progeio.subtitle=&mMicrocrafty&r&7 Convenient tech
-ftbuniversity.progeio.desc1=&eEnder IO&r is a tech mod that uses RF. Its most unique feature is the Conduit system, where you can have &6pipes&r for items, energy, and fluids &6traveling through the same block&r together.
-ftbuniversity.progeio.desc2=Ender IO machines come in several tiers and can be upgraded to &6last the entire modpack&r.
+ftbuniversity.progeio.title=末影接口
+ftbuniversity.progeio.subtitle=很多&m微合成&r&7的便捷科技
+ftbuniversity.progeio.desc1=&e末影接口&r 是一个使用RF的科技模组。它最独特的功能是导管系统，您可以在同一个方块其中&6运输&r物品，能量和液体。
+ftbuniversity.progeio.desc2=末影接口的机器有不同等级，所以这个模组 &6在任何时候都有用&r。
 
-ftbuniversity.progmek.title=Mekanism v9
-ftbuniversity.progmek.subtitle=Technological Technology
-ftbuniversity.progmek.desc1=&eMekanism&r is a tech mod that uses RF.
-ftbuniversity.progmek.desc2=Its mid-game is fairly nice with its Factories &6capable of handling up to 9 recipes at once&r, and its endgame Fusion Reactor &6makes a astonishingly high amount of RF&r.
-ftbuniversity.progmek.desc3=Mekanism has several tiers for the different stages.
+ftbuniversity.progmek.title=通用机械 v9
+ftbuniversity.progmek.subtitle=科技型科技
+ftbuniversity.progmek.desc1=&e通用机械&r 是使用RF的科技模组。
+ftbuniversity.progmek.desc2=游戏中期因为它的工厂变得相当好 &6能够一次处理多达9个合成&r，以及其最后的核聚变发电机 &6产生大量的RF&r.
+ftbuniversity.progmek.desc3=通用机械在不同的阶段有几个等级。
 
-ftbuniversity.prognucc.title=NuclearCraft: Overhauled
-ftbuniversity.prognucc.subtitle=Nuclear Technology
-ftbuniversity.prognucc.desc1=&eNuclearCraft: Overhauled&r is a tech mod that adds multiblock nuclear reactors to &6generate massive amounts of RF or EU&r. It also has plenty of machines, aside from the reactors.
-ftbuniversity.prognucc.desc2=It's also &6possibly the most complex mod in existence&r, which is only barely an exaggeration.
-ftbuniversity.prognucc.desc3=NuclearCraft: Overhauled is a &6fairly late-game&r mod, due to the resource cost and complexity.
+ftbuniversity.prognucc.title=核电工艺
+ftbuniversity.prognucc.subtitle=核技术
+ftbuniversity.prognucc.desc1=&e核电工艺&r 是一个科技模组，增加了多方块核反应堆 &6产生大量的RF或EU&r。除了反应堆外，它还有很多机器。
+ftbuniversity.prognucc.desc2=这也 &6可能是现存最复杂的模组&r，这只是一点点夸张。
+ftbuniversity.prognucc.desc3=核电工艺是 &6后期&r 模组, 由于资源成本和复杂性。
 
 ftbuniversity.progrft.title=RFTools
-ftbuniversity.progrft.subtitle=Really cool tech
-ftbuniversity.progrft.desc1=&eRFTools&r is a tech mod that uses RF, as the name implies. The machines it adds are &6insanely useful&r for every stage of the game.
-ftbuniversity.progrft.desc2=While some of RFTools are &6fairly early&r, the majority of the mod is pretty &6late-game&r.
+ftbuniversity.progrft.subtitle=真的很酷的科技
+ftbuniversity.progrft.desc1=&eRFTools&r 顾名思义，这是一个使用RF的科技模组。它添加的机器对于游戏的每个阶段都是有用的。
+ftbuniversity.progrft.desc2=虽然有些RFTools的机器 &6是给前期使用的&r, 模组大部分的东西都是为了 &6后期&r。
 
-ftbuniversity.progae2.title=Applied Energistics 2
-ftbuniversity.progae2.subtitle=Digital storage
-ftbuniversity.progae2.desc1=&eApplied Energistics 2&r is a tech mod that's dedicated to making &6storage and automation&r as convenient as possible.
-ftbuniversity.progae2.desc2=AE2 can be started &6around early mid-game&r.
+ftbuniversity.progae2.title=应用能源学 2
+ftbuniversity.progae2.subtitle=数字存储
+ftbuniversity.progae2.desc1=&e应用能源学2&r 是专门让 &6存储和自动化&r 尽可能方便的模组。
+ftbuniversity.progae2.desc2=AE2可以在 &6前中期开始&r。
 
-ftbuniversity.progadvr.title=Advanced Rocketry
-ftbuniversity.progadvr.subtitle=Intergalactic tech
-ftbuniversity.progadvr.desc1=&eAdvanced Rocketry&r is a tech mod that's dedicated to &6space travel&r, and it's really cool.
-ftbuniversity.progadvr.desc2=By itself, the mod is honestly fairly bare-bones, with everything being randomly generated. We've gone through and added custom planets and asteroids ourselves, to show what the mod is capable of.
-ftbuniversity.progadvr.desc3=Rocket science isn't exactly easy, so it won't be until about &6late mid-game&r, maybe early late-game before you'll be exploring the stars.
+ftbuniversity.progadvr.title=高级火箭
+ftbuniversity.progadvr.subtitle=星际技术
+ftbuniversity.progadvr.desc1=&e高级火箭&r 是专门用于 &6太空旅行&r的模组，而且它真的很酷。
+ftbuniversity.progadvr.desc2=就其本身而言，该模组真的是很基础，所有内容都是随机生成的。 我们已经仔细研究并自己添加了自定义行星和小行星，以显示模组的功能。
+ftbuniversity.progadvr.desc3=火箭科学并不容易，所以直到大约 &6中后期&r才开始玩, 也许是在游戏后期初期，然后再探索星星。
 
-ftbuniversity.progrftd.title=RFTools Dimensions
-ftbuniversity.progrftd.subtitle=Dimension tech
-ftbuniversity.progrftd.desc1=&eRFTools Dimensions&r is an addon for RFTools that allows you to &6create your own dimensions&r to your liking.
-ftbuniversity.progrftd.desc2=These designer dimensions can be anything from a regular Overworld where everything is lit and monsters never spawn, to an infinite ocean made out of Hootch, to a void of spheres made out of Blocks of Diamond.
-ftbuniversity.progrftd.desc3=RFTools Dimension is &6&lEXTREMELY&r&6 late-game&r, as it requires a massive amount of RF for a dimension to run.
+ftbuniversity.progrftd.title=RFTools次元
+ftbuniversity.progrftd.subtitle=次元科技
+ftbuniversity.progrftd.desc1=&eRFTools 次元&r 是RFTools的附加组件，可让您根据您的喜好 &6创建自己的次元&r 。
+ftbuniversity.progrftd.desc2=这些次元的设计可以是常规的主世界，或者在这里，所有东西都被照亮，并且怪物从不产生，甚至到用烈酒制成的无限海洋，再到用钻石块制成的超平坦世界。
+ftbuniversity.progrftd.desc3=RFTools次元是 &6&l非常&r&6 后期&r, 因为要运行一个次元需要大量的RF。
 
-ftbuniversity.progenv.title=Environmental Tech
-ftbuniversity.progenv.subtitle=Environmental tech
-ftbuniversity.progenv.desc1=&eEnvironmental Tech&r is a tech mod that &6generates resources&r from RF, generate massive amounts of RF from the sun, and give yourself &6beacon-like effects anywhere&r in the world.
-ftbuniversity.progenv.desc2=Environmental Tech is a &6fairly late-game mod&6, though you can &6make the early tiers around late mid-game&r.
+ftbuniversity.progenv.title=环境科技
+ftbuniversity.progenv.subtitle=环保的科技
+ftbuniversity.progenv.desc1=&e环境科技&r 是一个用RF &6产生资源&r 的科技模组, 从太阳产生大量的RF, 给自己 &6布满世界各地的信标效果。
+ftbuniversity.progenv.desc2=环境科技 &6是一个蛮后期的模组&6, 虽然你可以 &6在游戏中期制作一些初阶机器&r.
 
 ftbuniversity.progxnet.title=XNet
-ftbuniversity.progxnet.subtitle=Digital automation
-ftbuniversity.progxnet.desc1=&eXNet&r is dedicated to &6automation&r, transferring items, liquids, energy, and information. XNet is also &6amazingly performant&r, causing little to no lag.
-ftbuniversity.progxnet.desc2=XNet requires RF but is rather cheap, so it can be used fairly early.
+ftbuniversity.progxnet.subtitle=数字自动化
+ftbuniversity.progxnet.desc1=&eXNet&r 致力于 &6自动化&r, 传输物品，液体，能量和信息. XNet&6优化很好&r, 导致几乎没有卡顿。
+ftbuniversity.progxnet.desc2=XNet 需要RF，但价格便宜, 因此可以相当早地使用它。
 
-ftbuniversity.progintd.title=Integrated Dynamics
-ftbuniversity.progintd.subtitle=Tree... crystal automation?
-ftbuniversity.progintd.desc1=&eIntegrated Dynamics&r is an &6incredibly complex&r and powerful mod, dedicated to &6automation&r.
-ftbuniversity.progintd.desc2=Integrated Dynamics' most important feature is the ability to &6read information about the world&r (or things within it), and then &6do things based on that&r.
+ftbuniversity.progintd.title=集成动力
+ftbuniversity.progintd.subtitle=树...晶体自动化？
+ftbuniversity.progintd.desc1=&e集成动力&r 是一个 &6难以置信的复杂&r 和强大的模组,致力于 &6自动化&r。
+ftbuniversity.progintd.desc2=Integrated Dynamics最重要的功能是 &6阅读有关世界的信息&r (或里面的东西),接着 &6根据那个做事&r.
 
 ##Automation
-ftbuniversity.automationchap.title=Automation
+ftbuniversity.automationchap.title=自动化
 
 ###Logistics Pipes
 ###Many thanks to reddit user /u/suchtie for their guide here: https://www.reddit.com/r/feedthebeast/comments/c97545/guide_a_short_introduction_to_logistics_pipes_for/
-ftbuniversity.logisticspipeschap.title=Logistics Pipes
+ftbuniversity.logisticspipeschap.title=物流管道
 
 ftbuniversity.unroutedpipes.title=
 ftbuniversity.unroutedpipes.subtitle=Make Unrouted Transport Pipes
