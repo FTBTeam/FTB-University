@@ -390,12 +390,12 @@ ftbuniversity.logsupplier.desc6=• &6部分&r 移除任何物品时，它会创
 
 ftbuniversity.logrequest.title=谁需要数字存储？
 ftbuniversity.logrequest.subtitle=制作请求物流管道
-ftbuniversity.logrequest.desc1=&b请求物流管道&r 将允许你从系统内的源手动请求任何项目。如果管道连接到物品栏，则请求的物料将输入。否则，这些物品将被吐向世界。
+ftbuniversity.logrequest.desc1=&b请求物流管道&r 将允许你从系统内的源手动请求任何物品。如果管道连接到物品栏，则请求的物料将输入。否则，这些物品将被吐向世界。
 ftbuniversity.logrequest.desc2=你可以用手打开此管道的GUI。
 
 ftbuniversity.logordreq.subtitle=制作远程请求物流管道
 ftbuniversity.logordreq.desc1=通过潜行右键单击 &b远程请求器&r 可以连接到 &b远程请求物流管道&r 。
-ftbuniversity.logordreq.desc2=然后，你可以右键所连接的远程请求器，并可以将其像请求物流管道一样使用，并且这些项目将被发送到所连接的物品栏。
+ftbuniversity.logordreq.desc2=然后，你可以右键所连接的远程请求器，并可以将其像请求物流管道一样使用，并且这些物品将被发送到所连接的物品栏。
 ftbuniversity.logordreq.desc3=如果将其连接到末影箱，则可以从任何地方从基地索取物品，然后使用末影背包将其取出。
 
 ftbuniversity.logfire.subtitle=制作物流防火墙管道
@@ -405,124 +405,124 @@ ftbuniversity.logfire.desc2=你可以设置36个物品的黑名单/白名单, �
 ftbuniversity.loginvsyscon.subtitle=制作物流网络连接器
 ftbuniversity.loginvsyscon.desc1=你可以使用一对 &b物流网络连接器&r 各个管道系统无线连接在一起。
 ftbuniversity.loginvsyscon.desc2=打开管道的GUI并单击 &6更改&r 在顶部设置频道。 请点击 &6新建&r 创建一个频道，点击频道，然后 &6选择&r 连接到它。同一通道上的所有系统都将连接。
-ftbuniversity.loginvsyscon.desc3=如果一端的项目试图传递到另一端，则它将被发送到放置管道的物品栏中。你应该使用一些非物流管道方法将项目从该物品移动到所连接的管道所在的物品栏。
+ftbuniversity.loginvsyscon.desc3=如果一端的物品试图传递到另一端，则它将被发送到放置管道的物品栏中。你应该使用一些非物流管道方法将物品从该物品移动到所连接的管道所在的物品栏。
 ftbuniversity.loginvsyscon.desc4=&6末影箱&r是连接它们的最简单方法。
 
 ftbuniversity.craftlogi.title=简单的物品自动合成
 ftbuniversity.craftlogi.subtitle制作一套物流管道的自动合成
-ftbuniversity.craftlogi.desc1=The &bCrafting Logistics Pipe&r can be placed on a block and be set a recipe, and &6the output item will be show up in Request Pipes/Tables&r.
-ftbuniversity.craftlogi.desc2=You can connect it to a &bLogistics Crafting Table&r, then set the recipe inside there. Then, open the Pipe's GUI and click &6Import&r to automatically set the recipe there. You can then request the resulting item and the ingredients will be sent to the Table, and then the item will be sent to you.
-ftbuniversity.craftlogi.desc3=Nested recipes work; if you have a recipe for Logs→Planks, and Planks→Chests, you can make Chests from Logs. Any excess items will either jam or be sent back into the system, as if they were just added.
-ftbuniversity.craftlogi.desc4=If the machine it's placed on has separate input and output sides, &6see the Satellite Logistics Pipe quest&r.
+ftbuniversity.craftlogi.desc1=The &b合成物流管道&r 可以放在一个方块上并设置一个合成表，并且 &6输出物品将显示在“请求管道”中&r.
+ftbuniversity.craftlogi.desc2=你可以将其连接到 &b物流合成桌&r, 然后在里面设置合成。然后，打开管道的GUI并单击 &6导入&r 在那里自动设置配方。然后，你可以请求合成的物品，并将材料发送到合成台，然后将该物品发送给你。
+ftbuniversity.craftlogi.desc3=嵌套食谱有效；如果你有原木→木板和木板→箱子的食谱，则可以从原木制作箱子。任何多余的物品将发送回系统，就像它们刚刚被添加一样。
+ftbuniversity.craftlogi.desc4=如果放置在其上的机器需要具有单独的输入和输出侧， &6查看卫星物流管道任务&r。
 
-ftbuniversity.craftlogi2.title=The More You Know
-ftbuniversity.craftlogi2.subtitle=The other quest ran out of room, so...
-ftbuniversity.craftlogi2.desc1=Since you can only have one crafting recipe per pipe/table, you will likely end up with a wall of them. Best to dedicate the space now. If you have multiple recipes that give the same item, it will try using the &6highest priority one first&r.
-ftbuniversity.craftlogi2.desc2=You can connect it to a Furnace and have the recipe be Sand input, Glass output, and when you request Glass it will send the Sand to the Furnace to be smelted, then pull
+ftbuniversity.craftlogi2.title=你知道的越多
+ftbuniversity.craftlogi2.subtitle=另一个任务用完了空间，所以...
+ftbuniversity.craftlogi2.desc1=由于每个管道/桌子只能有一个合成配方，因此你最终可能会遇到一堵墙。现在最好奉献空间。如果你有多个提供相同物品的食谱，它将尝试使用 &6最高优先度&r.
+ftbuniversity.craftlogi2.desc2=你可以将其连接到熔炉上，配方为沙子输入，玻璃输出，当你请求玻璃时，它将沙子送入熔炉进行熔炼，然后拉出
 
-ftbuniversity.fuzcraftlog.subtitle=Make a Logistics Fuzzy Crafting Table
-ftbuniversity.fuzcraftlog.desc1=The &bLogistics Fuzzy Crafting Table&r allows you to craft items using non-specific ingredients. For instance, making Sticks out of any type of Planks.
-ftbuniversity.fuzcraftlog.desc2=&6Hover over the ingredients&r to toggle whether or not it should use the &bore dictionary&r, &bignore damage&r, &bignore NBT&r, and/or... &owhatever &bore prefix&r is.
-ftbuniversity.fuzcraftlog.desc3=The Crafting Logistics Pipe needs to have a &6Fuzzy Upgrade&r for it to actually send those items to the Table.
+ftbuniversity.fuzcraftlog.subtitle=制作模糊物流合成台
+ftbuniversity.fuzcraftlog.desc1=&b模糊物流合成台&r 允许你使用非特定物品制作。例如，使用任何类型的木板制作木棒。
+ftbuniversity.fuzcraftlog.desc2=&6将鼠标悬停在材料上&r 切换是否应使用 &b矿辞&r, &b忽略伤害&r, &b忽略NBT&r, 和/或... &o任何 &b矿物前缀&r 。
+ftbuniversity.fuzcraftlog.desc3=合成物流管道需要有一个 &6模糊升级&r 以便将这些物品实际发送到合成台。
 
-ftbuniversity.logcraftsign.subtitle=Make a Crafting Sign Creator
-ftbuniversity.logcraftsign.desc1=You can use the &bCrafting Sign Creator&r on any side of a Crafting Logistics Pipe to place a sign on it, which will &6display which item it crafts&r.
-ftbuniversity.logcraftsign.desc2=It can place 250 signs. You can use it on an existing sign to remove it, adding one back to the Creator.
+ftbuniversity.logcraftsign.subtitle=制作合成告示牌创建器
+ftbuniversity.logcraftsign.desc1=你可以使用 &b合成告示牌创建器&r 在合成物流管道的任何一侧上放置一个告示牌，会&6显示它制作的物品&r.
+ftbuniversity.logcraftsign.desc2=它可以放置250个标志。你可以在现有标志上使用它来将其删除, 向创建器回收一个。
 
-ftbuniversity.satlog.subtitle=Make a Satellite Logistics Pipe
-ftbuniversity.satlog.desc1=The Crafting Logistics Pipe must be placed on the side of the machine that it can pull the finished item from. If that side cannot also &oaccept&r items, place a &bSatellite Logistics Pipe&r where it can.
-ftbuniversity.satlog.desc2=Open its GUI to give it a name, and then in the Crafting Pipe you can click &6Select&r and then choose a Satellite Pipe on the same system to send the highlighted items there.
-ftbuniversity.satlog.desc3=The &6Advanced Satellite Upgrade&r can allow you to set all 9 slots to go to Satellite Pipes. You can also set them to to go to separate Satellite Pipes, if you wish.
+ftbuniversity.satlog.subtitle=制作卫星物流管道
+ftbuniversity.satlog.desc1=合成物流管必须放在可以拉出成品的面。如果那边也不能&o输入&r 物品，将&b卫星物流管道&r放在可以的位置。
+ftbuniversity.satlog.desc2=打开其GUI为其命名，然后在合成管道中单击 &6选择&r 然后选择同一系统上的“卫星管道”。
+ftbuniversity.satlog.desc3=&6先进的卫星升级&r 可以让你设置所有9个插槽都转到“卫星管道”。 如果需要，还可以将它们设置为转到单独的“卫星管道”。
 
 ftbuniversity.logsys.
 
-ftbuniversity.logreqtable.title=This Quest Has a Long Name so It Has Room for All the Text
-ftbuniversity.logreqtable.subtitle=Make a Logistics Request Table
-ftbuniversity.logreqtable.desc1=The &bLogistics Request Table&r can request and store items, and has a built-in crafting table.
-ftbuniversity.logreqtable.desc2=You can set a crafting recipe then click one of the [+] buttons to request the items required for it.
-ftbuniversity.logreqtable.desc3=You can insert a Logistics Disk into the black-outlined slot, then click the &6Disk&r button at the bottom right. There, you can create macros (item sets) to request all at once.
-ftbuniversity.logreqtable.desc4=Click &6Add/Edit&r to create a macro. It will show all the items currently available, and you can click from them to add them to the macro. Left-click to increase the amount given by one, right-click to decrease by one.
-ftbuniversity.logreqtable.desc5=Name and save the macro, then it'll be added to the Disk's macro list. There you can select macros from the list and click &6Request&r to request all the items in the macro.
-ftbuniversity.logreqtable.desc6=Items that are placed into the &6Sort&r slot will be sent back into the system to be sorted.
+ftbuniversity.logreqtable.title=此任务名字很长，因此有足够的空间容纳所有文字
+ftbuniversity.logreqtable.subtitle=制作物流请求台
+ftbuniversity.logreqtable.desc1=&b物流请求台&r可以请求和存储物品，并且具有内置的合成台。
+ftbuniversity.logreqtable.desc2=你可以设置合成配方，然后单击[+]按钮之一以请求所需的物品。
+ftbuniversity.logreqtable.desc3=你可以将物流磁盘插入黑色轮廓的插槽中，然后单击 &6磁碟&r右下角的按钮。在这里，你可以创建宏（物品集）以一次全部请求。
+ftbuniversity.logreqtable.desc4=请点击 &6添加/编辑&r 创建一个宏。它将显示当前可用的所有物品，你可以单击它们将其添加到宏中。左键单击增加一个给定的数量，右键单击减小一个给定的数量。
+ftbuniversity.logreqtable.desc5=命名并保存宏，然后将其添加到磁盘的宏列表中。您可以在此处从列表中选择宏，然后单击&6请求&r以请求宏中的所有物品。
+ftbuniversity.logreqtable.desc6=放在&6分类&r插槽中的物品将被发送回系统中进行排序。
 
 ####Modules
-ftbuniversity.logchass1.title=Modular Logistics Pipes
-ftbuniversity.logchass1.subtitle=Make a Logistics Chassis Mk1
-ftbuniversity.logchass1.desc1=&bLogistics Chassis&r can hold &bModules&r, which can serve the same function as certain Logistics Pipes. Open the Chassis' GUI to insert a Module.
-ftbuniversity.logchass1.desc2=Not all Modules have a Pipe equivalent, and not all Pipes have a Module equivalent.
-ftbuniversity.logchass1.desc3=The &bLogistics Chassis Mk1&r can hold &6one Module&r.
-ftbuniversity.logchass1.desc4=Chassis are routed pipes, the quest's just over here for symmetry ;)
+ftbuniversity.logchass1.title=模块化物流管道
+ftbuniversity.logchass1.subtitle=制作物流框架Mk1
+ftbuniversity.logchass1.desc1=&b物流框架&r 能装上 &b模块&r，其功能与某些物流管道相同。打开框架的GUI插入模块。
+ftbuniversity.logchass1.desc2=并非所有模块都有等效的管道，也不是所有管线都有等效的模块。
+ftbuniversity.logchass1.desc3=&b物流框架 Mk1&r 能装上 &6一个模块&r.
+ftbuniversity.logchass1.desc4=框架是路由管道，任务对称性的追求就在这里;）
 
-ftbuniversity.logchass2.subtitle=Make a Logistics Chassis Mk2
-ftbuniversity.logchass2.desc=The &bLogistics Chassis Mk2&r can hold &6two Modules&r.
+ftbuniversity.logchass2.subtitle=制作物流框架Mk2
+ftbuniversity.logchass2.desc=&b物流框架 Mk2&r 能装上 &6两个模块&r.
 
-ftbuniversity.logchass3.subtitle=Make a Logistics Chassis Mk3
-ftbuniversity.logchass3.desc=The &bLogistics Chassis Mk3&r can hold &6three Modules&r.
+ftbuniversity.logchass3.subtitle=制作物流框架Mk3
+ftbuniversity.logchass3.desc=&b物流框架 Mk3&r 能装上 &6三个模块&r.
 
-ftbuniversity.logchass4.subtitle=Make a Logistics Chassis Mk4
-ftbuniversity.logchass4.desc=The &bLogistics Chassis Mk4&r can hold &6four Modules&r.
+ftbuniversity.logchass4.subtitle=制作物流框架Mk4
+ftbuniversity.logchass4.desc=&b物流框架 Mk4&r 能装上 &6四个模块&r.
 
-ftbuniversity.itemsinkmodule.title=Fill by Item
-ftbuniversity.itemsinkmodule.subtitle=Make an ItemSink Module
-ftbuniversity.itemsinkmodule.desc1=The &bItemSink Module&r is the Module equivalent of the Basic Logistics Pipe. However, if its inventory is full, items will not even try to enter, and thus &6won't be spit out into the world&r.
-ftbuniversity.itemsinkmodule.desc2=Click the [!] next to the installed Module to open its GUI to set a &6whitelist of up to 9 items&r, or enable it as a default route.
+ftbuniversity.itemsinkmodule.title=被物品填满
+ftbuniversity.itemsinkmodule.subtitle=制作一个收纳模块
+ftbuniversity.itemsinkmodule.desc1=The &b收纳模块&r 是基本物流管道的等效模块。但是，如果其物品栏已满，则物品甚至都不会尝试输入，因此 &6不会被吐向世界&r.
+ftbuniversity.itemsinkmodule.desc2=单击已安装模块旁边的[!]以打开其GUI来设置 &6最多9个物品的白名单&r,或将其启用为默认路由。
 
-ftbuniversity.modpolysink.title=Fill by Mod
-ftbuniversity.modpolysink.subtitle=Make a Mod Based ItemSink Module
-ftbuniversity.modpolysink.desc1=The &bMod Based ItemSink Module&r's whitelist works based on the &6mod the item is from&r, rather than the specific item itself.
-ftbuniversity.modpolysink.desc2=Open its GUI then add an item to the top slot. Click &6Add&r to add that item's mod to the whitelist. Similarly, click a mod from the list and click &6Remove&r to remove it.
+ftbuniversity.modpolysink.title=用模组分类
+ftbuniversity.modpolysink.subtitle=制作一个基于物品所属模组的收纳模块
+ftbuniversity.modpolysink.desc1=&b基于物品所属模组的收纳模块&r的白名单基于物品来自&6的模组&r而不是特定物品本身。
+ftbuniversity.modpolysink.desc2=打开其GUI，然后在顶部插槽中添加一个物品。请点击 &6创建&r 将该物品的模组添加到白名单。同样，从列表中单击一个模组，然后单击&6移除&r将其删除。
 
-ftbuniversity.oredictsink.title=Fill by Item Type
-ftbuniversity.oredictsink.subtitle=Make an OreDict ItemSink Module
-ftbuniversity.oredictsink.desc1=The &bOreDict ItemSink Module&r's whitelist works based on the &6ore dictionary&r, rather than specific items.
-ftbuniversity.oredictsink.desc2=Open its GUI then add an item to the top slot, and the item's ore dictionary name will appear next to it. You can use the buttons to scroll if there are too many to fit.
-ftbuniversity.oredictsink.desc3=Click a name off the top list to add it to the whitelist. Click a name off the whitelist on the bottom to remove it.
+ftbuniversity.oredictsink.title=用物品种类分类
+ftbuniversity.oredictsink.subtitle=制作一个基于矿物辞典的收纳模块
+ftbuniversity.oredictsink.desc1&b基于矿物辞典的收纳模块&r的白名单基于 &6矿辞&r，而不是特定物品。
+ftbuniversity.oredictsink.desc2=打开其GUI，然后将一个物品添加到顶部插槽，该物品的矿辞名称将显示在其旁边。如果有太多无法容纳的内容，则可以使用按钮进行滚动。
+ftbuniversity.oredictsink.desc3=单击顶部列表中的名称，将其添加到白名单中。单击底部白名单上的名称将其删除。
 
-ftbuniversity.polysink.title=POLYMORPHIC SENTIENT &mROCKS&r PIPES!
-ftbuniversity.polysink.subtitle=Make a Polymorphic ItemSink Module
-ftbuniversity.polysink.desc=The &bPolymorphic ItemSink Module&r works like a regular ItemSink Module, except it only accepts items that are already in the inventory.
+ftbuniversity.polysink.title=多态性 &m岩石&r 管道!
+ftbuniversity.polysink.subtitle=制作一个同类物品收纳模块
+ftbuniversity.polysink.desc=&b同类物品收纳模块&r像常规的收纳模块一样工作，除了它只接受物品栏中已经存在的物品。
 
-ftbuniversity.tabsup.title=Green is Not a Creative Color
-ftbuniversity.tabsup.subtitle=Make a Creative Tab Based ItemSink Module
-ftbuniversity.tabsup.desc1=The &bCreative Tab Based ItemSink Module&r's whitelist works based on the creative mode tab the item is in, rather than the specific item itself.
-ftbuniversity.tabsup.desc2=Open its GUI then add an item to the top slot. Click &6Add&r to add that item's creative tab to the whitelist. Similarly, click a creative tab from the list and click &6Remove&r to remove it.
-ftbuniversity.tabsup.desc3=This is useful since you could make an inventory that automatically fills up with building blocks, since there's a creative tab for those.
+ftbuniversity.tabsup.title=绿色不是有创意的色彩
+ftbuniversity.tabsup.subtitle=制作一个基于创造模式物品栏标签的物品收纳模块
+ftbuniversity.tabsup.desc1=&b基于创造模式物品栏标签的物品收纳模块&r的白名单根据物品所在的创造模式标签而不是特定物品本身来工作。
+ftbuniversity.tabsup.desc2=打开其GUI，然后在顶部插槽中添加一个物品。点击&6添加&r将该物品的创造标签添加到白名单中。同样，从列表中单击创造标签，然后单击&6删除&r将其删除。
+ftbuniversity.tabsup.desc3=这很有用，因为您可以创建一个自动填充构建筑方块的清单，因为这些都有一个相同的创造标签。
 
-ftbuniversity.provmod.subtitle=Make a Provider Module
-ftbuniversity.provmod.desc1=The &bProvider Module&r is the Module equivalent of the Provider Logistics Pipe.
-ftbuniversity.provmod.desc2=It will make the system treat its inventory as a source, &6allowing other pipes to pull from it&r. This can be a chest, machine, or even an ME Interface or Drawer Controller!
-ftbuniversity.provmod.desc3=Open the Provider Module's GUI to set a blacklist or whitelist. You can also set it to keep the &6first and/or last stacks&r of the inventory, keep &61 item per stack&r, or keep &61 item per item type&r. 
+ftbuniversity.provmod.subtitle=制作提供模块
+ftbuniversity.provmod.desc1=&b提供模块&r 是提供物流管道的等效模块。
+ftbuniversity.provmod.desc2=它将使系统将其库存视为来源，&6允许其他管道从中拉出&r。这可以是箱子，机器，甚至是ME接口或抽屉控制器！
+ftbuniversity.provmod.desc3=打开提供物流模块的GUI来设置黑名单或白名单。 你也可以设置它保持物品栏的 &6第一组和/或最后一组&r , 保持 &6每一组一个物品&r, 或保持 &6每一种物品一个&r. 
 
-ftbuniversity.terminus.title=Overflow
-ftbuniversity.terminus.subtitle=Make a Terminus Module
-ftbuniversity.terminus.desc1=The &bTerminus Module&r will &6catch items that have nowhere else to go&r, not including default routes. It has a whitelist in its GUI to choose which items will be sent there as overflow.
-ftbuniversity.terminus.desc2=If you have a Drawer full of Cobblestone connected to an ItemSink Module or a Basic Logistics Pipe, the Cobblestone will have nowhere to go, clogging the input chest or popping out into the world.
-ftbuniversity.terminus.desc3=However, if you have a Terminus Module with Cobblestone in its whitelist, the Cobblestone will move there instead. &6It's best to have a Trash Can or something similar here, so the overflow doesn't overflow.&r
+ftbuniversity.terminus.title=溢出
+ftbuniversity.terminus.subtitle=制作终结模块
+ftbuniversity.terminus.desc1=The &b终结模块&r 将 &6捕捉无处可去的物品&r, 不包括默认路由。它在其GUI中有一个白名单，可以选择将哪些物品作为溢出发送到那里。
+ftbuniversity.terminus.desc2=如果您将装满鹅卵石的抽屉连接到收纳模块或基本物流管道，则鹅卵石将无处可去，堵塞了输入箱或炸出了世界。
+ftbuniversity.terminus.desc3=但是，如果白名单中有一个带有鹅卵石的终结模块，则鹅卵石将移至那里。 ＆6最好在这里有一个垃圾桶或类似的东西，以免溢出不会溢出。＆r
 
-ftbuniversity.passsup.subtitle=Make a Passive Supplier Module
-ftbuniversity.passsup.desc1=The &bPassive Supplier Module&r works somewhat similarly to the ItemSink Module, with some extra options. &6It will not actively request items, but will allow items to enter it based on its whitelist&r.
-ftbuniversity.passsup.desc2=The Passive Supplier Module will &6try to keep the specific amount of each item&r in the whitelist. If you click half a stack of an item into it, it will stop requesting once half a stack of that item is in the inventory.
-ftbuniversity.passsup.desc3=You can also left/right-click the whitelist entry with the item to decrease/increase the amount by 1.
+ftbuniversity.passsup.subtitle=制作被动补给模块
+ftbuniversity.passsup.desc1=&b被动补给模块&r 的工作方式与收纳模块有点类似，但有一些额外的选择。&6它不会主动请求物品，但会允许物品根据其白名单进入&r.
+ftbuniversity.passsup.desc2=被动补给模块将 &6尽量保持每个物品的具体数量&r 在白名单中。如果您在其中单击一半堆叠的物品，则一旦库存中有一半堆叠的物品，它将停止请求。
+ftbuniversity.passsup.desc3=您也可以左/右键单击带有该物品的白名单条目，以将数量减少/增加1。
 
-ftbuniversity.actsup.subtitle=Make an Active Supplier Module
-ftbuniversity.actsup.desc1=The &bActive Supplier Module&r is the module equivalent of the Supplier Logistics Pipe.
-ftbuniversity.actsup.desc2=Open the Active Supply Module's GUI to set a list of up to 9 items to keep stocked from Provider Pipes/Modules. If you place a stack of 32, it will try to keep it at 32 of that item in the inventory.
-ftbuniversity.actsup.desc3=• If it is set to &6Bulk 50&r, it will only retrieve more when the inventory is at 50%% of the specified amount.
-ftbuniversity.actsup.desc4=• &6Bulk 100&r is &nSUPPOSED&r to only refill when there's no remaining items, but it's bugged and works like Partial mode.
-ftbuniversity.actsup.desc5=• &6Infinite&r will make it pull regardless of how much is already in the inventory.
-ftbuniversity.actsup.desc6=• &6Partial&r will pull when any amount is removed.
+ftbuniversity.actsup.subtitle=制作主动补给模块
+ftbuniversity.actsup.desc1=&b主动补给模块&r是补给物流管道的等效模块。
+ftbuniversity.actsup.desc2=打开主动补给模块的GUI，以设置最多9个物品的列表，以保持补给管道/模块的库存。如果您放置32个物品，它将尝试将其保持在库存中32个该物品。
+ftbuniversity.actsup.desc3=• 如果设置为 &6封装50&r, 只有在物品量为指定的50 %%时，它才会创建补给请求。
+ftbuniversity.actsup.desc4=• &封装100&r 是 &n应该&r 仅在没有剩余物品时重新装满，但是它存在问题，并且运行是像是部分模式。
+ftbuniversity.actsup.desc5=• &6无限&r 不管物品栏中已经有多少东西，它都会创建补给请求。
+ftbuniversity.actsup.desc6=• &6部分&r 移除任何物品时，它会创建补给请求。
 
-ftbuniversity.extractmodule.subtitle=Make an Extractor Module
-ftbuniversity.extractmodule.desc1=The &bExtract Module&r extracts items out of the inventory its on and &6sends them to any valid destination&r.
-ftbuniversity.extractmodule.desc2=You can set it to extract items from any side of the block it's connected to, not only the side it's on.
+ftbuniversity.extractmodule.subtitle=制作提取模块
+ftbuniversity.extractmodule.desc1=&b提取模块&r 从物品栏中提取物品并将其发送到任何有效的目的地。
+ftbuniversity.extractmodule.desc2=您可以将其设置为从与其连接的块的任何一侧提取物品，而不仅仅是从其所在的一侧提取物品。
 
-ftbuniversity.advextractmod.subtitle=Make an Advanced Extractor Module
-ftbuniversity.advextractmod.desc1=The &bAdvanced Extractor Module&r works like the Extract Module, except it has a &69-slot whitelist/blacklist&r.
-ftbuniversity.advextractmod.desc2=The &6Sneaky&r button allows you to choose which side of the inventory to extract from, instead of only the side it's on.
+ftbuniversity.advextractmod.subtitle=制作高级提取模块
+ftbuniversity.advextractmod.desc1=&b高级提取模块&r像提取模块一样工作，除了它有一个 &69槽的白名单/黑名单&r.
+ftbuniversity.advextractmod.desc2=它允许您选择要从物品栏中提取内容的任何一侧，而不只是其所在的那一侧。
 
-ftbuniversity.quicksort.subtitle=Make a QuickSort Module
-ftbuniversity.quicksort.desc1=The &bQuickSort Module&r works like an Extractor Module, except it only sends items that have a non-default destination.
-ftbuniversity.quicksort.desc2=That means you can dump everything into the inventory it's on, and &6only items that have a set destination will be extracted&r.
+ftbuniversity.quicksort.subtitle=制作一个快速分拣模块
+ftbuniversity.quicksort.desc1=&b快速分拣模块&r 就像提取模块一样工作，除了它仅发送具有非默认目的地的物品。
+ftbuniversity.quicksort.desc2=这意味着您可以将所有物品丢到一个物品栏中，然后&6仅提取具有设定目的地的项目&r.
 
 ftbuniversity.enchsink.subtitle=Make an Enchantment Sink Module
 ftbuniversity.enchsink.desc1=The &bEnchantment Sink Module&r works like an ItemSink Module, except for &6enchanted items&r.
