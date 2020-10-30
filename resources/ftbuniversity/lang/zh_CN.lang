@@ -592,96 +592,96 @@ ftbuniversity.logsneakcomb.desc=The &b多选连接升级&r 允许您一次安装
 ###XNet
 ftbuniversity.xnetchapter.title=XNet
 
-ftbuniversity.xnetbook.subtitle=Make the XNet Manual
-ftbuniversity.xnetbook.desc=The &bXNet Manual&r is &eXNet&r's guidebook, and has information on pretty much everything from the mod.
+ftbuniversity.xnetbook.subtitle=制作XNet手册
+ftbuniversity.xnetbook.desc=The &bXNet手册&r 是 &eXNet&r的指南, 并拥有有关模组的几乎所有内容。
 
-ftbuniversity.xncontroller.subtitle=制作一个 Controller
-ftbuniversity.xncontroller.desc1=A &6network&r is defined by the machines connected to the Controller via Cables and Connectors.
-ftbuniversity.xncontroller.desc2=Every network requires exactly one &bController&r, no more, no less.
-ftbuniversity.xncontroller.desc3=The Controller is where the input/output of Connectors on the network are set, and is also where &6power&r is input.
+ftbuniversity.xncontroller.subtitle=制作一个控制器
+ftbuniversity.xncontroller.desc1=&6一个网络&r 是由由通过网络线缆和连接器连接到控制器的机器定义。
+ftbuniversity.xncontroller.desc2=每个网络都需要一个 &b控制器&r, 不多不少。
+ftbuniversity.xncontroller.desc3=控制器是在网络上设置连接器的输入/输出的地方，也是在此处输入 &6能源&r 。
 
-ftbuniversity.xnconnector.title=Connectors
-ftbuniversity.xnconnector.subtitle=制作一个 Connector
-ftbuniversity.xnconnector.desc1=&bConnectors&r &6connect adjacent blocks to the network&r.
-ftbuniversity.xnconnector.desc2=A Connector must be placed &6on the Controller&r, and then another placed on any block you want to &6interface with&r.
-ftbuniversity.xnconnector.desc3=Connectors come in four colors, which only connect to Network Cables of the same color.
-ftbuniversity.xnconnector.desc4=Connectors have a GUI that allows you to &6toggle connections to each side&r. That way, if it's touching two machines, you can set it to only connect to one. You can also &6rename it&r there.
+ftbuniversity.xnconnector.title=连接器
+ftbuniversity.xnconnector.subtitle=制作一个 连接器
+ftbuniversity.xnconnector.desc1=&b连接器&r &6将相邻的方块连接到网络&r.
+ftbuniversity.xnconnector.desc2=必须放置一个连接器&6在控制器上&r, 然后在您要放置的任何块上放置另一个&6你要交互的方块&r.
+ftbuniversity.xnconnector.desc3=连接器有四种颜色，只能连接到相同颜色的网络电缆。
+ftbuniversity.xnconnector.desc4=连接器具有GUI，可让您&6切换到每一侧的连接&r。这样，如果它接触两台机器，则可以将其设置为仅连接到一台机器。你也可以在哪里&6重命名&r。
 
-ftbuniversity.advconnectors.title=Advanced Connectors
-ftbuniversity.advconnectors.subtitle=制作一个 Advanced Connector
-ftbuniversity.advconnectors.desc1=&bAvanced Connectors&r work like regular Connectors, but are generally faster and more powerful.
-ftbuniversity.advconnectors.desc2=Regular Connectors can only insert/extract from the side they are placed on, but Advanced Connectors can &6IO from any side of the block&r they're on.
-ftbuniversity.advconnectors.desc3=Regular Connectors, at maximum, can move &610,000RF/t&r and &61,000mB/t&r.
-ftbuniversity.advconnectors.desc4=Advanced Connectors, at maximum, can move &6100,000RF/t&r and &65,000mB/t&r.
+ftbuniversity.advconnectors.title=高级连接器
+ftbuniversity.advconnectors.subtitle=制作一个 高级连接器
+ftbuniversity.advconnectors.desc1=&b高级连接器&r 像常规连接器一样工作，但通常更快，更强大。
+ftbuniversity.advconnectors.desc2=普通连接器只能从其放置的一侧插入/抽出，而高级连接器可以在&6方块任何一侧的交互&r。
+ftbuniversity.advconnectors.desc3=常规连接器最多可以移动 &610,000RF/t&r 和 &61,000mB/t&r.
+ftbuniversity.advconnectors.desc4=高级连接器最多可以移动 &6100,000RF/t&r and &65,000mB/t&r.
 
-ftbuniversity.xnfacade.subtitle=制作一个 Facade
-ftbuniversity.xnfacade.desc=Click a &bFacade&r on a block, then on a Cable/Connector to make it look like that block.
+ftbuniversity.xnfacade.subtitle=制作一个 伪装方块
+ftbuniversity.xnfacade.desc=在一个方块上右键 &b伪装方块&r ，然后在电缆/连接器上使其看起来像那个方块。
 
-ftbuniversity.xncables.title=Network Cables
-ftbuniversity.xncables.subtitle=制作一个 Network Cable
-ftbuniversity.xncables.desc1=&bNetwork Cables&r are used to &6connect Connectors&r, and do nothing else.
-ftbuniversity.xncables.desc2=They come in &6four colors&r, which only connect to other Cables/Connectors of the same color.
-ftbuniversity.xncables.desc3=&6Sneaking while holding a Cable&r or Connector will show other Cables/Connectors placed in the world, even from behind walls.
+ftbuniversity.xncables.title=网络线缆
+ftbuniversity.xncables.subtitle=制作一个 网络线缆
+ftbuniversity.xncables.desc1=&b网络线缆&r 是用于 &6连接连接器&r,其他什么也不会做。
+ftbuniversity.xncables.desc2=他们有 &6四种颜色&r,仅连接到其他相同颜色的网络线缆/连接器。
+ftbuniversity.xncables.desc3=&6拿着网络线缆的时候潜行&r 将显示世界上放置的其他网络线缆/连接器，甚至从墙壁后面也可以看到。
 
-ftbuniversity.xnet1.title=Using the Network
-ftbuniversity.xnet1.subtitle=Learn how to use the Controller
-ftbuniversity.xnet1.desc1=Once you've used Connectors and Network Cables to connect the Controller to certain blocks, you can begin &6using the network&r.
-ftbuniversity.xnet1.desc2=In the Controller, there are &68 channels&r for each block on the network. Items, energy, etc can only &6move within a channel&r. Additionally, &6each channel can only transfer one thing&r.
-ftbuniversity.xnet1.desc3=At the top left, click on a channel number and choose what it will move. &6xnet.energy&r, &6xnet.item&r, and &6xnet.fluid&r should be fairly self-evident; the others will be explained elsewhere.
+ftbuniversity.xnet1.title=使用网络
+ftbuniversity.xnet1.subtitle=了解如何使用控制器
+ftbuniversity.xnet1.desc1=使用连接器和网络电缆将控制器连接到某些方块后，即可开始 &6使用网络&r.
+ftbuniversity.xnet1.desc2=在控制器中，对于网络上的每个方块有 &68个频道&r 。物品，能源等只能&6在一个频道内移动&r。另外， &6每个通道只能传送一种东西&r.
+ftbuniversity.xnet1.desc3=点击左上角的频道编号，然后选择要移动的频道。 &6xnet.energy&r, &6xnet.item&r, 和 &6xnet.fluid&r 应该是不言而喻的; 其他将在其他地方解释。
 
-ftbuniversity.xnet2.title=Automating a Smelter
-ftbuniversity.xnet2.subtitle=Go through an example automation setup
-ftbuniversity.xnet2.desc1=This quest will walk you through automating an Alloy Smelter, though the general idea can be transferred to any machines, really.
-ftbuniversity.xnet2.desc2=For now, set the first channel to &nxnet.energy&r and click &6Create&r. Give it a name if you want, then &6click on the first box to the right of the Generator&r on the left.
-ftbuniversity.xnet2.desc3=On the right, click &6Create&r. Click &6Ins&r so it swaps to &6Ext&r, so it pulls energy out of the Generator and into the channel. You can set the rate it pulls (yes, the tooltip is bugged, see the Advanced Connectors quest for the max rates), as well as the &6minimum RF&r in the generator before it starts extracting (which could be useful if you connect it to storage instead, so it stops if it goes below a certain amount).
-ftbuniversity.xnet2.desc4=Then, on the Alloy Smelter, &6create a new connection on the same channel&r. Keep is as &6Ins&r, and it will start filling the Smelter with energy from the generator. You can set the rate and max RF here as well.
-ftbuniversity.xnet2.desc5=Edit the &6second channel&r and set it to &nxnet.item&r. Extract items from the Chest and insert them into the Smelter. Item connections can have a &6blacklist/whitelist&r set, with NBT and all that good stuff. Just hover over all the buttons, the tooltips should explain.
-ftbuniversity.xnet2.desc6=On the &6third channel&r, also set to &nxnet.item&r, extract items from the Smelter and insert them into the Chest.
+ftbuniversity.xnet2.title=自动化冶炼厂
+ftbuniversity.xnet2.subtitle=进行示例自动化设置
+ftbuniversity.xnet2.desc1=该任务将引导您完成合金冶炼厂的自动化, 尽管实际上可以将思路转移到任何机器上。
+ftbuniversity.xnet2.desc2=现在，将第一个频道设置为 &nxnet.energy&r然后点击&6创建&r。给它起个名字，然后&6点击发电机右侧的第一个框&r 
+ftbuniversity.xnet2.desc3=在右侧，单击 &6创建&r。请点击 &6输入&r 令它变成 &6提取&r, 因此它将能量从发电机中拉出并进入通道。您可以设置它提取的速率（是的，工具提示有问题，请参见“高级连接器”中的最大速率），以及发电机开始提取之前发电机中的&6最低 RF&r（如果将其连接到存储，这可能会很有用相反，如果它低于一定量，它将停止。
+ftbuniversity.xnet2.desc4=然后，在合金熔炉上, &6在同一频道上创建新的连接&r。保持为&6输入&r,它将开始用发电机的能量向冶炼厂填充。您也可以在此处设置速率和最大RF。
+ftbuniversity.xnet2.desc5=编辑 &6第二频道&r 并将其设置为 &nxnet.item&r。从箱子中提取物品并将其输入冶炼厂。物品连接可以设置&6黑名单/白名单&r设置，并带有NBT这些好东西。只需将鼠标悬停在所有按钮上，即可有工具提示进行说明。
+ftbuniversity.xnet2.desc6=在 &6第三频道&r, 也设置为 &nxnet.item&r, 从冶炼厂提取物品并将其输入箱子。
 
-ftbuniversity.xnet3.title=Distribution Modes
-ftbuniversity.xnet3.subtitle=Learn about Distribution Modes
-ftbuniversity.xnet3.desc1=On item channels, you can toggle them between &6Priority&r and &6Roundrobin&r modes.
-ftbuniversity.xnet3.desc2=In &6Priority&r mode, items extracted will try to go to the destination with the &6highest priority first&r.
-ftbuniversity.xnet3.desc3=In &6Roundrobin&r mode, it will try to &6equally distribute&r the items over all destinations.
-ftbuniversity.xnet3.desc4=Fluid channels have the same, though Roundrobin is called &6Distribute&r instead.
+ftbuniversity.xnet3.title=分配方式
+ftbuniversity.xnet3.subtitle=了解分配模式
+ftbuniversity.xnet3.desc1=在物品频道上，您可以在 &6优先&r 和 &6轮循&r 模式中转换。
+ftbuniversity.xnet3.desc2=在 &6优先&r 模式, 提取的物品将首先尝试去&6优先级最高的目的地&r。
+ftbuniversity.xnet3.desc3=在 &6轮循&r 模式, 它将尝试 &6平均分配&r 所有目的地的物品。
+ftbuniversity.xnet3.desc4=流体通道具有相同的功能，尽管将轮循称为 &6分发&r 而已。
 
-ftbuniversity.xnlogic.title=Logic
-ftbuniversity.xnlogic.subtitle=Learn how to use Logic channels
-ftbuniversity.xnlogic.desc1=&bxnet.logic&r channels can have &6sensors&r to measure things (redstone signal strength, item count, etc).
-ftbuniversity.xnlogic.desc2=There are &65 sensor modes&r and &66 operators&r. Set the amount to compare with, and optionally the item/fluid to count.
-ftbuniversity.xnlogic.desc3=Set the &6output color&r. Every other connection of any type &6can be set to only work when a color is being enabled&r.
-ftbuniversity.xnlogic.desc4=So, you could have a sensor checking &6if the amount of RF in your storage is low&r, it &6outputs Red&r.
-ftbuniversity.xnlogic.desc5=A connector that moves fuel to a generator could then be &6set to only work if Red is eanbled&r, so it only works when the RF is low.
-ftbuniversity.xnlogic.desc6=Connectors can depend on up to 4 colors.
+ftbuniversity.xnlogic.title=逻辑
+ftbuniversity.xnlogic.subtitle=了解如何使用逻辑通道
+ftbuniversity.xnlogic.desc1=&bxnet.logic&r 频道可以有 &6感应器&r 测量事物（红石信号强度，物品数量等）。
+ftbuniversity.xnlogic.desc2=这模组有 &65种感应器模式&r 和 &6种运算符&r。设置要比较的数量，并选择要计算的项目/流体。
+ftbuniversity.xnlogic.desc3=设置 &6输出颜色&r。其他任何类型的连接&6可以设置为仅在启用颜色时起作用&r。
+ftbuniversity.xnlogic.desc4=因此，您可以进行传感器检查&6如果您的存储中的RF很低&r, 它 &6输出红色&r。
+ftbuniversity.xnlogic.desc5=然后，将燃料输送到发电机的连接器可以&6设置为仅在启用红色的情况下起作用&r,因此它仅在RF低时有效。
+ftbuniversity.xnlogic.desc6=连接器最多可依赖4种颜色.
 
-# Hey, fun fact
-# Literally no tutorials exist that explain Routers that are from 1.12.2, so I spent about half an hour with a building headache
-# trying to figure out what I was doing wrong, until I noticed that ALL THE TUTORIALS ARE FROM 2017
+# 嘿，有趣的事实
+# 从表面上看，没有教程可以解释1.12.2以后的路由器，所以我花了大约半小时来解决问题
+# 试图找出我做错了什么，直到我发现来自2017年的教程
 
-ftbuniversity.xnrouter.title=Routing
-ftbuniversity.xnrouter.subtitle=制作一个 Router
-ftbuniversity.xnrouter.desc1=A single network is limited to only 8 channels. This is good enough for most purposes, but not for everything.
-ftbuniversity.xnrouter.desc2=the &bRouter&r allows you to connect multiple networks to each other. Connect a Router to both networks.
-ftbuniversity.xnrouter.desc3=On the first network, &6create a named channel&r that, say, pulls items from a chest.
-ftbuniversity.xnrouter.desc4=On the second network, &6create another named channel&r that &oinserts items into&r a chest.
-ftbuniversity.xnrouter.desc5=In the Router, there is a list of all the channels in both networks. Find the two you want to connect, and &6give them the same name&r.
-ftbuniversity.xnrouter.desc6=Channels in different networks but connected with a Router will be &6treated as a single Channel&r. In this example, items will move from the chest in the first network to the chest in the second.
+ftbuniversity.xnrouter.title=路由
+ftbuniversity.xnrouter.subtitle=制作一个 路由器
+ftbuniversity.xnrouter.desc1=单个网络仅限于8个通道。对于大多数目的而言，这已经足够了，但并非所有目的。
+ftbuniversity.xnrouter.desc2=&b路由器&r 允许您将多个网络相互连接。将路由器连接到两个网络。
+ftbuniversity.xnrouter.desc3=在第一个网络上, &6创建一个命名频道&r 例如，从箱子里拉东西。
+ftbuniversity.xnrouter.desc4=在第二个网络上 &6创建另一个命名频道&r 来 &o将项目输入&r 另一个箱子。
+ftbuniversity.xnrouter.desc5=在路由器中，有两个网络中所有通道的列表。找到您要连接的两个，然后&6给他们起同样的名字&r。
+ftbuniversity.xnrouter.desc6=在不同网络中但与路由器连接的信道将会被 &6视为单个频道&r。在此示例中，物品将从第一个网络中的箱子移动到第二个网络中的箱子。
 
-ftbuniversity.xnrouter2.title=Multiple Routers
-ftbuniversity.xnrouter2.subtitle=Learn how to use multiple Routers
-ftbuniversity.xnrouter2.desc1=A single Router can connect up to 6 networks, but even that might not be enough.
-ftbuniversity.xnrouter2.desc2=Connect a Router to a single network, then use &bRouting Connectors&r and &bRouting Network Cable&r to connect it to another Router that's on a different network.
-ftbuniversity.xnrouter2.desc3=In any Router on a network with a named channel, &6publish it&r by giving it a Router-name. On any other Router connected via Routing Connectors, that channel will be shown in as a &6Remote Channel&r.
-ftbuniversity.xnrouter2.desc4=Just as you would with a single Router, give a Router-name to a channel on a different network that matches an existing Router-name of a Remote Channel. This will connect the two.
-ftbuniversity.xnrouter2.desc5=You can only have &632 published channels&r on a routing network. All networks on the routing network must be connected via the same Cables; if networks are connected like A-B-C, B can see A and C, but A cannot see B.
+ftbuniversity.xnrouter2.title=多个路由器
+ftbuniversity.xnrouter2.subtitle=了解如何使用多个路由器
+ftbuniversity.xnrouter2.desc1=单个路由器最多可以连接6个网络，但那可能还不够。
+ftbuniversity.xnrouter2.desc2=将路由器连接到单个网络，然后使用&b路由连接器&r 和 &b路由网线&r 将其连接到位于不同网络上的另一个路由器。
+ftbuniversity.xnrouter2.desc3=在具有命名通道的网络中的任何路由器中，通过给它一个路由器名称来 &6发布&r 。在通过路由连接器连接的任何其他路由器上，该通道将显示为&6远端频道&r.
+ftbuniversity.xnrouter2.desc4=就像使用单个路由器一样，将路由器名称指定给与远程通道的现有路由器名称匹配的其他网络上的通道。这将连接两者。
+ftbuniversity.xnrouter2.desc5=你只能在路由网络上有 &632个已发布的频道&r 。路由网络上的所有网络必须通过相同的电缆连接；如果像A-B-C这样连接网络，则B可以看到A和C，但是A不能看到B。
 
-ftbuniversity.wirelessrouter.subtitle=制作一个 Wireless Router setup
-ftbuniversity.wirelessrouter.desc1=The &bWireless Router&r can be connected to a Router network (using a Routing Connector etc), and then other Wireless Routers within range will have access to Remote Channels on the network.
-ftbuniversity.wirelessrouter.desc2=The Wireless Router needs RF, but also must have an Antenna placed on top. Directly above, place an &bAntenna Base&r, then place up to 2 &bAntennas&r.
-ftbuniversity.wirelessrouter.desc3=Having just one Antenna gives a range of &6100 blocks&r, costing &620RF/t per channel&r; having 2 Antennas gives a range of &6500 blocks&r, costing &650RF/t per channel&r.
-ftbuniversity.wirelessrouter.desc4=You can also place an &bAntenna Dish&r on the Base instead, giving it &6infinite range&r across dimensions, though it would cost &6500RF/t per channel&r.
-ftbuniversity.wirelessrouter.desc5=By default, Wireless Routers only connect to other Wireless Routers &6owned by the same player&r. In their GUI, you can set them to Public to allow anyone to access them.
-ftbuniversity.wirelessrouter.task=Antenna parts
+ftbuniversity.wirelessrouter.subtitle=制作一个 无线路由器设备
+ftbuniversity.wirelessrouter.desc1=&b无线路由器&r 可以连接到路由器网络（使用路由连接器等），然后范围内的其他无线路由器将可以访问网络上的远程频道。
+ftbuniversity.wirelessrouter.desc2=无线路由器需要RF，但还必须在其顶部放置一个天线。正上方，放置一个&b天线基板&r, 然后最多放置2个 &b天线&r。
+ftbuniversity.wirelessrouter.desc3=只有一个天线可以提供 &6100格&r的覆盖, 每个频道耗费 &620RF/t &r; 有2根天线可提供 &6500格&r的覆盖, 每个频道耗费 &650RF/t &r。
+ftbuniversity.wirelessrouter.desc4=您还可以放置一个 &b天线盘&r在基地上, 给它 &6无限范围&r 跨维度, 虽然每个频道会耗费 &6500RF/t &r.
+ftbuniversity.wirelessrouter.desc5=默认情况下，无线路由器仅连接到其他无线路由器 &6由同一玩家拥有&r。在其GUI中，您可以将它们设置为公共以允许任何人访问它们。
+ftbuniversity.wirelessrouter.task=天线零件
 
 ###Integrated Dynamics
 ftbuniversity.intdynchap.title=Integrated Dynamics
