@@ -1215,7 +1215,7 @@ ftbuniversity.mepattern.subtitle=制作一个 ME样板终端
 ftbuniversity.mepattern.desc1=The &bME样板终端&r 允许你在其制作网格中设置配方，然后 &6编码&r 到 &b空白样板&r。
 ftbuniversity.mepattern.desc2=你还可以设置是否允许配方使用矿石字典。
 ftbuniversity.mepattern.desc3=你也可以从只是做普通的合成的 &6合成样板&r,切换到 &6处理样板&r,它将物品从网络发送到外部进行处理。
-ftbuniversity.mepattern.desc4=使用处理模式，您可以设置 &69项输入&r 和 &63项输出&r, 以及每个的数量。
+ftbuniversity.mepattern.desc4=使用处理模式，你可以设置 &69项输入&r 和 &63项输出&r, 以及每个的数量。
 ftbuniversity.mepattern.desc5=编码样板放到ME接口中。对于合成样板，接口必须 &6面向分子重构机&r。对于处理样板，接口必须 &6对向任何物品栏&r, 只要最终结果可以从任何来源输入到网络中即可。
 
 ftbuniversity.craftingcpu.title=合成CPU
@@ -1230,8 +1230,8 @@ ftbuniversity.craftingmonitor.subtitle=制作一个合成监视器
 ftbuniversity.craftingmonitor.desc=The &b合成监视器&r 可以集成到合成CPU中，它将显示当前的任务。
 
 ftbuniversity.interfaceterminal.subtitle=制作一个ME接口终端
-ftbuniversity.interfaceterminal.desc1=&bME接口终端&r 将显示网络上的所有ME接口，使您可以远距离添加/删除配方。
-ftbuniversity.interfaceterminal.desc2=有趣的事实：您可以在铁砧上&6重命名接口&r！ 这样，您可以将重命名的接口对准箱子，然后从那里通过管道在外部自动执行配方，但是接口终端将显示其名称而不是“箱子”。
+ftbuniversity.interfaceterminal.desc1=&bME接口终端&r 将显示网络上的所有ME接口，使你可以远距离添加/删除配方。
+ftbuniversity.interfaceterminal.desc2=有趣的事实：你可以在铁砧上&6重命名接口&r！ 这样，你可以将重命名的接口对准箱子，然后从那里通过管道在外部自动执行配方，但是接口终端将显示其名称而不是“箱子”。
 
 ftbuniversity.molecularassemblar.subtitle=制作一个分子组装机
 ftbuniversity.molecularassemblar.desc1=&b分子组装机&r使用编码样板自动制作物品。
@@ -1243,14 +1243,14 @@ ftbuniversity.molecularassemblar.desc5=你可以加&6加速卡&r，使它更快�
 ftbuniversity.p2p1.title=点对点
 ftbuniversity.p2p1.subtitle=制作一个 P2P隧道
 ftbuniversity.p2p1.desc1=&bP2P&r 是AE2中较为复杂（而且绝对是最有用）的概念之一。
-ftbuniversity.p2p1.desc2=一对 &bP2P 隧道&r 看起来像是将某些事物从一端传送到另一端。您只能有一个输入隧道，但可以有多个输出隧道。
+ftbuniversity.p2p1.desc2=一对 &bP2P 隧道&r 看起来像是将某些事物从一端传送到另一端。你只能有一个输入隧道，但可以有多个输出隧道。
 ftbuniversity.p2p1.desc3=最常见的是 &bP2P隧道-ME&r,它 &6传送频道&r。
 ftbuniversity.p2p1.desc4=能够传送连接的功能异常强大。一对P2P隧道仅使用2个频道，但可以通过它们传输32个频道。
 ftbuniversity.p2p1.desc5=这意味着包含P2P隧道的一条密集线缆，可以承载32 * 32频道。那是 &61024 频道 &n通过单根线缆&r!
-ftbuniversity.p2p1.desc6=使用 &b存储卡&r潜行右键单击您希望作为输入的P2P隧道， 然后用鼠标右键单击所有输出以连接它们。
+ftbuniversity.p2p1.desc6=使用 &b存储卡&r潜行右键单击你希望作为输入的P2P隧道， 然后用鼠标右键单击所有输出以连接它们。
 ftbuniversity.p2p1.desc7=P2P频道 &无法传送P2P频道&r。
 
-ftbuniversity.p2p2.title=最大化您的网络
+ftbuniversity.p2p2.title=最大化你的网络
 ftbuniversity.p2p2.subtitle=了解什么使P2P &o复杂&r
 ftbuniversity.p2p2.desc1=为了使用到 &bP2P中的大部分&r, 你将需要创造&6两个不同的ME网络&r。
 ftbuniversity.p2p2.desc2=一个控制器是主网络, &6每个可见面连接到输入P2P隧道-ME&r。
@@ -1270,60 +1270,60 @@ ftbuniversity.p2pstyles.desc8=回到 &bME&r, 用ME线缆单击它。
 ftbuniversity.p2pstyles.task=所有P2P隧道
 
 ftbuniversity.meessentia.title=数字魔法
-ftbuniversity.meessentia.subtitle=制作一个 ME Essentia Storage Cell
-ftbuniversity.meessentia.desc1=The mod &eThaumic Energistics&r bridges the gap between Thaumcraft and AE2, allowing you to &6store Essentia digitally&r.
-ftbuniversity.meessentia.desc2=Essentia is stored in &bME Essentia Storage Cells&r.
-ftbuniversity.meessentia.task=Any ME Essentia Storage Cell
+ftbuniversity.meessentia.subtitle=制作一个ME 源质储存单元
+ftbuniversity.meessentia.desc1=&e神秘能量学&r 弥合神秘时代和AE2之间的差距, 允许你 &6以数字方式存储源质&r。
+ftbuniversity.meessentia.desc2=源质存储在 &b源质储存单元&r.
+ftbuniversity.meessentia.task=任何源质储存单元
 
-ftbuniversity.essentiaterminal.subtitle=制作一个 ME Essentia Terminal
-ftbuniversity.essentiaterminal.desc1=The &bME Essentia Terminal&r allows you to manually &6insert and extract Essentia&r from the ME network.
-ftbuniversity.essentiaterminal.desc2=To &6insert Essentia&r, grab a filled Phial in your cursor and click it anywhere in the top slots.
-ftbuniversity.essentiaterminal.desc3=To &6extrat Essentia, grab an empty Glass Phial in your cursor and click it on an Aspect.
+ftbuniversity.essentiaterminal.subtitle=制作一个ME源质终端
+ftbuniversity.essentiaterminal.desc1=The &bME源质终端&r 允许你手动自ME网络 &6输入和提取源质&r 。
+ftbuniversity.essentiaterminal.desc2=要 &6输入源质&r, 拿一个已填充的小瓶，然后在输入槽中的任意位置单击它。
+ftbuniversity.essentiaterminal.desc3=要 &6输出源质, 拿一个空的玻璃小瓶，然后点击要的元素。
 
-ftbuniversity.mearcane.subtitle=制作一个 Arcane Crafting Terminal
-ftbuniversity.mearcane.desc1=The &bArcane Crafting Terminal&r has all the combined functionality of an &6Arcane Workbench&r and &6ME Crafting Terminal&r.
-ftbuniversity.mearcane.desc2=It has &66 slots for primal Vis Crystals&r and can use &6atmospheric Vis&r.
-ftbuniversity.mearcane.desc3=You can install an &6Arcane Charging Upgrade&r to make it function as if a &6Workbench Charger&r was installed.
+ftbuniversity.mearcane.subtitle=制作一个奥术合成终端
+ftbuniversity.mearcane.desc1=&b奥术合成终端&r 具有 &6奥术合成台&r和&6ME合成终端&r的功能。
+ftbuniversity.mearcane.desc2=他有&6六个给vis水晶的槽&r并且使用 &6大气的Vis&r。
+ftbuniversity.mearcane.desc3=你可以安装 &6奥术充电升级&r使它像安装了&6工作台充电器&r 一样。
 
-ftbuniversity.essentiabus.title=Essentia IO
-ftbuniversity.essentiabus.subtitle=Make the various Essentia Busses
-ftbuniversity.essentiabus.desc=The &bME Essentia Import Bus&r, &bME Essentia Export Bus&r, and &bME Essentia Storage Bus&r all work exactly like the item forms, but using Essentia instead.
+ftbuniversity.essentiabus.title=源质接口
+ftbuniversity.essentiabus.subtitle=制作各种源质总线
+ftbuniversity.essentiabus.desc=&bME源质输入总线&r, &bME源质输出总线&r, 和 &bME源质存储总线&r 所有工作都与物品完全相同，但改用源质。
 ftbuniversity.essentiabus.task=ME Essentia Busse
 
-ftbuniversity.meinfusion.subtitle=制作一个 Essentia Infusion Provider
-ftbuniversity.meinfusion.desc=The &bEssentia Infusion Provider&r acts as a source of Essentia for the &6Infusion Altar&r, providing it access to the &6Essentia stored in your network&r.
+ftbuniversity.meinfusion.subtitle=制作一个源质注入提供器
+ftbuniversity.meinfusion.desc=&b源质注入提供器&r充当&6注入祭坛&r的源质来源,提供访问 &6存储在系统的源质&r的渠道。
 
-ftbuniversity.mecircetch.title=M.C. Etcher
-ftbuniversity.mecircetch.subtitle=制作一个 ME Circuit Etcher
-ftbuniversity.mecircetch.desc=The &bME Circuit Etcher&r can make Processors from their base ingredients, &6without making Printed Circuits&r. Additionally, each slot can have an entire stack rather than a single item.
+ftbuniversity.mecircetch.title=微芯片蚀刻机
+ftbuniversity.mecircetch.subtitle=制作一个 ME电路蚀刻机
+ftbuniversity.mecircetch.desc=&bME电路蚀刻机&r 可以用基本成分制成加工商, &6无需制作印刷电路&r。此外，每个槽可以具有整组，而不是单个物品。
 
-ftbuniversity.lazyae2gen.desc1=It can accept an &6Acceleration Card&r. At the top right of the GUI, you can choose the input/output of every face.
-ftbuniversity.lazyae2gen.desc2=This is from &eLazy AE2&r, an addon.
+ftbuniversity.lazyae2gen.desc1=它可以接受&6加速卡&r。在GUI的右上角，你可以选择每个面的输入/输出。
+ftbuniversity.lazyae2gen.desc2=这是来着 &e懒人AE2&r, 一个附加模组。
 
-ftbuniversity.pulsecent.subtitle=制作一个 Pulse Centrifuge
-ftbuniversity.pulsecent.desc=The &bPulse Centrifuge&r performs in-world crystal seed growing operations, &6purifying Crystals of all types&r.
+ftbuniversity.pulsecent.subtitle=制作一个 脉冲离心机
+ftbuniversity.pulsecent.desc=&b脉冲离心机&r 执行世界上的晶体种子培养， &6净化所有类型的晶体&r.
 
-ftbuniversity.fluixagg.subtitle=制作一个 Fluix Aggregator
-ftbuniversity.fluixagg.desc=The &bFluix Aggregator&r performs in-world Fluix Crystal crafting operations, among certain other recipes.
+ftbuniversity.fluixagg.subtitle=制作一个福鲁伊克斯聚合器
+ftbuniversity.fluixagg.desc=&b福鲁伊克斯聚合器&r 在机器内执行世界上的福鲁伊克斯水晶合成, 和其他特定合成表。
 
-ftbuniversity.levmain.subtitle=制作一个 ME Level Maintainer
-ftbuniversity.levmain.desc1=The &bME Level Maintainer&r will &6automatically create crafting processes&r when specified items are &6below a specified threshold&r.
-ftbuniversity.levmain.desc2=Place up to 5 items in the left slots, set the minimum amount to maintain in the center, then how many it tries to craft on the right.
+ftbuniversity.levmain.subtitle=制作一个ME货物维持器
+ftbuniversity.levmain.desc1= &bME 货物维持器&r 会 &6在&r 特定物品低于门槛后 &6自动创建合成请求&r。
+ftbuniversity.levmain.desc2=在左侧的插槽中最多放置5个物品，设置要维持在中央的数量，然后在右侧尝试更改物品数量。
 
-ftbuniversity.pau.subtitle=制作一个 Preemptive Assembly Unit
-ftbuniversity.pau.desc1=The &bPreemptive Assembly Unit&r works like an ME Interface. It can be given 9 recipes, 9 items to keep supplied, and has 9 input slots.
-ftbuniversity.pau.desc2=However, the PAU &6tries to output the max amount of items it can&r, rather than waiting until a recipe is completed.
+ftbuniversity.pau.subtitle=制作一个抢占式装配单元
+ftbuniversity.pau.desc1=&b抢占式装配单元&r 像ME接口一样工作。可以给它9个配方，9个要保留的物品以及9个输入槽。
+ftbuniversity.pau.desc2=但是，PAU会 &6尝试输出可以的最大物品数量&r, 而不是等到配方完成。
 
-ftbuniversity.massass.title=Mass Assembler
-ftbuniversity.massass.subtitle=制作一个 Mass Assembler
-ftbuniversity.massass.desc1=The &bMass Assembler&r is a multiblock machine that &6functions like a Molecular Assembler&r, but is &6faster&r and holds &6more recipes&r.
-ftbuniversity.massass.desc2=Every edge has to be made out of &bMass Assembler Frames&r, and the faces have to be made out of &bMass Assembler Vents&r.
-ftbuniversity.massass.desc3=Inside, every block must be either an &bMA Pattern Provider&r or an &bMA Crafting Coprocessor&r. Each Pattern Provider adds 36 slots for patterns, and each Crafting Coprocessor makes it faster.
-ftbuniversity.massass.desc4=One &bMass Assembler Controller&r must be placed on one of the walls, replacing a Vent. This is where Cables are connected. Right-click it to form the multiblock.
+ftbuniversity.massass.title=大型分子装配室
+ftbuniversity.massass.subtitle=制作一个大型分子装配室
+ftbuniversity.massass.desc1=&b大型分子装配室&r 像是&6分子装配室&r的多方块, 但是它更&6快&r 以及能够容纳&6更多合成&r。
+ftbuniversity.massass.desc2=每个边缘都必须由 &大型分子装配室框架&r组成, 而面必须用 &b大型分子装配室通风口&r。
+ftbuniversity.massass.desc3=在里面，每个方块都必须是 &大型分子装配室样板提供器&r 或者 &b大型分子装配室并行处理器&r. 每一个样板提供器提供36个栏位的样板, 而每一个并行处理器会使组装机更快的合成。
+ftbuniversity.massass.desc4=必须放置一个 &b大型分子装配室控制器&r 在其中一面墙上, 替换掉一个通风口。 这是连接线缆的地方。右键形成多方块。
 
-ftbuniversity.packauto.title=PackagedAuto
-ftbuniversity.packauto.subtitle=Learn how to use PackagedAuto
-ftbuniversity.packauto.desc1=&ePackagedAuto&r is an AE2 addon that allows you to make &6autocraft recipes that use more than 9 items&r.
+ftbuniversity.packauto.title=封包合成
+ftbuniversity.packauto.subtitle=学习封包合成使用方法
+ftbuniversity.packauto.desc1=&e封包合成&r 是AE2插件，可让你制作 &6使用超过9种物品的配方&r.
 ftbuniversity.packauto.desc2=To begin with, place down a &bPackage Recipe Encoder&r. Place 2 &bPackage Recipe Holders&r into the top left slot. Each can hold up to 20 recipes.
 ftbuniversity.packauto.desc3=On the right side of the GUI, you can cycle through all the different crafting recipe options. &6Processing&r will simply dump all ingredients at once, &6Ordered&r will send the items in the order you put them in, then the rest are for &ePackagedExCrafting&r (we'll come back to those later).
 ftbuniversity.packauto.desc4=In the bottom slots, set the recipe. Inputs on left, outputs on right. &6You can also use JEI's + button&r to autofill it. Once you are happy with your recipe, click &6Save&r at the top to save it to the Holder.
