@@ -442,7 +442,7 @@ ftbuniversity.logreqtable.desc1=&b物流请求台&r可以请求和存储物品�
 ftbuniversity.logreqtable.desc2=你可以设置合成配方，然后单击[+]按钮之一以请求所需的物品。
 ftbuniversity.logreqtable.desc3=你可以将物流磁盘插入黑色轮廓的插槽中，然后单击 &6磁碟&r右下角的按钮。在这里，你可以创建宏（物品集）以一次全部请求。
 ftbuniversity.logreqtable.desc4=请点击 &6添加/编辑&r 创建一个宏。它将显示当前可用的所有物品，你可以单击它们将其添加到宏中。左键单击增加一个给定的数量，右键单击减小一个给定的数量。
-ftbuniversity.logreqtable.desc5=命名并保存宏，然后将其添加到磁盘的宏列表中。您可以在此处从列表中选择宏，然后单击&6请求&r以请求宏中的所有物品。
+ftbuniversity.logreqtable.desc5=命名并保存宏，然后将其添加到磁盘的宏列表中。你可以在此处从列表中选择宏，然后单击&6请求&r以请求宏中的所有物品。
 ftbuniversity.logreqtable.desc6=放在&6分类&r插槽中的物品将被发送回系统中进行排序。
 
 ####Modules
@@ -486,7 +486,7 @@ ftbuniversity.tabsup.title=绿色不是有创意的色彩
 ftbuniversity.tabsup.subtitle=制作一个基于创造模式物品栏标签的物品收纳模块
 ftbuniversity.tabsup.desc1=&b基于创造模式物品栏标签的物品收纳模块&r的白名单根据物品所在的创造模式标签而不是特定物品本身来工作。
 ftbuniversity.tabsup.desc2=打开其GUI，然后在顶部插槽中添加一个物品。点击&6添加&r将该物品的创造标签添加到白名单中。同样，从列表中单击创造标签，然后单击&6删除&r将其删除。
-ftbuniversity.tabsup.desc3=这很有用，因为您可以创建一个自动填充构建筑方块的清单，因为这些都有一个相同的创造标签。
+ftbuniversity.tabsup.desc3=这很有用，因为你可以创建一个自动填充构建筑方块的清单，因为这些都有一个相同的创造标签。
 
 ftbuniversity.provmod.subtitle=制作提供模块
 ftbuniversity.provmod.desc1=&b提供模块&r 是提供物流管道的等效模块。
@@ -496,17 +496,17 @@ ftbuniversity.provmod.desc3=打开提供物流模块的GUI来设置黑名单或�
 ftbuniversity.terminus.title=溢出
 ftbuniversity.terminus.subtitle=制作终结模块
 ftbuniversity.terminus.desc1=The &b终结模块&r 将 &6捕捉无处可去的物品&r, 不包括默认路由。它在其GUI中有一个白名单，可以选择将哪些物品作为溢出发送到那里。
-ftbuniversity.terminus.desc2=如果您将装满鹅卵石的抽屉连接到收纳模块或基本物流管道，则鹅卵石将无处可去，堵塞了输入箱或炸出了世界。
+ftbuniversity.terminus.desc2=如果你将装满鹅卵石的抽屉连接到收纳模块或基本物流管道，则鹅卵石将无处可去，堵塞了输入箱或炸出了世界。
 ftbuniversity.terminus.desc3=但是，如果白名单中有一个带有鹅卵石的终结模块，则鹅卵石将移至那里。 ＆6最好在这里有一个垃圾桶或类似的东西，以免溢出不会溢出。＆r
 
 ftbuniversity.passsup.subtitle=制作被动补给模块
 ftbuniversity.passsup.desc1=&b被动补给模块&r 的工作方式与收纳模块有点类似，但有一些额外的选择。&6它不会主动请求物品，但会允许物品根据其白名单进入&r.
-ftbuniversity.passsup.desc2=被动补给模块将 &6尽量保持每个物品的具体数量&r 在白名单中。如果您在其中单击一半堆叠的物品，则一旦库存中有一半堆叠的物品，它将停止请求。
-ftbuniversity.passsup.desc3=您也可以左/右键单击带有该物品的白名单条目，以将数量减少/增加1。
+ftbuniversity.passsup.desc2=被动补给模块将 &6尽量保持每个物品的具体数量&r 在白名单中。如果你在其中单击一半堆叠的物品，则一旦库存中有一半堆叠的物品，它将停止请求。
+ftbuniversity.passsup.desc3=你也可以左/右键单击带有该物品的白名单条目，以将数量减少/增加1。
 
 ftbuniversity.actsup.subtitle=制作主动补给模块
 ftbuniversity.actsup.desc1=&b主动补给模块&r是补给物流管道的等效模块。
-ftbuniversity.actsup.desc2=打开主动补给模块的GUI，以设置最多9个物品的列表，以保持补给管道/模块的库存。如果您放置32个物品，它将尝试将其保持在库存中32个该物品。
+ftbuniversity.actsup.desc2=打开主动补给模块的GUI，以设置最多9个物品的列表，以保持补给管道/模块的库存。如果你放置32个物品，它将尝试将其保持在库存中32个该物品。
 ftbuniversity.actsup.desc3=• 如果设置为 &6封装50&r, 只有在物品量为指定的50 %%时，它才会创建补给请求。
 ftbuniversity.actsup.desc4=• &封装100&r 是 &n应该&r 仅在没有剩余物品时重新装满，但是它存在问题，并且运行是像是部分模式。
 ftbuniversity.actsup.desc5=• &6无限&r 不管物品栏中已经有多少东西，它都会创建补给请求。
@@ -514,23 +514,23 @@ ftbuniversity.actsup.desc6=• &6部分&r 移除任何物品时，它会创建�
 
 ftbuniversity.extractmodule.subtitle=制作提取模块
 ftbuniversity.extractmodule.desc1=&b提取模块&r 从物品栏中提取物品并将其发送到任何有效的目的地。
-ftbuniversity.extractmodule.desc2=您可以将其设置为从与其连接的块的任何一侧提取物品，而不仅仅是从其所在的一侧提取物品。
+ftbuniversity.extractmodule.desc2=你可以将其设置为从与其连接的块的任何一侧提取物品，而不仅仅是从其所在的一侧提取物品。
 
 ftbuniversity.advextractmod.subtitle=制作高级提取模块
 ftbuniversity.advextractmod.desc1=&b高级提取模块&r像提取模块一样工作，除了它有一个 &69槽的白名单/黑名单&r.
-ftbuniversity.advextractmod.desc2=它允许您选择要从物品栏中提取内容的任何一侧，而不只是其所在的那一侧。
+ftbuniversity.advextractmod.desc2=它允许你选择要从物品栏中提取内容的任何一侧，而不只是其所在的那一侧。
 
 ftbuniversity.quicksort.subtitle=制作一个快速分拣模块
 ftbuniversity.quicksort.desc1=&b快速分拣模块&r 就像提取模块一样工作，除了它仅发送具有非默认目的地的物品。
-ftbuniversity.quicksort.desc2=这意味着您可以将所有物品丢到一个物品栏中，然后&6仅提取具有设定目的地的项目&r.
+ftbuniversity.quicksort.desc2=这意味着你可以将所有物品丢到一个物品栏中，然后&6仅提取具有设定目的地的物品&r.
 
-ftbuniversity.enchsink.subtitle=Make an Enchantment Sink Module
-ftbuniversity.enchsink.desc1=The &bEnchantment Sink Module&r works like an ItemSink Module, except for &6enchanted items&r.
-ftbuniversity.enchsink.desc2=Any enchanted item (&naside from books&r) pulled from an Extractor Module will go to the Enchantment Sink Module.
+ftbuniversity.enchsink.subtitle=制作一个 附魔收纳模块
+ftbuniversity.enchsink.desc1=The &b附魔收纳模块&r 像一个收纳模块, 但是是给 &6附魔物品的&r.
+ftbuniversity.enchsink.desc2=任何附魔物品 (&n除了书&r) 从提取模块中拉出的将转到附魔收纳模块.
 
-ftbuniversity.enchsink2.subtitle=Make an Enchantment Sink Module Mk2
-ftbuniversity.enchsink2.desc1=The &bEnchantment Sink Module Mk2&r is an upgrade to the Enchantment Sink Module.
-ftbuniversity.enchsink2.desc2=The Mk2 has an &6item whitelist&r, so you can have one destination that fills up with enchanted Iron Pickaxes, and another with enchanted Gold Swords, etc.
+ftbuniversity.enchsink2.subtitle=制作一个 附魔收纳模块 Mk2
+ftbuniversity.enchsink2.desc1=The &b附魔收纳模块 Mk2&r是对附魔收纳模块的升级.
+ftbuniversity.enchsink2.desc2=Mk2有一个 &6物品白名单&r, 因此，你可以拥有一个充满附魔铁镐的目的地，另一个充满附魔金剑的目的地，等等。
 
 ####Upgrades
 
@@ -546,24 +546,24 @@ ftbuniversity.logmodupg.subtitle=Make a Module Upgrade
 ftbuniversity.logmodupg.desc1=The &bModule Upgrade&r is installed to a Chassis to allow the Modules to be upgraded.
 ftbuniversity.logmodupg.desc2=When the Module Upgrade is installed, the &6Module menu will have two upgrade slots per Module&r.
 
-ftbuniversity.actspedupg.subtitle=Make an Action Speed Upgrade
+ftbuniversity.actspedupg.subtitle=制作一个 Action Speed Upgrade
 ftbuniversity.actspedupg.desc1=The &bAction Speed Upgrade&r can be installed onto Extractor Modules to &6make them work more often&r.
 ftbuniversity.actspedupg.desc2=The more you install, the more often it works. You can have up to 16 per slot.
 
 ftbuniversity.itmspedupg.title=Gotta Go Fast, but Not Too Fast
-ftbuniversity.itmspedupg.subtitle=Make an Item Speed Upgrade
+ftbuniversity.itmspedupg.subtitle=制作一个 Item Speed Upgrade
 ftbuniversity.itmspedupg.desc1=The &bItem Speed Upgrade&r speeds up items that pass through it.
 ftbuniversity.itmspedupg.desc2=They can be installed on any routed pipe. A single upgrade doesn't do much, but you can install up to 16 in a single slot, and there's 9 slots.
 
-ftbuniversity.itmextupg.subtitle=Make an Item Extraction Upgrade
+ftbuniversity.itmextupg.subtitle=制作一个 Item Extraction Upgrade
 ftbuniversity.itmextupg.desc1=The &bItem Extraction Upgrade&r can be installed onto Extractor Modules to &6make them extract more items at a time&r.
 ftbuniversity.itmextupg.desc2=One upgrade will make it extract 8 items at a time, and two will &ksee mod author, bugged&r.
 
-ftbuniversity.itmstkupg.subtitle=Make an ItemStack Extraction Upgrade
+ftbuniversity.itmstkupg.subtitle=制作一个 ItemStack Extraction Upgrade
 ftbuniversity.itmstkupg.desc1=
 
 ftbuniversity.logopq.title=What's Inside? Who knows!
-ftbuniversity.logopq.subtitle=Make an Opaque Upgrade
+ftbuniversity.logopq.subtitle=制作一个 Opaque Upgrade
 ftbuniversity.logopq.desc1=The &bOpaque Upgrade&r will disable rendering for any item that's passing through it.
 ftbuniversity.logopq.desc2=The item will become visible again immediately after it's not in that specific pipe anymore, so... it's not exceedingly useful unless you make the entire line out of routed pipes and install the upgrade onto all of them.
 
@@ -608,7 +608,7 @@ ftbuniversity.xnconnector.desc3=Connectors come in four colors, which only conne
 ftbuniversity.xnconnector.desc4=Connectors have a GUI that allows you to &6toggle connections to each side&r. That way, if it's touching two machines, you can set it to only connect to one. You can also &6rename it&r there.
 
 ftbuniversity.advconnectors.title=Advanced Connectors
-ftbuniversity.advconnectors.subtitle=Make an Advanced Connector
+ftbuniversity.advconnectors.subtitle=制作一个 Advanced Connector
 ftbuniversity.advconnectors.desc1=&bAvanced Connectors&r work like regular Connectors, but are generally faster and more powerful.
 ftbuniversity.advconnectors.desc2=Regular Connectors can only insert/extract from the side they are placed on, but Advanced Connectors can &6IO from any side of the block&r they're on.
 ftbuniversity.advconnectors.desc3=Regular Connectors, at maximum, can move &610,000RF/t&r and &61,000mB/t&r.
@@ -765,13 +765,13 @@ ftbuniversity.redstoneio.desc4=If this Variable Card is inserted into anything o
 ftbuniversity.redstoneio.desc5=Insert the Variable Card into the &6Aspect: Redstone&r, &6Type: Integer&r slot of a &bRedstone Writer&r, and it will output a signal that matches the signal given to the Reader.
 
 ftbuniversity.readers.title=Readers
-ftbuniversity.readers.subtitle=Make any Reader
+ftbuniversity.readers.subtitle=制作一个y Reader
 ftbuniversity.readers.desc1=&bReaders&r take information from the world and &6expose them as variables&r.
 ftbuniversity.readers.desc2=Different Readers take different information; their &6tooltips&r give short explanations for each.
 ftbuniversity.readers.desc3=Each also have some pages in &nOn the Dynamics of Integration&r, if the tooltips aren't informative enough.
 
 ftbuniversity.writers.title=Writers
-ftbuniversity.writers.subtitle=Make any Writer
+ftbuniversity.writers.subtitle=制作一个y Writer
 ftbuniversity.writers.desc1=&bWriters&r take a variable from a &6Variable Card&r and do some sort of logic with them.
 ftbuniversity.writers.desc2=There are actually fairly few functional Writers. See their tooltips or the book for information on each.
 ftbuniversity.writers.desc3=You may expect them to work like Refined Storage's Reader/Writers, but you &ccannot move items, fluids, or energy&r with Integrated Dynamics alone.
@@ -814,7 +814,7 @@ ftbuniversity.iddoor.desc2=Use the &6==&r operator to see if the Entity variable
 ftbuniversity.iddoor.desc3=Insert this final operator Variable Card into a &6Redstone Writer&r that is powering a door.
 
 ftbuniversity.integratedtunnels.title=Item Transfer
-ftbuniversity.integratedtunnels.subtitle=Make an item transfer system with Integrated Tunnels
+ftbuniversity.integratedtunnels.subtitle=制作一个 item transfer system with Integrated Tunnels
 ftbuniversity.integratedtunnels.desc1=&eIntegrated Tunnels&r is an addon for Integrated Dynamics that gives it the ability to &6import, store, and export items/fluids/energy within a network&r.
 ftbuniversity.integratedtunnels.desc2=To begin with, make the &bItem Interface&r. Place this on an inventory, like a Chest, and imported items will be stored here.
 ftbuniversity.integratedtunnels.desc3=Next, place an &bItem Importer&r on an inventory that you want to pull from. In it, there are slots for variables that control if it should import all items, import specific items, import only from a specific slot, etc.
@@ -831,7 +831,7 @@ ftbuniversity.itwhitelist.desc4=Or, you could make a &6List&r of items, or even 
 ftbuniversity.itwhitelist.desc5=The amount of possibilities are staggeringly high, as is the time it would take to mention even a fraction of them, so I won't. You should have (roughly) all the knowledge you need, experiment!
 
 ftbuniversity.worldints.title=Placing and Breaking
-ftbuniversity.worldints.subtitle=Make any World Importer/Exporter
+ftbuniversity.worldints.subtitle=制作一个y World Importer/Exporter
 ftbuniversity.worldints.desc1=&bWorld Importers/Exporters&r, as the names suggest, interact with the world instead of inventories.
 ftbuniversity.worldints.desc2=World Item, Fluid, and Block Yada-yadas, in order, &6pick up and drop items&r, &6place and pick up fluids&r, and &6place and mine blocks&r.
 ftbuniversity.worldints.desc3=These can have whitelists, so you could automate placing Stone next to a Pure Daisy, then only allow it to break Livingrock.
@@ -843,11 +843,11 @@ ftbuniversity.playersim.desc2=It has variables for clicking with no item or clic
 ftbuniversity.playersim.desc3=Every variable have aspects. The most important one, in my opinion, would be a &9Boolean: Right Click&r. If true, it simulates a right-click. If false, it simlates a left-click, which can punch mobs and break blocks (if &9Continuous Click&r is set to true).
 
 ftbuniversity.itnonitems.title=Items Aren't Everything
-ftbuniversity.itnonitems.subtitle=Make any non-item tunnel
+ftbuniversity.itnonitems.subtitle=制作一个y non-item tunnel
 ftbuniversity.itnonitems.desc=There are also &bInterfaces&r, &bImporters&r, and &bExporters&r for fluid and energy!
 ftbuniversity.itnonitems.task=Non-item thingamabobs
 
-ftbuniversity.energybattery.subtitle=Make an Energy Battery
+ftbuniversity.energybattery.subtitle=制作一个 Energy Battery
 ftbuniversity.energybattery.desc1=If RF is imported into the network, but it doesn't have any valid Energy Interface to store it in, it will be stored in any &bEnergy Battery&r connected to the network.
 ftbuniversity.energybattery.desc2=Energy Batteries do not have to be connected with an Interface, they &6automatically connect to adjacent Logic Cables&r.
 ftbuniversity.energybattery.desc3=You can &6craft two Energy Batteries together&r to combine their storage. The highest possible RF in a single battery is &6655,360,000 RF&r.
@@ -889,7 +889,7 @@ ftbuniversity.craftjob.subtitle=Make a Crafting Job Terminal
 ftbuniversity.craftjob.desc1=The &bCrafting Job Terminal&r has a list of all current crafting jobs in its network.
 ftbuniversity.craftjob.desc2=You can click on any crafting job to cancel it.
 
-ftbuniversity.integratednbt.subtitle=Make an NBT Extractor
+ftbuniversity.integratednbt.subtitle=制作一个 NBT Extractor
 ftbuniversity.integratednbt.desc1=The addon &eIntegrated NBT&r adds several things that help make it easier to work with NBT in items and fluids.
 ftbuniversity.integratednbt.desc2=The main thing is the &bNBT Extractor&r, which allows you to isolate a specific NBT tag from an NBT tree as a variable.
 ftbuniversity.integratednbt.desc3=To begin with, the &6Logic Controller&r has several operators dedicated to working with NBT. The simplest would be &9NBT()&r, which simply grabs all the NBT from an item and stores it in a Variable Card, giving it the "&eOutput Type: &9NBT&r".
@@ -923,13 +923,13 @@ ftbuniversity.purecrystals.task1=Crystal Seeds
 ftbuniversity.purecrystals.task2=Pure Crystals
 
 ftbuniversity.ae2energyacceptor.title=ME and Mine
-ftbuniversity.ae2energyacceptor.subtitle=Make an Energy Acceptor
+ftbuniversity.ae2energyacceptor.subtitle=制作一个 Energy Acceptor
 ftbuniversity.ae2energyacceptor.desc1=Applied Energistics 2 does not use RF or EU. Rather, it has &6its own energy system&r called "AE".
 ftbuniversity.ae2energyacceptor.desc2=The &bEnergy Acceptor&r can convert EU/RF to AE, at a rate of 1EU=2AE and 2RF=1AE.
 ftbuniversity.ae2energyacceptor.desc3=AE power can be &6transferred via any Cable&r from AE2.
 ftbuniversity.ae2energyacceptor.desc4=&nHowever&r, the &6ME Controller can also convert&r RF/EU to AE, and at a much faster rate. You have to make that eventually anyway, so &6this quest is optional&r.
 
-ftbuniversity.ae2energycell.subtitle=Make an Energy Cell
+ftbuniversity.ae2energycell.subtitle=制作一个 Energy Cell
 ftbuniversity.ae2energycell.desc1=&bEnergy Cells&r store AE power, acting as a backup in case the network stops receiving it externally.
 ftbuniversity.ae2energycell.desc2=The lower tier stores &6200,000 AE&r, and the higher stores &61,600,000 AE&r.
 ftbuniversity.ae2energycell.task=Energy Cell
@@ -946,7 +946,7 @@ ftbuniversity.growthaccelerator.desc1=&bCrystal Growth Accelerators&r use AE pow
 ftbuniversity.growthaccelerator.desc2=It is powered from the top or bottom, and it speeds up Seeds that are &6touching its sides&r.
 ftbuniversity.growthaccelerator.desc3=You can have &6up to 5&r surrounding one Water block while still leaving room for you to throw Seeds in.
 
-ftbuniversity.inscriber.subtitle=Make an Inscriber
+ftbuniversity.inscriber.subtitle=制作一个 Inscriber
 ftbuniversity.inscriber.desc1=The &bInscriber&r is required to craft &6Processors&r, which are used very often in crafting recipes.
 ftbuniversity.inscriber.desc2=In the top slot, insert an &6Inscriber Press&r (more on that in the quest above), then insert the appropriate item in the center. Give it RF and it will slowly start working.
 ftbuniversity.inscriber.desc3=Inscribers are &6fairly hard to automate&r, as they can only have one item in each slot at a time. Placed upright, the top face is the &6top input&r, the bottom is the &6bottom input&r, and sides are both the &6middle input and the output&r.
@@ -957,12 +957,12 @@ ftbuniversity.ae2compass.desc2=This is fun the first couple times, but can get a
 ftbuniversity.ae2compass.desc3=So, &6we've added recipes for Presses and Sky Stone&r, to hopefully mitigate some of those issues. Meteorites still spawn, but aren't necessary.
 ftbuniversity.ae2compass.task=Craftables
 
-ftbuniversity.ae2acceleration.subtitle=Make an Acceleration Card
+ftbuniversity.ae2acceleration.subtitle=制作一个 Acceleration Card
 ftbuniversity.ae2acceleration.desc1=&bAcceleration Cards&r can be inserted into certain AE2 machines to make them work faster.
 ftbuniversity.ae2acceleration.desc2=You can install multiple to increase their work speed even more.
 
 ftbuniversity.mecontroller.title=ME!ME!ME!
-ftbuniversity.mecontroller.subtitle=Make an ME Controller
+ftbuniversity.mecontroller.subtitle=制作一个 ME Controller
 ftbuniversity.mecontroller.desc1=The &BME Controller&r is the brain of every ME (matter-energy) network. &6You can only have one Controller multiblock per network.&r
 ftbuniversity.mecontroller.desc2=This quest will go over its &6construction&r, the quest above will explain how it works.
 ftbuniversity.mecontroller.desc3=When making the multiblock, &6prioritize how many faces are available&r; meaning, how many Cables can be attached directly.
@@ -996,7 +996,7 @@ ftbuniversity.ae2glasscable.desc3=&bME Covered Cables&r are &6functionally ident
 ftbuniversity.ae2glasscable.task=Either Fluix Cable
 
 ftbuniversity.ae2colorcables.title=&4&l█&c&l█&6&l█&e&l█&2&l█&a&l█&b&l█&3&l█&1&l█&9&l█&d&l█
-ftbuniversity.ae2colorcables.subtitle=Make any colored Cable
+ftbuniversity.ae2colorcables.subtitle=制作一个y colored Cable
 ftbuniversity.ae2colorcables.desc1=Cables of all kinds can be color-coded to prevent unwanted connections.
 ftbuniversity.ae2colorcables.desc2=Colored Cables &6only connect to Cables of the same color&r, though all colors connect to normal Fluix Cables.
 ftbuniversity.ae2colorcables.desc3=This is especially useful for when you have several paths within a small area that you don't want interacting, to make sure channels only go along certain paths.
@@ -1023,24 +1023,24 @@ ftbuniversity.smartdense.subtitle=Make ME Dense Smart Cables
 ftbuniversity.smartdense.desc=&bME Dense Smart Cables&r work exactly like Dense Covered Cables, but they &6show how many channels are passing through them&r.
 
 ftbuniversity.ae2facade.title=The C is Silent, and the S is Invisible
-ftbuniversity.ae2facade.subtitle=Make any Cable Facade
+ftbuniversity.ae2facade.subtitle=制作一个y Cable Facade
 ftbuniversity.ae2facade.desc1=&bCable Facades&r can be attached to any ME Cable, &6making that side look like the block it's made out of&r.
 ftbuniversity.ae2facade.desc2=Additionally, Torches, Levers, and the like can be placed on Facades, as if they were a solid block.
 ftbuniversity.ae2facade.desc3=Facades can be placed on the same face as a device, so you can make your Terminals etc flush with the wall.
 ftbuniversity.ae2facade.task=Any Cable Facade
 
-ftbuniversity.mechest.subtitle=Make an ME Chest
+ftbuniversity.mechest.subtitle=制作一个 ME Chest
 ftbuniversity.mechest.desc1=The &bME Chest&r is the most simple way to use AE2 to store items.
 ftbuniversity.mechest.desc2=Click any side other than the top to insert a &6Storage Cell&r, and click the top to access items inside it.
 ftbuniversity.mechest.desc3=The ME Chest is capable of &6working independently&r of an ME Controller, as it can accept RF/EU directly. However, if connected to a network, the network will also be able to access its contents.
 
 ftbuniversity.meterminal.title=Storage Access
-ftbuniversity.meterminal.subtitle=Make an ME Terminal
+ftbuniversity.meterminal.subtitle=制作一个 ME Terminal
 ftbuniversity.meterminal.desc1=The &bME Terminal&r is the first of many devices, and allows you to &6access all items in the ME network&r (we'll get to storing items in a bit).
 ftbuniversity.meterminal.desc2=On the left, you have several &6buttons&r. Their &6tooltips&r should be fairly self-explanatory.
 ftbuniversity.meterminal.desc3=The top right has a button to show what the system is &6auto-crafting&r, as well as 5 slots for &6View Cells&r. We'll cover both of those later.
 
-ftbuniversity.craftingterminal.subtitle=Make an ME Crafting Terminal
+ftbuniversity.craftingterminal.subtitle=制作一个 ME Crafting Terminal
 ftbuniversity.craftingterminal.desc=The &bME Crafting Terminal&r works exactly like an ME Terminal, but &6has a 3x3 crafting grid&r.
 
 ftbuniversity.cellworkbench.title=Cells at Work
@@ -1056,7 +1056,7 @@ ftbuniversity.viewcell.subtitle=Make a View Cell
 ftbuniversity.viewcell.desc=Partition a &bView Cell&r, and then insert it into the top right slots of Terminals to filter what's visible to match the View Cell's whitelist/blacklist.
 
 ftbuniversity.medrive.title=Storing Items
-ftbuniversity.medrive.subtitle=Make an ME Drive and Storage Cell
+ftbuniversity.medrive.subtitle=制作一个 ME Drive and Storage Cell
 ftbuniversity.medrive.desc1=The &bME Drive&r can store up to 10 &bStorage Cells&r, allowing their contents to be visible to the network.
 ftbuniversity.medrive.desc2=Storage Cells can store items, with higher tiers storing more.
 ftbuniversity.medrive.desc3=&oTechnically&r, Storage Cells store &6bytes&r, not items. A certain amount of bytes is required for unique items; &62 of the same item uses less bytes than 2 different items&r.
@@ -1065,36 +1065,36 @@ ftbuniversity.medrive.desc5=Additionally, every cell is &6limited to 63 unique i
 ftbuniversity.medrive.task=Any Storage Cell
 
 ftbuniversity.meimport.title=I
-ftbuniversity.meimport.subtitle=Make an ME Import Bus
+ftbuniversity.meimport.subtitle=制作一个 ME Import Bus
 ftbuniversity.meimport.desc1=The &bME Import Bus&r will pull items from the inventory it is facing, inserting them into its ME network.
 ftbuniversity.meimport.desc2=In its GUI, you can set a &6whitelist&r. Defaulting to 1 item, up to 2 &6Capacity Cards&r can be installed to increase the amount to 9.
 ftbuniversity.meimport.desc3=You can also install a &6Fuzzy Card&r to make it ignore NBT/Damage, as well as &6Acceleration Cards&r to make it work faster.
 
 ftbuniversity.meexport.title=O
-ftbuniversity.meexport.subtitle=Make an ME Export Bus
+ftbuniversity.meexport.subtitle=制作一个 ME Export Bus
 ftbuniversity.meexport.desc1=The &BME Export Bus&r will push items (set by a whitelist in its GUI) from its ME network into the inventory it is facing.
 ftbuniversity.meexport.desc2=Its whitelist by default only has 1 slot, but can be upgraded to 9 with &6Capacity Cards&r.
 ftbuniversity.meexport.desc3=You can also install a &6Fuzzy Card&r to make it ignore NBT/Damage, as well as &6Acceleration Cards&r to make it work faster.
 ftbuniversity.meexport.desc4=Additionally, you can insert a &6Crafting Card&r to allow it to craft items to export if they run out. Naturally, this only works if the items can be auto-crafted by the network.
 
 ftbuniversity.metoggle.title=Disconneeeeeeeeeeeect
-ftbuniversity.metoggle.subtitle=Make an ME Toggle Bus
+ftbuniversity.metoggle.subtitle=制作一个 ME Toggle Bus
 ftbuniversity.metoggle.desc1=The &bME Toggle Bus&r, when given a redstone signal, will not allow channels or energy to pass through it. This effectively disconnects everything past it.
 ftbuniversity.metoggle.desc2=The &bInverted ME Toggle Bus&r does the opposite, disabling when not given a signal.
 
-ftbuniversity.levelemitter.subtitle=Make an ME Level Emitter
+ftbuniversity.levelemitter.subtitle=制作一个 ME Level Emitter
 ftbuniversity.levelemitter.desc1=The &bME Level Emitter&r will output a redstone signal &6when a specified item is above/below a specified amount&r.
 ftbuniversity.levelemitter.desc2=You can also set it to emit the signal when the ME network's &6energy is below a specified amount&r, so you can automatically start an emergency generator to power it back up.
 
 ftbuniversity.storagebus.title=External Storage
-ftbuniversity.storagebus.subtitle=Make an ME Storage Bus
+ftbuniversity.storagebus.subtitle=制作一个 ME Storage Bus
 ftbuniversity.storagebus.desc1=The &bME Storage Bus&r, when placed on an inventory, will connect that inventory to the ME system.
 ftbuniversity.storagebus.desc2=In &6Bi-Directional&r mode, items can be pulled from it, as well as being pushed into it. When items are inserted into the ME system, they will try to go to Storage Buses that already have that item before Storage Cells.
 ftbuniversity.storagebus.desc3=In &6Extract Only&r, you can only pull from it. 
 ftbuniversity.storagebus.desc4=In &6Insert Only&r and with &6no whitelist&r, items in it will not be available, and it will act as a lowest-possible priority destination for items.
 ftbuniversity.storagebus.desc5=In &6Insert Only&r and &6with a whitelist&r, items in the whitelist will enter that inventory, seemingly disappearing from the network.
 
-ftbuniversity.storagemonitor.subtitle=Make an ME Storage Monitor
+ftbuniversity.storagemonitor.subtitle=制作一个 ME Storage Monitor
 ftbuniversity.storagemonitor.desc1=The &bME Storage Monitor&r will display the amount of the set item in its storage.
 ftbuniversity.storagemonitor.desc2=To set the item, simply right-click the Monitor with it.
 ftbuniversity.storagemonitor.desc3=Right-click with an empty hand to unset items, and use a Wrench on it to lock it to an item.
@@ -1115,13 +1115,13 @@ ftbuniversity.redstonecard.desc1=The &bRedstone Card&r can be installed to certa
 ftbuniversity.redstonecard.desc2=There are &6Always active&r, &6Active without signal&r, &6Active with signal&r, and &6Activate once per pulse&r.
 
 ftbuniversity.mesecurity.title=That Thing That Wireless Terminals Need
-ftbuniversity.mesecurity.subtitle=Make an ME Security Terminal
+ftbuniversity.mesecurity.subtitle=制作一个 ME Security Terminal
 ftbuniversity.mesecurity.desc1=The &bME Security Terminal&r allows you to configure what people are allowed to do with your ME network. Ownership of the network is decided by who places the Security Terminal.
 ftbuniversity.mesecurity.desc2=A &6Biometric Card&r can be inserted into the bottom left slot, then permissions can be toggled with the buttons on the right. Put the Biometric Card into one of the top slots to apply it.
 ftbuniversity.mesecurity.desc3=A blank Biometric Card means "anyone but the owner." A player can sneak right-click the Biometric Card to set it to themselves.
 ftbuniversity.mesecurity.desc4=And now, the only reason anyone ever actually makes a Security Terminal: you can &6insert a Wireless Terminal&r into the top right slot to &6bind it to that ME network&r.
 
-ftbuniversity.meaccesspoint.subtitle=Make an ME Wireless Access Point
+ftbuniversity.meaccesspoint.subtitle=制作一个 ME Wireless Access Point
 ftbuniversity.meaccesspoint.desc1=An &bME Wireless Access Point&r allows players &6within 16 blocks&r of itself to access the ME system using Wireless Terminals.
 ftbuniversity.meaccesspoint.desc2=You can add &bWireless Boosters&r to the Access Point to increase the range, also increasing the cost. Having an entire stack installed increases the range to 528, at the total cost of 4,100 AE/t.
 
@@ -1144,7 +1144,7 @@ ftbuniversity.infinitybooster.subtitle=Get an Infinity Booster Card
 ftbuniversity.infinitybooster.desc=The &bInfinity Booster Card&r, dropped by the Wither and Ender Dragon, can be installed onto the WCT to give it an &6infinite range&r that also works &6across dimensions&r.
 
 ftbuniversity.meioport.title=MEIOP
-ftbuniversity.meioport.subtitle=Make an ME IO Port
+ftbuniversity.meioport.subtitle=制作一个 ME IO Port
 ftbuniversity.meioport.desc1=The &bME IO Port&r lets you &6empty or fill a Storage Cell&r using the network.
 ftbuniversity.meioport.desc2=This is particularly useful if, for instance, you are upgrading a Cell and need to empty it first. In that case, use &6Transfer data to Network&r.
 ftbuniversity.meioport.desc3=Another use would be if you partition a Cell, and then want to make sure only that Cell has those items. In this case, use &6Transfer Data to Storage Cell&r.
@@ -1171,7 +1171,7 @@ ftbuniversity.ae2breakplace.desc3=The &bME Formation Plane&r will &6instantly pl
 ftbuniversity.ae2breakplace.desc4=You can set a &6whitelist&r of what it can place (which can be increased with &6Capacity Cards&r), as well as toggle if blocks are placed or &6dropped as items&r.
 
 ftbuniversity.ae2silk.title=Ego Death
-ftbuniversity.ae2silk.subtitle=Make an ME Identity Annihilation Plane&r
+ftbuniversity.ae2silk.subtitle=制作一个 ME Identity Annihilation Plane&r
 ftbuniversity.ae2silk.desc=The &bME Identity Annihilation Plane&r works just like a regular Annihilation Plane, but applies &6Silk Touch&r.
 
 ftbuniversity.mattercompressor.title=What's the Matter Compressor?
@@ -1201,7 +1201,7 @@ ftbuniversity.quantumring.desc5=Insert one Quantum Entangled Singularity into ea
 ftbuniversity.quantumring.desc6=&6Jumpstart the distant Bridge&r with some power to turn it on, at which point it will start drawing power from the home Bridge.
 ftbuniversity.quantumring.desc7=At this point, connecting ME Cables to one of the 4 center Bridge blocks, and it will be on the same network as the other end.
 
-ftbuniversity.meinterface.subtitle=Make an ME Interface
+ftbuniversity.meinterface.subtitle=制作一个 ME Interface
 ftbuniversity.meinterface.desc1=The &bME Interface&r is probably the most powerful device.
 ftbuniversity.meinterface.desc2=Any item piped into it will instantly be sent to the ME network.
 ftbuniversity.meinterface.desc3=You can insert an item (including the amount) into one of the &6Config&r slots, and it will always try to keep that many available to be pulled out.
@@ -1211,7 +1211,7 @@ ftbuniversity.meinterface.desc6=Notably, you can &6point a Storage Bus from anot
 ftbuniversity.meinterface.desc7=The main reason you would use ME Interfaces, however, is &6autocrafting&r. That is explained in the quests above.
 ftbuniversity.meinterface.task=ME Interface
 
-ftbuniversity.mepattern.subtitle=Make an ME Pattern Terminal
+ftbuniversity.mepattern.subtitle=制作一个 ME Pattern Terminal
 ftbuniversity.mepattern.desc1=The &bME Pattern Terminal&r allows you to set a recipe in its crafting grid, then &6encode&r the pattern to a &bBlank Pattern&r.
 ftbuniversity.mepattern.desc2=You can also set if the recipe is allowed to use the ore dictionary.
 ftbuniversity.mepattern.desc3=You can also toggle from &6Crafting Patterns&r, which just do normal crafting recipes, to &6Processing Patterns&r, which sends items out of the network to be processed externally.
@@ -1229,7 +1229,7 @@ ftbuniversity.craftingcpu.task=Crafting Storage
 ftbuniversity.craftingmonitor.subtitle=Make a Crafting Monitor
 ftbuniversity.craftingmonitor.desc=The &bCrafting Monitor&r can be incorporated into a Crafting CPU and it will display the current crafting task.
 
-ftbuniversity.interfaceterminal.subtitle=Make an ME Interface Terminal
+ftbuniversity.interfaceterminal.subtitle=制作一个 ME Interface Terminal
 ftbuniversity.interfaceterminal.desc1=The &bME Interface Terminal&r will show all ME Interfaces on the network, allowing you to add/remove recipes at a distance.
 ftbuniversity.interfaceterminal.desc2=Fun fact: you can &6rename Interfaces&r in an Anvil! That way, you could aim a renamed Interface at a Chest, then from there have pipes and stuff that automates the recipe externally, but the Interface Terminal would show its name instead of "Chest."
 
@@ -1270,17 +1270,17 @@ ftbuniversity.p2pstyles.desc8=To get back to &bME&r, click it with an ME Cable.
 ftbuniversity.p2pstyles.task=All P2P Tunnels
 
 ftbuniversity.meessentia.title=Digital Magic
-ftbuniversity.meessentia.subtitle=Make an ME Essentia Storage Cell
+ftbuniversity.meessentia.subtitle=制作一个 ME Essentia Storage Cell
 ftbuniversity.meessentia.desc1=The mod &eThaumic Energistics&r bridges the gap between Thaumcraft and AE2, allowing you to &6store Essentia digitally&r.
 ftbuniversity.meessentia.desc2=Essentia is stored in &bME Essentia Storage Cells&r.
 ftbuniversity.meessentia.task=Any ME Essentia Storage Cell
 
-ftbuniversity.essentiaterminal.subtitle=Make an ME Essentia Terminal
+ftbuniversity.essentiaterminal.subtitle=制作一个 ME Essentia Terminal
 ftbuniversity.essentiaterminal.desc1=The &bME Essentia Terminal&r allows you to manually &6insert and extract Essentia&r from the ME network.
 ftbuniversity.essentiaterminal.desc2=To &6insert Essentia&r, grab a filled Phial in your cursor and click it anywhere in the top slots.
 ftbuniversity.essentiaterminal.desc3=To &6extrat Essentia, grab an empty Glass Phial in your cursor and click it on an Aspect.
 
-ftbuniversity.mearcane.subtitle=Make an Arcane Crafting Terminal
+ftbuniversity.mearcane.subtitle=制作一个 Arcane Crafting Terminal
 ftbuniversity.mearcane.desc1=The &bArcane Crafting Terminal&r has all the combined functionality of an &6Arcane Workbench&r and &6ME Crafting Terminal&r.
 ftbuniversity.mearcane.desc2=It has &66 slots for primal Vis Crystals&r and can use &6atmospheric Vis&r.
 ftbuniversity.mearcane.desc3=You can install an &6Arcane Charging Upgrade&r to make it function as if a &6Workbench Charger&r was installed.
@@ -1290,11 +1290,11 @@ ftbuniversity.essentiabus.subtitle=Make the various Essentia Busses
 ftbuniversity.essentiabus.desc=The &bME Essentia Import Bus&r, &bME Essentia Export Bus&r, and &bME Essentia Storage Bus&r all work exactly like the item forms, but using Essentia instead.
 ftbuniversity.essentiabus.task=ME Essentia Busse
 
-ftbuniversity.meinfusion.subtitle=Make an Essentia Infusion Provider
+ftbuniversity.meinfusion.subtitle=制作一个 Essentia Infusion Provider
 ftbuniversity.meinfusion.desc=The &bEssentia Infusion Provider&r acts as a source of Essentia for the &6Infusion Altar&r, providing it access to the &6Essentia stored in your network&r.
 
 ftbuniversity.mecircetch.title=M.C. Etcher
-ftbuniversity.mecircetch.subtitle=Make an ME Circuit Etcher
+ftbuniversity.mecircetch.subtitle=制作一个 ME Circuit Etcher
 ftbuniversity.mecircetch.desc=The &bME Circuit Etcher&r can make Processors from their base ingredients, &6without making Printed Circuits&r. Additionally, each slot can have an entire stack rather than a single item.
 
 ftbuniversity.lazyae2gen.desc1=It can accept an &6Acceleration Card&r. At the top right of the GUI, you can choose the input/output of every face.
@@ -1306,7 +1306,7 @@ ftbuniversity.pulsecent.desc=The &bPulse Centrifuge&r performs in-world crystal 
 ftbuniversity.fluixagg.subtitle=Make a Fluix Aggregator
 ftbuniversity.fluixagg.desc=The &bFluix Aggregator&r performs in-world Fluix Crystal crafting operations, among certain other recipes.
 
-ftbuniversity.levmain.subtitle=Make an ME Level Maintainer
+ftbuniversity.levmain.subtitle=制作一个 ME Level Maintainer
 ftbuniversity.levmain.desc1=The &bME Level Maintainer&r will &6automatically create crafting processes&r when specified items are &6below a specified threshold&r.
 ftbuniversity.levmain.desc2=Place up to 5 items in the left slots, set the minimum amount to maintain in the center, then how many it tries to craft on the right.
 
@@ -1344,7 +1344,7 @@ ftbuniversity.ec2wireless.subtitle=Make a Wireless Fluid or Gas Terminal
 ftbuniversity.ec2wireless.desc=&eExtra Cells 2&r adds &bWireless Terminals&r for fluids and gas. They work exactly as you would expect.
 
 ftbuniversity.universalterm.title=All For One
-ftbuniversity.universalterm.subtitle=Make any Wireless Universal Terminal
+ftbuniversity.universalterm.subtitle=制作一个y Wireless Universal Terminal
 ftbuniversity.universalterm.desc1=The &bWireless Universal Terminal&r can work as any Wireless Terminal you add onto it.
 ftbuniversity.universalterm.desc2=It can be crafted by combining (almost) any Terminal with any other Wireless Terminal. You can also add more Terminals by crafting them with the Universal Terminal.
 ftbuniversity.universalterm.desc3=Sneak right-click the Universal Terminal to cycle through its types.
@@ -1371,7 +1371,7 @@ ftbuniversity.peatfiredengine.subtitle=Make a Peat-fired Engine
 ftbuniversity.peatfiredengine.desc1=The &bPeat-fired Engine&r generates RF from Peat, which is made by placing Bog Earth next to Water for some time.
 ftbuniversity.peatfiredengine.desc2=A single regular &6Peat generates 50,000RF&r, and &6Bituminous Peat generates 120,000RF&r.
 
-ftbuniversity.electricalengine.subtitle=Make an Electrical Engine
+ftbuniversity.electricalengine.subtitle=制作一个 Electrical Engine
 ftbuniversity.electricalengine.desc1=The &bElectrical Engine&r generates RF using &6IndustrialCraft 2's energy, EU&r.
 ftbuniversity.electricalengine.desc2=One Coal burned in an IC2 Generator &6(4,000EU) generates about 16,000RF&r. A small amount is used to get it running at full speed.
 
@@ -1516,12 +1516,12 @@ ftbuniversity.beehouse.desc1=The &bBee House&r will allow you to work bees with 
 ftbuniversity.beehouse.desc2=At the top right, you can see the &6current climate&r. At the top left you can see &6anything stopping the Queen from working&r (lack of flowers and wrong climate usually)
 ftbuniversity.beehouse.desc3=If you have a Portable Analyzer in your inventory, you can analyze the bees in the Bee House. You can toggle this part of the menu by clicking the button over the bee slots.
 
-ftbuniversity.apiary.subtitle=Make an Apiary
+ftbuniversity.apiary.subtitle=制作一个 Apiary
 ftbuniversity.apiary.desc1=The &bApiary&r will allow you to work bees while keeping the chance to mutate. This allows you to get cooler, more complex bees.
 ftbuniversity.apiary.desc2=The Apiary has room for up to three &bFrames&r, which can effect the Queen's traits (generally increasing production and decreasing the decay of Ignoble Stock).
 ftbuniversity.apiary.task=Any Frame
 
-ftbuniversity.apiaristchest.subtitle=Make an Apiarist's Chest
+ftbuniversity.apiaristchest.subtitle=制作一个 Apiarist's Chest
 ftbuniversity.apiaristchest.desc1=The &bApiarist's Chest&r has 5 pages of 25 slots each that can &6store bees&r.
 ftbuniversity.apiaristchest.desc2=On the left, you can see how many different kinds of bees you've discovered. Hover over a slot to see details on that bee, if it has been scanned in an Analyzer.
 
@@ -1533,12 +1533,12 @@ ftbuniversity.apiaristarmor.subtitle=Make Apiarist's clothes
 ftbuniversity.apiaristarmor.desc=Wearing an entire set of &bApiarist's clothes&r will stop the negative effects of certain bees.
 
 ftbuniversity.alveary1.title=Weird Alveary
-ftbuniversity.alveary1.subtitle=Make an Alveary
+ftbuniversity.alveary1.subtitle=制作一个 Alveary
 ftbuniversity.alveary1.desc1=The &bAlveary&r is essentially a modular multiblock Apiary. It is constructed out of a 3x3x3 cube of Alvery blocks topped by 9 Wood Slabs.
 ftbuniversity.alveary1.desc2=On its own, the Alveary actually has less functionality than an Apiary, in that it can't have Frames. However, you can replace any of the Alveary blocks with other blocks, as detailed in the next quest.
 ftbuniversity.alveary1.task=9x any Wooden Slab
 
-ftbuniversity.alveary2.subtitle=Make an Alveary upgrade
+ftbuniversity.alveary2.subtitle=制作一个 Alveary upgrade
 ftbuniversity.alveary2.desc1=These blocks can replace any Alveary block to give additional functionality. These blocks are:
 ftbuniversity.alveary2.desc2=• The &bAlveary Swarmer&r uses Royal Jelly to give a small chance of generating a &6Swarm Hive&r nearby, which are like natural hives but only drop Ignoble Stock.
 ftbuniversity.alveary2.desc3=• The &bAlveary Fan&r uses RF to &6lower the temperature&r by around 20%%.
@@ -1596,13 +1596,13 @@ ftbuniversity.pollenkit.desc1=The &bPollen Collection Kit&r can be &6used on Lea
 ftbuniversity.pollenkit.desc2=They are one-use only, and will break after.
 
 ftbuniversity.indusapiary.title=Electric Beekeeping
-ftbuniversity.indusapiary.subtitle=Make an Industrial Apiary
+ftbuniversity.indusapiary.subtitle=制作一个 Industrial Apiary
 ftbuniversity.indusapiary.desc1=The &bIndustrial Apiary&r is essentially a &oway&r better version of the Apiary.
 ftbuniversity.indusapiary.desc2=It can't use Frames, but can take &6upgrades&r that make it emulate biomes, let it ignore rain or skylight, reduce bees' lifetimes, or increase their productivity.
 ftbuniversity.indusapiary.desc3=It &6requires RF&r to run.
 
 ftbuniversity.genups.title=Oh, Beehave!
-ftbuniversity.genups.subtitle=Make an Industrial Apiary Upgrade
+ftbuniversity.genups.subtitle=制作一个 Industrial Apiary Upgrade
 ftbuniversity.genups.desc1=The Industrial Apiary has 4 slots for &bUpgrades&r. Some upgrades can be stacked, boosting it even further.
 ftbuniversity.genups.desc2=The tooltip of each upgrade will say what they do, and to how high they can stack.
 ftbuniversity.genups.task=Any Industrial Apiary Upgrade
@@ -1622,7 +1622,7 @@ ftbuniversity.mutatron.desc2=Obviously, the Drone and Princess &ccannot be the s
 ftbuniversity.mutatron.desc3=Each mutation uses up 1,000mB of Mutagen, some RF, and 1 Genetics Labware.
 
 ftbuniversity.advmutatron.title=Why is The m &o&nLowercase&r&o?!&r
-ftbuniversity.advmutatron.subtitle=Make an Advanced mutatron
+ftbuniversity.advmutatron.subtitle=制作一个 Advanced mutatron
 ftbuniversity.advmutatron.desc=The &bAdvanced mutatron&r works exactly the same as the normal Mutatron, except you can &6choose which species to breed into&r.
 
 ftbuniversity.geneticsampler.subtitle=Make a Genetic Sampler
@@ -1691,7 +1691,7 @@ ftbuniversity.exu2enderlily.desc1=&bEnder Lillies&r can be rarely found in dunge
 ftbuniversity.exu2enderlily.desc2=They can be planted on a block and will &overy slowly&r grow, and can eventually be right-clicked to &6harvest a single Ender Pearl&r. They &6grow faster on End Stone&r.
 
 ftbuniversity.exu2potions.title=I Require Your Strongest Potions
-ftbuniversity.exu2potions.subtitle=Make any Exu2 Potion
+ftbuniversity.exu2potions.subtitle=制作一个y Exu2 Potion
 ftbuniversity.exu2potions.desc1=Extra Utilities 2 adds several potions that do pretty neat things. The tooltips should explain most of them, and the name should explain the rest.
 ftbuniversity.exu2potions.desc2=You only need to craft one of these for the quest to complete.
 
@@ -1710,7 +1710,7 @@ ftbuniversity.exu2trash.subtitle=Make a Trash Can
 ftbuniversity.exu2trash.desc=&bTrash Cans&r delete anything piped into them. There are three types: &6item&r, &6fluid&r, and &6energy&r.
 ftbuniversity.exu2trash.task=Any Trash Can
 
-ftbuniversity.exu2angel.subtitle=Make an Angel Block
+ftbuniversity.exu2angel.subtitle=制作一个 Angel Block
 ftbuniversity.exu2angel.desc=The &bAngel Block&r will be placed 1 block away from you in whatever direction you're facing, without having to place it against an existing block. This is especially useful for &6floating structures&r.
 
 ftbuniversity.exu2mechanicals.title=Mechanical Whatsits
@@ -1742,7 +1742,7 @@ ftbuniversity.exu2lasso.subtitle=Make the Lassos
 ftbuniversity.exu2lasso.desc1=The &bGolden Lasso&r can be right-clicked on a &6passive mob to pick it up&r, and can be placed down later.
 ftbuniversity.exu2lasso.desc2=The &bCursed Lasso&r does the same, but works on &6hostile mobs&r.
 
-ftbuniversity.exu2enchanter.subtitle=Make an Enchanter
+ftbuniversity.exu2enchanter.subtitle=制作一个 Enchanter
 ftbuniversity.exu2enchanter.desc1=The &bEnchanter&r uses RF and Lapis to enchant items, if it has &615 Bookshelves&r or &66 Magical Wood&r nearby.
 ftbuniversity.exu2enchanter.desc2=Combining any enchantable item with a &6Lapis Lazuli will enchant it with a single minimum level enchantment&r; combine the item with a &6Nether Star to get a max level enchantment&r.
 ftbuniversity.exu2enchanter.desc3=The Enchanter is also required for certain items, like &6Enchanted Ingots&r.
@@ -1864,7 +1864,7 @@ ftbuniversity.exu2rings.desc4=All of these require GP, naturally.
 ftbuniversity.exu2rings.task=Any Angel Ring
 
 ftbuniversity.exu2porcupine.title=Transvector Something or Other
-ftbuniversity.exu2porcupine.subtitle=Make an Ender Porcupine
+ftbuniversity.exu2porcupine.subtitle=制作一个 Ender Porcupine
 ftbuniversity.exu2porcupine.desc1=The &bEnder Porcupine&r will cycle through all the blocks in its working area, mimicking them.
 ftbuniversity.exu2porcupine.desc2=In its GUI, you can set two corners of a cuboid, which are the X, Y, and Z coordinates relative to the Porcupine.
 ftbuniversity.exu2porcupine.desc3=The Porcupine will iterate through every block in the working area, which you can see by hovering over it. It requires 1GP for each block away the Porcupine is from the mimicked location.
@@ -1893,7 +1893,7 @@ ftbuniversity.exu2gensspeed.desc=This generator can be given the &6Upgrade Speed
 ftbuniversity.exu2furnacegen.subtitle=Make a Furnace Generator
 ftbuniversity.exu2furnacegen.desc=The &bFurnace Generator&r generates an average amount of RF from furnace fuels at an average speed.
 
-ftbuniversity.exu2overclocked.subtitle=Make an Overclocked Generator
+ftbuniversity.exu2overclocked.subtitle=制作一个 Overclocked Generator
 ftbuniversity.exu2overclocked.desc=The &bOverclocked Generator&r generates 1/10th the normal amount of RF from furnace fuels at an extremely high speed.
 
 ftbuniversity.exu2magmatic.subtitle=Make a Magmatic Generator
@@ -1911,10 +1911,10 @@ ftbuniversity.exu2frosty.desc=The &bFrosty Generator&r generates RF from blocks 
 ftbuniversity.exu2culinary.subtitle=Make a Culinary Generator
 ftbuniversity.exu2culinary.desc=The &bCulinary Generator&r generates RF from food, with better food generating more. See its uses in JEI for a full list.
 
-ftbuniversity.exu2explosive.subtitle=Make an Explosive Generator
+ftbuniversity.exu2explosive.subtitle=制作一个 Explosive Generator
 ftbuniversity.exu2explosive.desc=The &bExplosive Generator&r generates RF from Gunpowder or TNT. This will cause explosions that damage entities but not blocks, so don't put this somewhere you go too often.
 
-ftbuniversity.exu2endergen.subtitle=Make an Ender Generator
+ftbuniversity.exu2endergen.subtitle=制作一个 Ender Generator
 ftbuniversity.exu2endergen.desc=The &bEnder Generator&r generates RF from Ender Pearls and Eyes of Ender.
 
 ftbuniversity.exu2potgen.subtitle=Make a Potion Generator
@@ -1965,7 +1965,7 @@ ftbuniversity.ic2tools.desc3=Both tools use up durability when used.
 ftbuniversity.ic2tools.rewards=IC2 Unbreaking II Tools
 
 ftbuniversity.ironfurnace.title=Efficient Smelting
-ftbuniversity.ironfurnace.subtitle=Make an Iron Furnace
+ftbuniversity.ironfurnace.subtitle=制作一个 Iron Furnace
 ftbuniversity.ironfurnace.desc=The &bIron Furnace&r is &625%% more efficient&r at smelting items; that is, fuels that would normally smelt 8 items instead smelt 10.
 
 ftbuniversity.ic2generator.subtitle=Make a Generator
@@ -2024,7 +2024,7 @@ ftbuniversity.ic2loud.desc1=Most IC2 machines make noise as they work. Really lo
 ftbuniversity.ic2loud.desc2=In the &6Music & Sounds&r settings, there's a new slider for IC2 machines. You can turn that down if you don't want your ears to be assaulted every time you use a machine.
 
 ftbuniversity.ic2furnace.title=Microwave
-ftbuniversity.ic2furnace.subtitle=Make an Electric Furnace
+ftbuniversity.ic2furnace.subtitle=制作一个 Electric Furnace
 ftbuniversity.ic2furnace.desc1=The &bElectric Furnace&r is slightly faster than a normal furnace, and is &6powered by LV EU&r.
 ftbuniversity.ic2furnace.desc2=Most IC2 machines can have Upgrades installed. You can see installable upgrades in the &9[i]&r in the top left.
 
@@ -2033,7 +2033,7 @@ ftbuniversity.macerator.subtitle=Make a Macerator
 ftbuniversity.macerator.desc=The &bMacerator&r crushes items using &6LV EU&r. Its main draw is that it can &6double ores&r.
 ftbuniversity.macerator.rewards=Ores
 
-ftbuniversity.extractor.subtitle=Make an Extractor
+ftbuniversity.extractor.subtitle=制作一个 Extractor
 ftbuniversity.extractor.desc1=The &bExtractor&r uses &6LV EU&r to extract items from other items.
 ftbuniversity.extractor.desc2=Its biggest selling point is the ability to &6get more Rubber&r out of Sticky Resin and Rubber Saplings and Logs.
 
@@ -2045,7 +2045,7 @@ ftbuniversity.batbox.desc3=You can &6charge and discharge&r items in the GUI. Pu
 ftbuniversity.batbox.desc4=You can also set it to emit a redstone signal when full, partially full, or empty.
 
 ftbuniversity.orewashingplant.title=Ore 2-and-4/9ths-ing
-ftbuniversity.orewashingplant.subtitle=Make an Ore Washing Plant
+ftbuniversity.orewashingplant.subtitle=制作一个 Ore Washing Plant
 ftbuniversity.orewashingplant.desc1=The &bOre Washing Plant&r can &6further increase your ore yield&r (using &6LV EU&r).
 ftbuniversity.orewashingplant.desc2=Using 1,000mB of Water, it will wash Crushed Ore into Purified Crushed Ore, &6as well as 2 Tiny Piles of Dust&r (and some Stone Dust).
 
@@ -2087,7 +2087,7 @@ ftbuniversity.ic2jetpack.desc1=The &bJetpack&r lets you quickly fly upwards by h
 ftbuniversity.ic2jetpack.desc2=It does not use EU, it &6uses Biogas&r instead.
 ftbuniversity.ic2jetpack.desc3=The Jetpack cannot fly over y=245.
 
-ftbuniversity.ic2elecjet.subtitle=Make an Electric Jetpack
+ftbuniversity.ic2elecjet.subtitle=制作一个 Electric Jetpack
 ftbuniversity.ic2elecjet.desc1=The &bElectric Jetpack&r lets you fly upwards by holding space, and is powered by EU.
 ftbuniversity.ic2elecjet.desc2=The Electric Jetpack cannot fly over y=185.
 
@@ -2130,7 +2130,7 @@ ftbuniversity.solidfuelfire.desc1=The &bSolid Fuel Firebox&r will generate hU us
 ftbuniversity.solidfuelfire.desc2=It has a small chance of producing Ashes as a byproduct.
 
 ftbuniversity.electricheater.title=Electri Cheater
-ftbuniversity.electricheater.subtitle=Make an Electric Heater
+ftbuniversity.electricheater.subtitle=制作一个 Electric Heater
 ftbuniversity.electricheater.desc1=The &bElectric Heater&r accepts up to &6EV EU&r to &6produce hU&r.
 ftbuniversity.electricheater.desc2=To work, you must insert &6up to 10 Coils&r. Each Coil increases the hU output by 10, and increases the EU requirement by 10.
 
@@ -2184,12 +2184,12 @@ ftbuniversity.ic2recycler.desc1=Using &6LV EU&r, the &bRecycler&r will destroy a
 ftbuniversity.ic2recycler.desc2=Scrap can be burned as fuel, crafted into Scrap Boxes (which can be used to give a random item), and, most importantly, &6speeding up the Mass Fabricator&r.
 
 ftbuniversity.ic2energyup.title=Energy Go Up
-ftbuniversity.ic2energyup.subtitle=Make an Energy Storage Upgrade
+ftbuniversity.ic2energyup.subtitle=制作一个 Energy Storage Upgrade
 ftbuniversity.ic2energyup.desc1=For each &bEnergy Storage Upgrade&r installed into a machine, it can &6store 10,000 more EU&r.
 ftbuniversity.ic2energyup.desc2=You can install 4 stacks onto a machine to allow it to store &n2,561,200&r EU. I mean, not that you would. You totally can though.
 
 ftbuniversity.ic2overclock.title=I Have a Legal Obligation to Accelerate
-ftbuniversity.ic2overclock.subtitle=Make an Overclocker Upgrade
+ftbuniversity.ic2overclock.subtitle=制作一个 Overclocker Upgrade
 ftbuniversity.ic2overclock.desc1=&bOverclocker Upgrades&r can be installed onto machines to make them work faster, using more EU.
 ftbuniversity.ic2overclock.desc2=Each Overclocker Upgrade installs &6reduces the time required to 70%%&r current (multiplicatively, so 2 would reduce it to 100*0.7*0.7=34.3%%), but also makes it &6require 60%% more power&r (again, multiplicatively).
 ftbuniversity.ic2overclock.desc3=You can hover over a slot with multiple Overclocker Upgrades, and the tooltip will say the cumulative effect they have.
@@ -2209,13 +2209,13 @@ ftbuniversity.ic2mv.desc2=&6Higher voltage machines can accept lower voltage inp
 ftbuniversity.ic2mv.task=Copper Cables
 
 ftbuniversity.inductionfurnace.title=Macrowave
-ftbuniversity.inductionfurnace.subtitle=Make an Induction Furnace
+ftbuniversity.inductionfurnace.subtitle=制作一个 Induction Furnace
 ftbuniversity.inductionfurnace.desc1=The &bInduction Furnace&r uses &6MV EU&r to slowly build up heat, smelting items. &6The higher the heat, the faster it smelts.&r
 ftbuniversity.inductionfurnace.desc2=You can apply a redstone signal to keep building heat even when not in use, though this will make it constantly drain EU.
 ftbuniversity.inductionfurnace.desc3=Additionally, the Induction Furnace has &62 input and output slots&r, so you can smelt two items at once.
 
 ftbuniversity.ic2packs.title=Power Packs
-ftbuniversity.ic2packs.subtitle=Make an energy-storing backpack
+ftbuniversity.ic2packs.subtitle=制作一个 energy-storing backpack
 ftbuniversity.ic2packs.desc1=The &bBatPack&r, &6Advanced Batpack&r, and &bEnergypack&r, when worn in the chestplate slot, will allow electric items in your inventory to use its charge.
 ftbuniversity.ic2packs.desc2=Higher tiers store more EU, and can charge higher-tier items.
 ftbuniversity.ic2packs.task=Any energy-storing pack
@@ -2229,7 +2229,7 @@ ftbuniversity.ic2staticshoes.subtitle=Make Static Shoes
 ftbuniversity.ic2staticshoes.desc=&bStatic Shoes&r, while worn, charge your Batpack 1 EU for every 5 blocks walked.
 
 ftbuniversity.ic2miscpowered.title=Electric Tools
-ftbuniversity.ic2miscpowered.subtitle=Make an electric tool
+ftbuniversity.ic2miscpowered.subtitle=制作一个 electric tool
 ftbuniversity.ic2miscpowered.desc=The &bElectric Wrench&r, &bElectric Treetap&r, and &bElectric Hoe&r are simply tools that use EU instead of durability.
 ftbuniversity.ic2miscpowered.task=Any electric tool
 
@@ -2267,7 +2267,7 @@ ftbuniversity.ic2paint.title=The Joy of Painting
 ftbuniversity.ic2paint.subtitle=Make a Painter
 ftbuniversity.ic2paint.desc=The &bPainter&r can be crafted with any dye, and then it will &6color Construction Foam Walls&r when used on them.
 
-ftbuniversity.obscurator.subtitle=Make an Obscurator
+ftbuniversity.obscurator.subtitle=制作一个 Obscurator
 ftbuniversity.obscurator.desc1=The &bOscurator&r allows you to retexture every face of a Construction Foam Wall to the texture of another block.
 ftbuniversity.obscurator.desc2=To set a texture, &6sneak right-click it on a block&r to grab that face's texture, then right-click on the CF Wall to set it.
 
@@ -2290,7 +2290,7 @@ ftbuniversity.ic2tesla.desc2=The Tesla Coil only works when &6given a redstone s
 ftbuniversity.ic2tesla.desc3=The amount of damage it deals depends on the amount of EU/p it gets, though it still can only accept up to MV.
 
 ftbuniversity.lvtrans.title=LV↔MV
-ftbuniversity.lvtrans.subtitle=Make an LV-Transformer
+ftbuniversity.lvtrans.subtitle=制作一个 LV-Transformer
 ftbuniversity.lvtrans.desc1=The &bLV-Transformer&r will allow you to &6convert between Low and Medium Voltage&r.
 ftbuniversity.lvtrans.desc2=The side that has a different texture is the higher-voltage side, and all others are the lower-voltage sides.
 ftbuniversity.lvtrans.desc3=There are two modes: &6Step-Down&r and &6Step-Up&r.
@@ -2325,20 +2325,20 @@ ftbuniversity.ic2mininglaser.desc9=• &6Super-heat&r: Smelts blocks mined
 ftbuniversity.ic2mininglaser.desc10=• &63x3&r: shoots 9 average-power beams that stay parallel
 
 ftbuniversity.mfe.title=Multi-Functional Electric storage unit
-ftbuniversity.mfe.subtitle=Make an MFE
+ftbuniversity.mfe.subtitle=制作一个 MFE
 ftbuniversity.mfe.desc1=The &bMFE&r can store up to &64,000,000 EU&r, and outputs at &6High Voltage&r.
 ftbuniversity.mfe.desc2=Hopefully by now you understand what sides are input and output.
 
-ftbuniversity.mfsuupgrade.subtitle=Make an MFSU Upgrade Kit
+ftbuniversity.mfsuupgrade.subtitle=制作一个 MFSU Upgrade Kit
 ftbuniversity.mfsuupgrade.desc1=The &bMFSU Upgrade Kit&r can be used on an MFE to turn it into an MFSU, keeping its EU.
 ftbuniversity.mfsuupgrade.desc2=Why one of these doesn't exist for every tier, we'll never know.
 
 ftbuniversity.mvtrans.title=MV↔HV
-ftbuniversity.mvtrans.subtitle=Make an HV-Transformer
+ftbuniversity.mvtrans.subtitle=制作一个 HV-Transformer
 ftbuniversity.mvtrans.desc1=The &bMV-Transformer&r will allow you to &6convert between Medium and High Voltage&r.
 ftbuniversity.mvtrans.desc2=All other functionality is identical to the LV-Transformer. See its quest for details.
 
-ftbuniversity.ic2advancedminer.subtitle=Make an Advanced Miner
+ftbuniversity.ic2advancedminer.subtitle=制作一个 Advanced Miner
 ftbuniversity.ic2advancedminer.desc1=The &bAdvanced Miner&r &6does not require a Mining Drill or Mining Pipes&r, and instead uses only &6HV EU&r and a &6Scanner&r.
 ftbuniversity.ic2advancedminer.desc2=In its GUI, you can set a whitelist/blacklist and if it should use Silk Touch (which increases EU cost).
 ftbuniversity.ic2advancedminer.desc3=When running, it will say the relative coordinates of the block it is currently scanning.
@@ -2358,15 +2358,15 @@ ftbuniversity.ic2ev.desc1=&bHV Cables&r can transfer up to &6Extreme Voltage&r, 
 ftbuniversity.ic2ev.desc2=HV Cables have &64 tiers of insulation&r, protecting more from shocks.
 ftbuniversity.ic2ev.task=HV Cables
 
-ftbuniversity.eudetect.subtitle=Make an EU-Detector Cable
+ftbuniversity.eudetect.subtitle=制作一个 EU-Detector Cable
 ftbuniversity.eudetect.desc=The &bEU-Detector Cable&r will emit a redstone signal while EU is passing through it.
 
 ftbuniversity.eusplitter.title=Brexit Cable
-ftbuniversity.eusplitter.subtitle=Make an EU-Splitter Cable
+ftbuniversity.eusplitter.subtitle=制作一个 EU-Splitter Cable
 ftbuniversity.eusplitter.desc=The &bEU-Splitter Cable&r prevents EU from passing through it when given a redstone signal.
 
 ftbuniversity.mfsu.title=Multi-Functional Storage Unit
-ftbuniversity.mfsu.subtitle=Make an MFSU
+ftbuniversity.mfsu.subtitle=制作一个 MFSU
 ftbuniversity.mfsu.desc1=The &bMFSU&r can store up to &640,000,000 EU&r, and outputs at &6Extreme Voltage&r.
 ftbuniversity.mfsu.desc2=Oddly enough, the 6 Lapotron Crystals it's made with can each store 10,000,000 EU, so it really should store 60,000,000 EU. It doesn't, though.
 
@@ -2407,7 +2407,7 @@ ftbuniversity.ic2iv.desc3=No machines use Insane Voltage, but remember it can tr
 ftbuniversity.ic2iv.desc4=Glass Fibre Cables will transfer every voltage as fast, since &6voltage is not current&r.
 
 ftbuniversity.ivtrans.title=EV↔IV
-ftbuniversity.ivtrans.subtitle=Make an EV-Transformer
+ftbuniversity.ivtrans.subtitle=制作一个 EV-Transformer
 ftbuniversity.ivtrans.desc1=The &bEV-Transformer&r allows you to &6convert between Extreme Voltage and Insane Voltage&r.
 ftbuniversity.ivtrans.desc2=Pretty much nothing generates or uses Insane Voltage, so... there's not really a need for this.
 
@@ -2453,7 +2453,7 @@ ftbuniversity.ic2nuclear3.desc3=If you insert a &bFuel Rod (Uranium)&r, it will 
 ftbuniversity.ic2nuclear3.desc4=&6Read &nevery&r&6 quest that depends on this one before doing anything more complex.&r
 
 ftbuniversity.ic2rtg.title=Rumble Tumble Generator
-ftbuniversity.ic2rtg.subtitle=Make an RTG-powered generator
+ftbuniversity.ic2rtg.subtitle=制作一个 RTG-powered generator
 ftbuniversity.ic2rtg.desc1=&bRTG&r is made out of Plutonium, which you can extract from Depleted Fuel Cells.
 ftbuniversity.ic2rtg.desc2=When put into a &bRadioisotope Thermoelectric Generator&b, it will generate 1 EU/t forever. The amount doubles with each you put in, up to 32 EU/t from 6 RTG.
 ftbuniversity.ic2rtg.desc3=The &bRadioisotope Heat Generator&r does the same, but instead of EU it generates up to 64 hU.
@@ -2601,13 +2601,13 @@ ftbuniversity.iecoveredbelt.desc2=&bCovered Conveyor Belts'&r items cannot be pi
 ftbuniversity.iecoveredbelt.desc3=&6Almost every Belt type has a Covered version.&r
 ftbuniversity.iecoveredbelt.task=Any Covered Belt
 
-ftbuniversity.ierouter.subtitle=Make an Item Router
+ftbuniversity.ierouter.subtitle=制作一个 Item Router
 ftbuniversity.ierouter.desc1=The &bItem Router&r will send items input into the direction that you set.
 ftbuniversity.ierouter.desc2=Each side has a color. In the GUI, you can set a whitelist of 8 items per color-coded side, and those items will be output through that side.
 ftbuniversity.ierouter.desc3=You can also toggle &6OreDictionary&r, &6NBT&r, and &6Fuzzy Filters&r per side.
 
 ftbuniversity.engineershammer.title=Percussive Maintenance
-ftbuniversity.engineershammer.subtitle=Make an Engineer's Hammer
+ftbuniversity.engineershammer.subtitle=制作一个 Engineer's Hammer
 ftbuniversity.engineershammer.desc=The &bEngineer's Hammer&r is arguably the most important tool in Immersive Engineering. It is required to form multiblocks and configure some other specific machines.
 
 ftbuniversity.iecokeoven.title=Time to Cook
@@ -2675,7 +2675,7 @@ ftbuniversity.iecapacitors.desc1=&bCapacitors&r &6store RF&r, and have multiple 
 ftbuniversity.iecapacitors.desc2=Capacitors have &6no GUI&r. To set which sides are input or output, &6use an Engineer's Hammer on them&r. Blue=in, orange=out.
 ftbuniversity.iecapacitors.task=Any Capacitor
 
-ftbuniversity.engineersworkbench.subtitle=Make an Engineer's Workbench
+ftbuniversity.engineersworkbench.subtitle=制作一个 Engineer's Workbench
 ftbuniversity.engineersworkbench.desc1=The &bEngineer's Workbenches&r offer exclusive crafting recipes, set by the &bEngineer's Blueprint&r inserted into them.
 ftbuniversity.engineersworkbench.desc2=Insert the Blueprint, then hover over one of the items on the right and it will say which items and their amounts that you need. Once those requirements are met, you can pull the item out of the right slots.
 ftbuniversity.engineersworkbench.desc3=The Blueprints specified in this quest &6can be crafted&r, however there are two others that you can only get by &6trading with a Villager&r.
@@ -2694,7 +2694,7 @@ ftbuniversity.ieminingdrill.desc3=The Mining Drill is &6powered by Biodiesel&r, 
 ftbuniversity.ieminingdrill.desc4=The mining area is set by the Drill Head you use. Sneaking will make you mine a single block at a time.
 
 ftbuniversity.miningdrillupgrades.title=Drill Upgrades
-ftbuniversity.miningdrillupgrades.subtitle=Make any Mining Drill Upgrade
+ftbuniversity.miningdrillupgrades.subtitle=制作一个y Mining Drill Upgrade
 ftbuniversity.miningdrillupgrades.desc1=Up to 3 &bMining Drill upgrades&r can be installed on a Mining Drill by putting it in the left slot of an Engineer's Workbench and upgrades in the center slots.
 ftbuniversity.miningdrillupgrades.desc2=The upgrade's &6tooltip explains when it does&r.
 ftbuniversity.miningdrillupgrades.task=Any Mining Drill Upgrade
@@ -2825,7 +2825,7 @@ ftbuniversity.ipdisttower.task=Look at a completed Distillation Tower
 ftbuniversity.iplubecan.subtitle=Make a Lubricant Can
 ftbuniversity.iplubecan.desc=A full &bLubricant Can&r can be &6clicked on a Pumpjack, Excavator, or Crusher to speed them up&r.
 
-ftbuniversity.ipautolube.subtitle=Make an Automated Lubricator
+ftbuniversity.ipautolube.subtitle=制作一个 Automated Lubricator
 ftbuniversity.ipautolube.desc1=An &bAutomatic Lubricator&r can be &6placed adjacent to a Pumpjack, Excavator, or Crusher to speed them up&r while it has a supply of Lubricant.
 ftbuniversity.ipautolube.desc2=Hold the Automatic Lubricator to see where exactly you need to place it for it to work.
 
@@ -2928,14 +2928,14 @@ ftbuniversity.regulatormod.desc1=The &bRegulator Tube Module&r allows you to &6l
 ftbuniversity.regulatormod.desc2=The Regulator Tube acts as a &6transformer&r, allowing you to have a high-pressure system convert into a low-power system.
 ftbuniversity.regulatormod.desc3=The pressure threshold is set by the redstone signal strength given to it (&6see the PNC:R Manual&r). Installing an Advanced PCB onto it will allow you to manually set the exact threshold.
 
-ftbuniversity.airgratemod.subtitle=Make an Air Grate Tube Module
+ftbuniversity.airgratemod.subtitle=制作一个 Air Grate Tube Module
 ftbuniversity.airgratemod.desc1=The &bAir Grate Tube Module&r will use compressed air to &6move entities&r in its range (see the tooltip for details).
 ftbuniversity.airgratemod.desc2=Positive air pressure will push, and negative air pressure (which requires a Vacuum Pump) will pull.
 ftbuniversity.airgratemod.desc3=Using an Advanced PCB on it will upgrade it, allowing you to set what entities are affected.
 ftbuniversity.airgratemod.desc4=The Air Grate can also be used to &6cool Heat Sinks&r that are within a 3x3x3 cube in front of it.
 
 ftbuniversity.aircompressor.title=What's the Matter Compressor?
-ftbuniversity.aircompressor.subtitle=Make an Air Compressor
+ftbuniversity.aircompressor.subtitle=制作一个 Air Compressor
 ftbuniversity.aircompressor.desc1=The &bAir Compressor&r burns solid furnace fuel to &6generate compressed air&r.
 ftbuniversity.aircompressor.desc2=The left tabs can be expanded to see information about the machine, set how redstone effects it, and see information about upgrades.
 
@@ -2997,7 +2997,7 @@ ftbuniversity.chargemod.subtitle=Make a Charging Module
 ftbuniversity.chargemod.desc=The &bCharging Module&r can be placed on a Pressure Tube and it will charge all items in the inventory it is facing.
 
 ftbuniversity.pnaircan.title=Canned Air
-ftbuniversity.pnaircan.subtitle=Make an Air Canister
+ftbuniversity.pnaircan.subtitle=制作一个 Air Canister
 ftbuniversity.pnaircan.desc1=The &bAir Canister&r is essentially PneumaticCraft's battery, as it &6stores compressed air&r.
 ftbuniversity.pnaircan.desc2=However, its main use is to be crafted into tools. Any air in the Air Can will be kept in the tool it is crafted into.
 ftbuniversity.pnaircan.desc3=However however, putting a high-pressure Air Canister into a low-pressure Charging Station will &6discharge the Canister, emptying into the system&r.
@@ -3014,7 +3014,7 @@ ftbuniversity.camoapp.desc1=The &bCamouflage Applicator&r can &6make camouflagea
 ftbuniversity.camoapp.desc2=Sneak right-click the Applicator on a block (like Grass or Stone), then click on a any camouflageable block (which &6will be highlighted when holding the applicator&r) to camouflage it.
 
 ftbuniversity.amadron.title=Drone Delivery
-ftbuniversity.amadron.subtitle=Make an Amadron Tablet
+ftbuniversity.amadron.subtitle=制作一个 Amadron Tablet
 ftbuniversity.amadron.desc1=The &bAmadron Tablet&r allows you to &6trade Emeralds for certain items/fluids&r.
 ftbuniversity.amadron.desc2=Sneak right-click the Tablet on an inventory to set it as the location for pickup/dropoff of items, or a tank for fluids.
 ftbuniversity.amadron.desc3=Open the Tablet's GUI to select a trade. Click a trade, and a Drone will come pick up the item left of the arrow, and then another will drop off the item to the right.
@@ -3028,7 +3028,7 @@ ftbuniversity.minigun.desc3=In the Charging Station, you can &6install several u
 
 ftbuniversity.pcb.title=PCB
 ftbuniversity.pcb.subtitle=Go through all the steps to make a PCB
-ftbuniversity.pcb.desc1=First, make an &bEmpty PCB&r in the Pressure Chamber.
+ftbuniversity.pcb.desc1=First, 制作一个 &bEmpty PCB&r in the Pressure Chamber.
 ftbuniversity.pcb.desc2=To make it into an &bAssembled PCB&r, &6throw it in some &bEtching Acid&r.
 ftbuniversity.pcb.desc3=A fresh Empty PCB has virtually no chance of successfully assembling. Put it in a &bUV Light Box&r to increase the chances.
 ftbuniversity.pcb.desc4=Finally, craft it with some Transistors and Capacitors to make a &bPrinted Circuit Board&r, which is used in crafting recipes.
@@ -3065,7 +3065,7 @@ ftbuniversity.spawneragitator.desc1=The &bSpawner Agitator&r can be placed on a 
 ftbuniversity.spawneragitator.desc2=Sneak click it with a Logistics Configurator to dismantle it.
 
 ftbuniversity.passemblyline.title=Assembly Line
-ftbuniversity.passemblyline.subtitle=Make an Assembly Line
+ftbuniversity.passemblyline.subtitle=制作一个 Assembly Line
 ftbuniversity.passemblyline.desc1=&bAssembly lines&r are multiblock machines that allow for certain crafting recipes. All parts of the assembly line must touch.
 ftbuniversity.passemblyline.desc2=The &bAssembly Controller&r is where air is input, and contains the Assembly Program.
 ftbuniversity.passemblyline.desc3=The &bAssembly Platform&r must be the center point of the assembly line. Every other block must be able to reach it.
@@ -3131,7 +3131,7 @@ ftbuniversity.simplecrafter.desc1=The &bSimple Crafter&r uses RF to automaticall
 ftbuniversity.simplecrafter.desc2=Set the recipe on the right, and then input items will go into the corresponding slots on the right.
 
 ftbuniversity.capitems.title=Capacitors
-ftbuniversity.capitems.subtitle=Make any Capacitor
+ftbuniversity.capitems.subtitle=制作一个y Capacitor
 ftbuniversity.capitems.desc1=&bCapacitors&r must be installed onto machines above Simple-tier for them to function.
 ftbuniversity.capitems.desc2=Capacitors come in &6several tiers&r. Normally the order might not be obvious, but the mod &eLoot Capacitor Tooltips&r also adds tooltips showing the power of each.
 ftbuniversity.capitems.desc3=&6Capacitors of higher tier work faster and store more RF.&r
@@ -3139,7 +3139,7 @@ ftbuniversity.capitems.desc4=Several of these Capacitors do not come default wit
 ftbuniversity.capitems.desc5=You may also find &bLoot Capacitors&r in dungeon chests. These give &6bonuses to specific machines&r. Normally you pretty much have to guess, but the mod &eLoot Capacitor Tooltips&r just puts it into the tooltip.
 ftbuniversity.capitems.task=Any Capacitor
 
-ftbuniversity.induschass.subtitle=Make an Industrial Machine Chassis
+ftbuniversity.induschass.subtitle=制作一个 Industrial Machine Chassis
 ftbuniversity.induschass.desc1=&bIndustrial Machine Chassis&r are used in the crafting recipes of normal-tier machines.
 ftbuniversity.induschass.desc2=Again, you do not have to craft every machine in this tier; completing the Enhanced-tier quests will also complete these.
 ftbuniversity.induschass.desc3=As of this tier, &6need to have Capacitors installed&r in the bottom left. See the Capacitor quest at the top for details.
@@ -3156,7 +3156,7 @@ ftbuniversity.combustiongenerator.desc1=The &bCombustion Generator&r generates R
 ftbuniversity.combustiongenerator.desc2=See its uses in JEI for how much energy different combinations generate.
 
 ftbuniversity.alloysmelter.title=Mix and Match
-ftbuniversity.alloysmelter.subtitle=Make an Alloy Smelter
+ftbuniversity.alloysmelter.subtitle=制作一个 Alloy Smelter
 ftbuniversity.alloysmelter.desc1=The &bAlloy Smelter&r has all alloy and furnace recipes.
 ftbuniversity.alloysmelter.desc2=The &6Furnace Mode&r button can toggle between using all recipes, using only furnace recipes, and using only alloy recipes.
 ftbuniversity.alloysmelter.reward1=Auto-complete Simple Powered Furnace quest
@@ -3194,19 +3194,19 @@ ftbuniversity.graphpower.desc1=The &bGraphical Power Monitor&r has all the same 
 ftbuniversity.graphpower.desc2=However, it also has a graph of system energy over time on a logarithmic scale.
 
 ftbuniversity.enhancedchassis.title=Chad Machines
-ftbuniversity.enhancedchassis.subtitle=Make an Enhanced Machine Chassis
+ftbuniversity.enhancedchassis.subtitle=制作一个 Enhanced Machine Chassis
 ftbuniversity.enhancedchassis.desc1=The &bEnhanced Machine Chassis&r are used in the recipes of Enhanced-tier machines.
 ftbuniversity.enhancedchassis.desc2=Enhanced machines are generally faster. Also taller, though that doesn't really matter.
 
-ftbuniversity.enhancedcombustion.subtitle=Make an Enhanced Combustion Generator
+ftbuniversity.enhancedcombustion.subtitle=制作一个 Enhanced Combustion Generator
 ftbuniversity.enhancedcombustion.desc=The &bEnhanced Combustion Generator&r makes &6twice as much RF&r as the Combustion Generator.
 ftbuniversity.enhancedcombustion.reward=Auto-complete Combustion Generator quest
 
-ftbuniversity.enhancedalloysmelt.subtitle=Make an Enhanced Alloy Smelter
+ftbuniversity.enhancedalloysmelt.subtitle=制作一个 Enhanced Alloy Smelter
 ftbuniversity.enhancedalloysmelt.desc=The &bEnhanced Alloy Smelter&r is &6twice as fast&r as the Alloy Smelter.
 ftbuniversity.enhancedalloysmelt.reward=Auto-complete Alloy Smelter quest
 
-ftbuniversity.enhancedsag.subtitle=Make an Enhanced SAG Mill
+ftbuniversity.enhancedsag.subtitle=制作一个 Enhanced SAG Mill
 ftbuniversity.enhancedsag.desc=The &bEnhanced SAG Mill&r is &6twice as fast&r as the SAG Mill.
 ftbuniversity.enhancedsag.reward=Auto-complete SAG Mill quest
 
@@ -3214,7 +3214,7 @@ ftbuniversity.enhancedvat.subtitle=Make The Enhanced Vat
 ftbuniversity.enhancedvat.desc=&bThe Enhanced Vat&r is &6twice as fast&r as The Vat.
 ftbuniversity.enhancedvat.reward=Auto-complete The Vat quest
 
-ftbuniversity.enhancedcharger.subtitle=Make an Enhanced Wired Charger
+ftbuniversity.enhancedcharger.subtitle=制作一个 Enhanced Wired Charger
 ftbuniversity.enhancedcharger.desc=The &bEnhanced Wired Charger&r has a &6much larger energy buffer&r, allowing it to more easily charge items that can store more RF.
 ftbuniversity.enhancedcharger.reward=Auto-complete Wired Charger quest
 
@@ -3250,21 +3250,21 @@ ftbuniversity.eiospawner.desc1=The &bPowered Spawner&r will use RF to spawn mobs
 ftbuniversity.eiospawner.desc2=&6Combine the Powered Spawner with a Broken Spawner&r to set it to the Spawner's mob. You can change the Spawner's mob using a Soul Binder.
 ftbuniversity.eiospawner.desc3=You can also set the Powered Spawner to directly insert mobs into Soul Vials, instead of spawning in the world.
 
-ftbuniversity.xpobel.subtitle=Make an Experience Obelisk
+ftbuniversity.xpobel.subtitle=制作一个 Experience Obelisk
 ftbuniversity.xpobel.desc1=The &bExperience Obelisk&r can store a nearly infinite amount of experience.
 ftbuniversity.xpobel.desc2=In its GUI, you can move XP between it and yourself. You can also pump xp in and out as a fluid.
 
-ftbuniversity.aversobel.subtitle=Make an Aversion Obelisk
+ftbuniversity.aversobel.subtitle=制作一个 Aversion Obelisk
 ftbuniversity.aversobel.desc1=The &bAversion Obelisk&r will prevent specific mobs from spawning in its area using RF.
 ftbuniversity.aversobel.desc2=In its GUI, give it up to 12 filled Soul Vials to choose which mobs to block.
 ftbuniversity.aversobel.desc3=A tier 1 Capacitor gives it a working area of &665x65x65&r. A tier 5 Capacitor has a working area of &6&n385x385x385&r.
 
-ftbuniversity.attrobel.subtitle=Make an Attractor Obelisk
+ftbuniversity.attrobel.subtitle=制作一个 Attractor Obelisk
 ftbuniversity.attrobel.desc1=The &bAttractor Obelisk&r will make specific mobs in its area try to navigate to it using RF.
 ftbuniversity.attrobel.desc2=In its GUI, give it up to 12 filled Soul Vials to choose which mobs to attract.
 ftbuniversity.attrobel.desc3=A tier 1 Capacitor gives it a working area of &617x17x17&r. A tier 5 Capacitor has a working area of &6257x257x257&r.
 
-ftbuniversity.inhibobel.subtitle=Make an Inhibitor Obelisk
+ftbuniversity.inhibobel.subtitle=制作一个 Inhibitor Obelisk
 ftbuniversity.inhibobel.desc1=The &bInhibitor Obelisk&r will prevent teleportation in its working area (though it only works on Endermen and thrown Ender Pearls) using RF.
 ftbuniversity.inhibobel.desc2=A tier 1 Capacitor gives it a working area of &633x33x33&r. A tier 5 Capacitor has a working area of &6193x193x193&r.
 
@@ -3286,18 +3286,18 @@ ftbuniversity.yetawrench.desc2=Scroll while sneaking to make all but one Conduit
 ftbuniversity.yetawrench.desc3=See its tooltip for more information.
 
 ftbuniversity.eiomagnet.title=Apparently Literally Everything is Magnetic
-ftbuniversity.eiomagnet.subtitle=Make an Electromagnet
+ftbuniversity.eiomagnet.subtitle=制作一个 Electromagnet
 ftbuniversity.eiomagnet.desc1=The &bElectromagnet&r will pull items towards you while on, using RF.
 ftbuniversity.eiomagnet.desc2=Sneak right-click it to toggle it on or off. It must be in your hotbar or bauble slots to function.
 
 ftbuniversity.eiochargeritem.title=Portable Battery
-ftbuniversity.eiochargeritem.subtitle=Make an Inventory Charger
+ftbuniversity.eiochargeritem.subtitle=制作一个 Inventory Charger
 ftbuniversity.eiochargeritem.desc1=&bInventory Chargers&r use RF to charge items in your inventory (though the Simple one only charges adjacent items).
 ftbuniversity.eiochargeritem.desc2=For it to function, you have to &6install a Dark Steel Upgrade "Empowered"&r using a Dark Steel Anvil.
 ftbuniversity.eiochargeritem.desc3=Right-click the Inventory Charger to turn it on or off.
 ftbuniversity.eiochargeritem.task=Any Inventory Charger
 
-ftbuniversity.xpvacuum.subtitle=Make an XP Vacuum
+ftbuniversity.xpvacuum.subtitle=制作一个 XP Vacuum
 ftbuniversity.xpvacuum.desc1=The &bXP Vacuum&r, when activated, will pull nearby experience orbs towards itself, and then insert them into an adjacent tank.
 ftbuniversity.xpvacuum.desc2=To activate it, &6click it with a Liquid XP Bucket&r.
 
@@ -3317,7 +3317,7 @@ ftbuniversity.soulvial.desc2=This can be used to move mobs, but certain filled V
 ftbuniversity.eiowirelesscharger.subtitle=Make a Wireless Charger
 ftbuniversity.eiowirelesscharger.desc=The &bWireless Charger&r will charge items in players' inventories, as long as they are within a &633x33x33 area&r centered on it.
 
-ftbuniversity.eioenchanter.subtitle=Make an Enchanter
+ftbuniversity.eioenchanter.subtitle=制作一个 Enchanter
 ftbuniversity.eioenchanter.desc1=The &bEnchanter&r will use your experience, some Lapis Lazuli, and certain items to make Enchanted Books.
 ftbuniversity.eioenchanter.desc2=See its uses in JEI to see what enchantments it can give, and what they cost.
 
@@ -3402,7 +3402,7 @@ ftbuniversity.stellartools.desc2=See the Upgrades quest for details.
 ftbuniversity.stellartools.task=Stellar tools
 ftbuniversity.stellartools.reward=Auto-complete the Ender tool quest
 
-ftbuniversity.endergenerator.subtitle=Make an Ender Generator
+ftbuniversity.endergenerator.subtitle=制作一个 Ender Generator
 ftbuniversity.endergenerator.desc=The &bEnder Generator&r generates RF using &6Dew of the Void&r.
 
 ftbuniversity.eioupgrades.title=Upgrades
@@ -3424,7 +3424,7 @@ ftbuniversity.itemconduit.desc4=You can also set a color channel for each, and g
 ftbuniversity.itemconduit.desc5=You can put every kind of Conduit in the same block-space.
 
 ftbuniversity.eiofilters.title=Filtering
-ftbuniversity.eiofilters.subtitle=Make an Item Filter
+ftbuniversity.eiofilters.subtitle=制作一个 Item Filter
 ftbuniversity.eiofilters.desc1=&bItem Filters&r can be inserted into Inserting Item Conduits to set what is or isn't allowed to enter it.
 ftbuniversity.eiofilters.desc2=You can sneak-click a Filter to open its GUI, if it has one.
 ftbuniversity.eiofilters.desc3=There are many times of Item Filter. Their names should explain pretty adequately, and their tooltip will explain further if required.
@@ -3471,7 +3471,7 @@ ftbuniversity.capacitorbanks.desc3=You can sneak click any face with an empty ha
 ftbuniversity.capacitorbanks.desc4=You can break a Capacitor Bank and it will &6keep its RF&r.
 ftbuniversity.capacitorbanks.task=Any Capacitor Bank
 
-ftbuniversity.eiospeed.subtitle=Make an Extract Speed Upgrade
+ftbuniversity.eiospeed.subtitle=制作一个 Extract Speed Upgrade
 ftbuniversity.eiospeed.desc=&bExtract Speed Upgrades&r can be installed on Item Conduits and Ender Fluid Conduits to increase their extract speed.
 
 ftbuniversity.eiotank.title=Fluid Storage
@@ -3510,20 +3510,20 @@ ftbuniversity.metallurgicinfuser.desc3=Notably, it can be used to create allows 
 ftbuniversity.meksolar.subtitle=Make a Solar Generator
 ftbuniversity.meksolar.desc=The &bSolar Generator&r generates &617.6 RF/t&r when it can see the sun.
 
-ftbuniversity.meksolar2.subtitle=Make an Advanced Solar Generator
+ftbuniversity.meksolar2.subtitle=制作一个 Advanced Solar Generator
 ftbuniversity.meksolar2.desc=The &bAdvanced Solar Generator&r generates &6105.6 RF/t&r when it can see the sun.
 
 ftbuniversity.mekwind.subtitle=Make a Wind Generator
 ftbuniversity.mekwind.desc=The &bWind Generator&r produces RF based on its elevation. &6At y=200, it generates 384RF/t.&r
 
-ftbuniversity.energycubes.subtitle=Make an Energy Cube
+ftbuniversity.energycubes.subtitle=制作一个 Energy Cube
 ftbuniversity.energycubes.desc1=&bEnergy Cubes&r come in four tiers, each storing more RF.
 ftbuniversity.energycubes.desc2=See their tooltips for how much they store. The lowest stores &6800,000RF&r, and the highest stores &651,200,000RF&r.
 ftbuniversity.energycubes.desc3=The top left button in their GUI allows you to set if each side is input or output.
 ftbuniversity.energycubes.task=Energy Cubes
 
 ftbuniversity.inductionmatrix.title=Induction Matrix
-ftbuniversity.inductionmatrix.subtitle=Make an Induction Matrix
+ftbuniversity.inductionmatrix.subtitle=制作一个 Induction Matrix
 ftbuniversity.inductionmatrix.desc1=The &bInduction Matrix&r is a multiblock machine that is used to &6store a massive amount of RF&r.
 ftbuniversity.inductionmatrix.desc2=The outermost walls must be made out of &bInduction Casing&r, making a rectangular prism that's, at largest, 18x18x18.
 ftbuniversity.inductionmatrix.desc3=Replace any of the walls with &bInduction Ports&r, where energy is inserted/extracted.
@@ -3534,7 +3534,7 @@ ftbuniversity.inductionmatrix.desc7=Theoretically, an 18x18x18 Matrix with 1 Pro
 ftbuniversity.inductionmatrix.task1=Induction Providers
 ftbuniversity.inductionmatrix.task2=Induction Cells
 
-ftbuniversity.energizedsmelter.subtitle=Make an Energized Smelter
+ftbuniversity.energizedsmelter.subtitle=制作一个 Energized Smelter
 ftbuniversity.energizedsmelter.desc=The &bEnergized Smelter&r uses RF to smelt items.
 
 # It took so much willpower to not be crass
@@ -3543,7 +3543,7 @@ ftbuniversity.seismic.subtitle=Make a Seismic Vibrator and Reader
 ftbuniversity.seismic.desc1=The &bSeismic Vibrator&r uses RF to allow the &bSeismic Reader&r to work.
 ftbuniversity.seismic.desc2=The Seismic Reader will show all blocks in a 1x1 column beneath the Vibrator, all the way down to Bedrock.
 
-ftbuniversity.mekpump.subtitle=Make an Electric Pump
+ftbuniversity.mekpump.subtitle=制作一个 Electric Pump
 ftbuniversity.mekpump.desc1=The &bElectric Pump&r uses RF to pump fluids under it, inserting it into the container above. It will pull from all connected source blocks as well.
 ftbuniversity.mekpump.desc2=Sources are not replaced with Stone like some mods do, so this might cause lag from all the 
 ftbuniversity.mekpump.desc3=If pumping Water, it will not remove the source blocks.
@@ -3576,22 +3576,22 @@ ftbuniversity.logsorter.desc6=• &6Mod ID&r: type in a mod id and it will accep
 ftbuniversity.logsorter.desc7=The main screen also has buttons that allow you to toggle between stack/single-item modes, enabling round-robin mode (using Transporters), and if it ignores filters and just moves all items.
 ftbuniversity.logsorter.desc8=You can also change the color tag, which is explained in the Logistical Transporter quest.
 
-ftbuniversity.osmcomp.subtitle=Make an Osmium Compressor
+ftbuniversity.osmcomp.subtitle=制作一个 Osmium Compressor
 ftbuniversity.osmcomp.desc1=The &bOsmium Compressor&r is used to &6infuse Osmium into Obsidian or Glowstone&r.
 ftbuniversity.osmcomp.desc2=Put Osmium in the bottom slot, and then either Refined Obsidian Dust or Glowstone Dust to get a Refined Obsidian Ingot or Glowstone Ingot, respectively.
 
 ftbuniversity.basicfactories.title=Parallel Production
-ftbuniversity.basicfactories.subtitle=Make any Basic Factory
+ftbuniversity.basicfactories.subtitle=制作一个y Basic Factory
 ftbuniversity.basicfactories.desc1=&bBasic Factories&r exist for most Mekanism machines, and function identically.
 ftbuniversity.basicfactories.desc2=However, each Basic Factory has &63 inputs and outputs&r, allowing it work three stacks at once.
 ftbuniversity.basicfactories.desc3=You can also enable &6Auto-sort&r, which will automatically split the input slots equally.
 ftbuniversity.basicfactories.task=Basic Factories
 
-ftbuniversity.advfactories.subtitle=Make any Advanced Factory
+ftbuniversity.advfactories.subtitle=制作一个y Advanced Factory
 ftbuniversity.advfactories.desc=&bAdvanced Factories&r have &65 inputs and outputs&r.
 ftbuniversity.advfactories.task=Advanced Factories
 
-ftbuniversity.elitefactories.subtitle=Make any Elite Factory
+ftbuniversity.elitefactories.subtitle=制作一个y Elite Factory
 ftbuniversity.elitefactories.desc=&bElite Factories&r have &67 inputs and outputs&r.
 ftbuniversity.elitefactories.task=Elite Factories
 
@@ -3608,7 +3608,7 @@ ftbuniversity.mekx2.desc1=Mekanism is unique among most mods in that it can proc
 ftbuniversity.mekx2.desc2=These quests will walk you through each step of the processing. To begin with, the quest below allows ore doubling.
 
 ftbuniversity.enrichcenter.title=Aperature Science Enrichment Center
-ftbuniversity.enrichcenter.subtitle=Make an Enrichment Chamber
+ftbuniversity.enrichcenter.subtitle=制作一个 Enrichment Chamber
 ftbuniversity.enrichcenter.desc1=The &bEnrichment Chamber&r enriches items, cleaning them, compressing them, or extracting from them.
 ftbuniversity.enrichcenter.desc2=This can be used to convert 1 ore into 2 dusts, as well as compress secondary materials for optimum use in the Metallurgic Infuser.
 
@@ -3625,7 +3625,7 @@ ftbuniversity.mekx3.title=Ore Tripling
 ftbuniversity.mekx3.subtitle=Learn how to triple ores
 ftbuniversity.mekx3.desc=These quests will show how to triple your ore output.
 
-ftbuniversity.electrosep.subtitle=Make an Electrolytic Separator
+ftbuniversity.electrosep.subtitle=制作一个 Electrolytic Separator
 ftbuniversity.electrosep.desc1=The &bElectrolytic Separator&r takes one fluid and splits it into two &6gases&r (which are &nnot fluids&r).
 ftbuniversity.electrosep.desc2=For &6ore doubling&r, you need to split Water into Hydrogen and &6Oxygen&r.
 ftbuniversity.electrosep.desc3=For &6ore tripling&r, you need to split Brine into &6Chlorine&r and Sodium, as well as the &6Hydrogen&r from earlier.
@@ -3681,7 +3681,7 @@ ftbuniversity.chemcryst.desc1=The &bChemical Crystallizer&r converts 200mB of Cl
 ftbuniversity.chemcryst.desc2=Recall that each ore is 1000mB, so you get &65 ingots total&r.
 
 ftbuniversity.atomicdiss.title=Atomic Striker
-ftbuniversity.atomicdiss.subtitle=Make an Atomic Disassembler
+ftbuniversity.atomicdiss.subtitle=制作一个 Atomic Disassembler
 ftbuniversity.atomicdiss.desc1=The &bAtomic Disassembler&r works as a Pickaxe, Axe, Shovel, Hoe, and Scoop. It uses RF instead of durability, and cannot be enchanted.
 ftbuniversity.atomicdiss.desc2=It has 6 modes. Swap between modes by sneak-right-clicking it.
 ftbuniversity.atomicdiss.desc3=• &6Normal&r: As fast as a Diamond tool with Efficiency II. Hoes a 3x3 area.
@@ -3732,7 +3732,7 @@ ftbuniversity.mekspeed.desc1=Up to 8 &bSpeed Upgrades&r can be installed to most
 ftbuniversity.mekspeed.desc2=Fully upgraded, a machine is &610x faster&r but uses &610x the RF&r.
 ftbuniversity.mekspeed.desc3=Be warned: if you install so many Speed Upgrades that it &6requires more energy than can be stored&r, it &6won't work at all&r. You can fix this by installing Energy Upgrades.
 
-ftbuniversity.mekenergy.subtitle=Make an Energy Upgrade
+ftbuniversity.mekenergy.subtitle=制作一个 Energy Upgrade
 ftbuniversity.mekenergy.desc1=Up to 8 &bEnergy Upgrades&r can be installed to most Mekanism machines, making them use less and store more energy.
 ftbuniversity.mekenergy.desc2=Fully upgraded, a machine &6uses 10x less&r and &6stores 10x more RF&r.
 
@@ -3761,7 +3761,7 @@ ftbuniversity.mekflamethrower.desc3=In &6Heat&r mode, it still damages mobs but 
 ftbuniversity.mekflamethrower.desc4=In &6Inferno&r mode, it will light blocks it touches on fire.
 ftbuniversity.mekflamethrower.desc5=To swap between modes, hold shift and hit the &6Item Mode Switch&r key (see controls).
 
-ftbuniversity.mekelecbow.subtitle=Make an Electric Bow
+ftbuniversity.mekelecbow.subtitle=制作一个 Electric Bow
 ftbuniversity.mekelecbow.desc1=The &bElectric Bow&r is simply a regular Bow that uses RF instead of durability. It cannot be enchanted.
 ftbuniversity.mekelecbow.desc2=However, the &6Item Mode Switch&r key (see controls) can enable &6Fire Mode&r, which uses more RF to light arrows on fire.
 
@@ -3772,7 +3772,7 @@ ftbuniversity.mekjetpack1.desc3=In &6Regular&r mode, holding space will make you
 ftbuniversity.mekjetpack1.desc4=In &6Hover&r mode, holding space will make you rise, and releasing will allow you to hover at that height (at a constant cost of Hydrogen). Sneaking will lower you down.
 ftbuniversity.mekjetpack1.desc5=In &6Disabled&r mode, it does nothing other than look cool.
 
-ftbuniversity.mekjetpack2.subtitle=Make an Armored Jetpack
+ftbuniversity.mekjetpack2.subtitle=制作一个 Armored Jetpack
 ftbuniversity.mekjetpack2.desc1=The &bArmored Jetpack&r works identically to the Jetpack, except it gives &6slightly more protection than a Diamond Chestplate with Protection IV&r.
 ftbuniversity.mekjetpack2.desc2=It can also be enchanted further.
 
@@ -3871,9 +3871,9 @@ ftbuniversity.mekreactor2.desc10=At the bottom left, you can see the current amo
 ftbuniversity.mekreactor2.desc11=For reference, an injection rate of 50 generates &650,000,000 RF/t&r.
 
 ftbuniversity.mekreactorbackup.title=Just in Case
-ftbuniversity.mekreactorbackup.subtitle=Make an emergency energy backup
+ftbuniversity.mekreactorbackup.subtitle=制作一个 emergency energy backup
 ftbuniversity.mekreactorbackup.desc1=As the previous quest stated, it costs upwards of &6600 million RF&r to jumpstart a Reactor. That's a lot of RF.
-ftbuniversity.mekreactorbackup.desc2=As such, you should make an &bemergency energy backup&r that doesn't power anything but the Lasers, &6just in case the Reactor turns itself off without you noticing&r, and your storage gets drained.
+ftbuniversity.mekreactorbackup.desc2=As such, you should 制作一个 &bemergency energy backup&r that doesn't power anything but the Lasers, &6just in case the Reactor turns itself off without you noticing&r, and your storage gets drained.
 
 ftbuniversity.dtfuel.title=The D in D-T stands for Don't
 ftbuniversity.dtfuel.subtitle=Learn about D-T Fuel
@@ -3887,7 +3887,7 @@ ftbuniversity.meksteam.desc1=With the addition of two more Reactor Ports, you ca
 ftbuniversity.meksteam.desc2=Steam can be used in the &rIndustrial Turbine&r, which can generate even more RF in parallel with the Reactor.
 
 ftbuniversity.mekturbine.title=ctf_turbine
-ftbuniversity.mekturbine.subtitle=Make an Industrial Turbine
+ftbuniversity.mekturbine.subtitle=制作一个 Industrial Turbine
 ftbuniversity.mekturbine.desc1=The &bIndustrial Turbine&r is a &oreally&r complex multiblock that uses Steam to generate RF. This quest will explain how to make it.
 ftbuniversity.mekturbine.desc2=To begin, make a &6square platform&r of &bTurbine Casing&r, with the width being an odd number greater/equal to 5.
 ftbuniversity.mekturbine.desc3=Make pillars of Turbine Casing in each corner, bringing the &6total max height to twice the width&r (or 18, whichever is lower). Connect the tops of the pillars with more Casing, but leave it hollow.
@@ -3952,7 +3952,7 @@ ftbuniversity.mekbin.task=Any Bin
 ftbuniversity.dynamictank.title=RIP Xycraft
 ftbuniversity.dynamictank.subtitle=Make a Dynamic Tank
 ftbuniversity.dynamictank.desc1=&bDynamic Tanks&r are freeform multiblock fluid containers.
-ftbuniversity.dynamictank.desc2=Make any hollow cuboid (that is, the whole thing must have only 6 sides) out of Dynamic Tank blocks.
+ftbuniversity.dynamictank.desc2=制作一个y hollow cuboid (that is, the whole thing must have only 6 sides) out of Dynamic Tank blocks.
 ftbuniversity.dynamictank.desc3=You can replace any non-corner with &bStructural Glass&r to be able to see how much fluid is inside.
 ftbuniversity.dynamictank.desc4=Place &bDynamic Valves&r in any surface, aside from the edges, to automatically input and extract fluids.
 ftbuniversity.dynamictank.desc5=Every block in its volume (including the walls) gives it &616 buckets&r of fluid it can store.
@@ -3971,7 +3971,7 @@ ftbuniversity.rftcoalgen.subtitle=Make a Coal Generator
 ftbuniversity.rftcoalgen.desc1=The &bCoal Generator&r generates 36,000 RF at 60 RF/t per Coal.
 ftbuniversity.rftcoalgen.desc2=It can only burn Coal, Charcoal, and Coal Blocks, but it can charge items directly.
 
-ftbuniversity.endergenic.subtitle=Make an Endergenic Generator setup
+ftbuniversity.endergenic.subtitle=制作一个 Endergenic Generator setup
 ftbuniversity.endergenic.desc1=&bEndergenic Generators&r are extremely intricate machines that &6generate RF when firing and receiving Ender Pearls to each other&r.
 ftbuniversity.endergenic.desc2=An Endergenic Generator has 3 modes: &6idle&r, &6charging&r, and &6holding&r. The Generator cycles through these when given redstone pulses.
 ftbuniversity.endergenic.desc3=While in charging mode, there is a 15 tick window in which it can receive an Ender Pearl. The closer it is to the 10th tick, the more RF is produced.
@@ -4007,7 +4007,7 @@ ftbuniversity.rftporter.desc1=The &bCharged Porter&r allows you to teleport to a
 ftbuniversity.rftporter.desc2=Sneak right-click the Porter on a Receiver to bind it.
 
 ftbuniversity.rftporter2.title=Transportalponderer
-ftbuniversity.rftporter2.subtitle=Make an Advanced Charged Porter
+ftbuniversity.rftporter2.subtitle=制作一个 Advanced Charged Porter
 ftbuniversity.rftporter2.desc=The &bAdvanced Charged Porter&r stores more RF and can have &6up to 8 bound Receivers&r. Sneak right-click on the air to choose which Receiver to teleport to.
 
 ftbuniversity.rftdestanal.title=Is It Safe?
@@ -4037,7 +4037,7 @@ ftbuniversity.rftliqmon.subtitle=Make a Liquid Monitor
 ftbuniversity.rftliqmon.desc1=The &bLiquid Monitor&r allows you to give a redstone signal based on the amount of fluid in an adjacent tank.
 ftbuniversity.rftliqmon.desc2=In the Monitor's GUI, choose a tank out of the list. At the bottom, choose whether it should emit a signal when the tank is &6below&r or &6above&r a specified percentage full, which is chosen using the slider. The redstone signal is sent through the back face.
 
-ftbuniversity.rftrfmon.subtitle=Make an RF Monitor
+ftbuniversity.rftrfmon.subtitle=制作一个 RF Monitor
 ftbuniversity.rftrfmon.desc1=The &bRF Monitor&r allows you to give a redstone signal based on the amount of RF in an adjacent machine.
 ftbuniversity.rftrfmon.desc2=In the Monitor's GUI, choose a machine out of the list. At the bottom, choose whether it should emit a signal when the machine is &6below&r or &6above&r a specified percentage full, which is chosen using the slider. The redstone signal is sent through the back face.
 
@@ -4071,7 +4071,7 @@ ftbuniversity.rftsensor.desc3=&6Fluid&r will emit a signal when a fluid is withi
 ftbuniversity.rftsensor.desc4=&6Growth&r will emit a signal when crops within the area are past a defined percentage grown. This percentage is typed into &6Number&r.
 ftbuniversity.rftsensor.desc5=&6Entities&r, &6Players&r, &6Hostile&r, and &6Passive&r will emit a signal when a defined amount of that type of entity are within the area.
 
-ftbuniversity.rftinvcheck.subtitle=Make an Inventory Checker
+ftbuniversity.rftinvcheck.subtitle=制作一个 Inventory Checker
 ftbuniversity.rftinvcheck.desc1=The &bInventory Checker&r will emit a redstone signal if the inventory in front of it has a specified amount of a specified item is in a specified slot.
 ftbuniversity.rftinvcheck.desc2=You can also set it to ignore metadata or use the ore dictionary. You can also not set any item at all to allow it to work with anything.
 
@@ -4080,7 +4080,7 @@ ftbuniversity.rftlogicgate.subtitle=Make a Logic Gate
 ftbuniversity.rftlogicgate.desc=The &bLogic Gate&r looks a lot more complex than it is. It has three inputs and one output. In its GUI, it shows every possible combination of signals, and you can set the output for each combination.
 
 ftbuniversity.rftanalog.title=Analogue?
-ftbuniversity.rftanalog.subtitle=Make an Analog
+ftbuniversity.rftanalog.subtitle=制作一个 Analog
 ftbuniversity.rftanalog.desc1=The &bAnalog&r allows you to do complex calculations to modify the signal strength of the output based on the input and two variables.
 ftbuniversity.rftanalog.desc2=While standing on the &norange&r side of the Analog, the &6left side is variable A&r and the &6right is variable B&r. I is input and O is output.
 ftbuniversity.rftanalog.desc3=In the GUI, there are three equations for when A's signal strength is greater, equal to, or lower than B's.
@@ -4097,7 +4097,7 @@ ftbuniversity.rftdigit.desc1=The &bDigit&r will show the hexidecimal value of th
 ftbuniversity.rftdigit.desc2=For those who don't know, 0-9 in hexidecimal are just 0-9, but instead of 10 it has A, and instead of 11 it has B, and so on.
 
 ftbuniversity.rftenviro.title=Beacon? What's That?
-ftbuniversity.rftenviro.subtitle=Make an Environmental Controller
+ftbuniversity.rftenviro.subtitle=制作一个 Environmental Controller
 ftbuniversity.rftenviro.desc1=The &bEnvironmental Controller&r allows you to give yourself certain effects, like speed, saturation or even &6creative flight&r, in an area.
 ftbuniversity.rftenviro.desc2=Place up to 7 &bEnvironmental Modules&r in the left slots. At the top, set a radius and the max and min heights it works at. You can also optionally set a whitelist of players, or if it works on mobs.
 ftbuniversity.rftenviro.desc3=See the quest to the right to see how to craft Modules.
@@ -4113,12 +4113,12 @@ ftbuniversity.rftspawner.desc2=Place and power the Spawner, and then place and p
 ftbuniversity.rftspawner.desc3=Place a &6full Syringe&r into the top right slot of the Spawner. There, you can see the items and the amount you need to spawn that mob.
 ftbuniversity.rftspawner.desc4=Mobs need &6key matter&r, &6bulk matter&r, and &6living matter&r. The key and bulk matters depend on the mob you're spawning, but living matter accepts any plant or animal drop.
 
-ftbuniversity.rftelevator.subtitle=Make an Elevator system
+ftbuniversity.rftelevator.subtitle=制作一个 Elevator system
 ftbuniversity.rftelevator.desc1=&bElevators&r can smoothly send a platform up and down, bringing you with it. Place the bottom floor's first and give it power, then build the platform touching the Elevator's front face.
 ftbuniversity.rftelevator.desc2=Place the other floor's Elevators &6directly above it&r where you want the platform to stop at. When any Elevator gets a redstone signal, the platform will be sent to it. &6You only need to provide the bottom floor's Elevator with power.&r
 ftbuniversity.rftelevator.desc3=Elevators (and their passengers) will &6phase through any solid block in the way&r. You will still take &csuffocation damage&r, however.
 
-ftbuniversity.rftelevatorscreen.subtitle=Make an Elevator Button Screen Module
+ftbuniversity.rftelevatorscreen.subtitle=制作一个 Elevator Button Screen Module
 ftbuniversity.rftelevatorscreen.desc1=It's frustrating to make a complex redstone circuit that allows you to send a signal to any Elevator from any other Elevator. You can use a &bElevator Button Screen Module&r to do this easier.
 ftbuniversity.rftelevatorscreen.desc2=Sneak right-click the Module on the Elevator floor you're on, then put it in a powered Screen nearby (&6Elevators can phase through Screens&r, so you don't have to put it outside the shaft). Repeat this for every floor.
 ftbuniversity.rftelevatorscreen.desc3=In the Module's GUI, you can choose the colors for the current floor and the other floors, the button style, the button &osize&r, and the names of 8 floors.
@@ -4155,7 +4155,7 @@ ftbuniversity.rftclearingquarry.subtitle=Make a Shape Card (Clearing Quarry)
 ftbuniversity.rftclearingquarry.desc=The &bShape Card (Clearing Quarry)&r works exactly the same as a regular Quarry card, except instead of replacing blocks with Dirt, it just leaves a hole.
 
 ftbuniversity.rftquarryupgrades.title=Shape Card (Quarry (Fortune (Clearing))
-ftbuniversity.rftquarryupgrades.subtitle=Make an upgraded Shape Card (Quarry)
+ftbuniversity.rftquarryupgrades.subtitle=制作一个 upgraded Shape Card (Quarry)
 ftbuniversity.rftquarryupgrades.desc1=The &bShape Card (Fortune Quarry)&r works exactly like a regular Quarry card, except it &6applies a Fortune III enchantment to drops&r. Each block mined costs twice as much RF as a regular Quarry card.
 ftbuniversity.rftquarryupgrades.desc2=The &bShape Card (Silk Quarry)&r does the same, except with &6Silk Touch&r. Each mined block costs three times as much RF as a regular Quarry card.
 ftbuniversity.rftquarryupgrades.task1=Shape Cards (Fortune Quarry)
@@ -4227,7 +4227,7 @@ ftbuniversity.rftphasedfield.subtitle=Make a Phased Field Generator
 ftbuniversity.rftphasedfield.desc1=The &bPhased Field Generator&r will rapidly use its charge to &6allow you to enter uncharged dimensions&r.
 ftbuniversity.rftphasedfield.desc2=It must be in your hotbar to function.
 
-ftbuniversity.rftactivityprobe.subtitle=Make an Activity Probe
+ftbuniversity.rftactivityprobe.subtitle=制作一个 Activity Probe
 ftbuniversity.rftactivityprobe.desc=The &bActivity Probe&r, when placed in a dimension, will stop it from consuming power when no chunks in it are loaded.
 
 ###Environmental Tech
@@ -4236,7 +4236,7 @@ ftbuniversity.etechchap.title=Environmental Tech
 ftbuniversity.digitalguide.subtitle=Get the Digital Guide
 ftbuniversity.digitalguide.desc=The &bDigital Guide&r is your one-stop shop for all mods by ValkyrieofNight. We only have &eEnvironmental Tech&r, so that's all that's in the Guide.
 
-ftbuniversity.etassembler.subtitle=Make an Assembler
+ftbuniversity.etassembler.subtitle=制作一个 Assembler
 ftbuniversity.etassembler.desc1=All Environmental Tech machines are multiblocks, built around their Controllers.
 ftbuniversity.etassembler.desc2=The &bAssembler&r will automatically build the multiblock when used on the multiblock's Controller, given that you have the blocks required.
 
@@ -4425,7 +4425,7 @@ ftbuniversity.holoprojector.desc4=Sometimes, the hologram will cycle through mul
 ftbuniversity.holoprojector.desc5=Two special blocks are &6Coils&r and &6Motors&r; higher tier ones make the machine faster.
 ftbuniversity.holoprojector.desc6=Once the multiblock is completed, right-click the main block with an empty hand to build it.
 
-ftbuniversity.ararcfurnace.subtitle=Make an Electric Arc Furnace
+ftbuniversity.ararcfurnace.subtitle=制作一个 Electric Arc Furnace
 ftbuniversity.ararcfurnace.desc1=The &bElectric Arc Furnace&r is the first AR multiblock you'll probably make.
 ftbuniversity.ararcfurnace.desc2=Normally, the Arc Furnace is the only way to make certain ingots (like Titanium). However, other mods (like NuclearCraft) also add recipes for them. &6Getting one of those ingots will also automatically complete this quest.&r
 ftbuniversity.coils=Coils
@@ -4460,7 +4460,7 @@ ftbuniversity.holoplansel.desc3=Right-clicking &6Up a level&r will move you from
 ftbuniversity.holoplansel.desc4=Sneak right-click the block to open its GUI, where you can make the hologram bigger or smaller.
 ftbuniversity.holoplansel.desc5=There's no real functionality to it, but it &6looks super cool&r.
 
-ftbuniversity.electrolyser.subtitle=Make an Electrolyser
+ftbuniversity.electrolyser.subtitle=制作一个 Electrolyser
 ftbuniversity.electrolyser.desc=The &bElectrolyser&r is used to &6turn Water into Oxygen and Hydrogen&r.
 
 ftbuniversity.chemreact.subtitle=Make a Chemical Reactor
@@ -4519,7 +4519,7 @@ ftbuniversity.moon.task=Visit Dimension: &dLuna&r
 ftbuniversity.spacestation.title=SPACESHIP!
 ftbuniversity.spacestation.subtitle=Make a Space Station
 ftbuniversity.spacestation.desc1=In order to leave the planet, you need to start by making a &bSpace Station&r.
-ftbuniversity.spacestation.desc2=Make another platform out of Launch Pads and a pillar of Structure Towers, but use a &bSpace Station Assembler&r instead.
+ftbuniversity.spacestation.desc2=制作一个other platform out of Launch Pads and a pillar of Structure Towers, but use a &bSpace Station Assembler&r instead.
 ftbuniversity.spacestation.desc3=On the platform, place blocks however you like. The Rocket will land on the center of the Space Station, though this can be changed later.
 ftbuniversity.spacestation.desc4=In the Assembler's GUI, place a &bSatellite Bay&r into the top left slot and an unprogrammed &bSpace Station Id Chip&r into the top right. &6Scan&r it, then &6Build&r if it's ok.
 ftbuniversity.spacestation.desc5=The structure you built will be stored into a &6Space Station Container&r, and the Space Station Id Chip will be programmed to that station ID. You should make copies with the &6Satellite Assembling Machine&r before progressing.
@@ -4545,7 +4545,7 @@ ftbuniversity.sscontrollers.desc1=The &bOrientation Controller&r allows you to &
 ftbuniversity.sscontrollers.desc2=The &bSpace Station Gravity Controller&r allows you to &6change the Station's gravity&r from 11%% normal gravity to 100%%.
 ftbuniversity.sscontrollers.desc3=The &bAltitude Controller&r allows you to change &6how far the Station is from the body it is orbiting&r. This is mostly an aesthetic difference, changing the amount of space the planet you're orbiting takes.
 
-ftbuniversity.oxygenvent.subtitle=Make an oxygen setup
+ftbuniversity.oxygenvent.subtitle=制作一个 oxygen setup
 ftbuniversity.oxygenvent.desc1=Space is a vacuum, which means you can't breathe there.
 ftbuniversity.oxygenvent.desc2=You can place and power an &bOxygen Vent&r, and as long as it's in an &6entirely enclosed area&r, it will fill up the room with Oxygen that you supply it. The largest room it can handle is 32x32x32.
 ftbuniversity.oxygenvent.desc3=You can place up to two &bCO2 Scrubbers&r next to it (but not on top or bottom), and insert a &bCarbon Collection Cartridge&r in each. This will &6drastically lower the amount of Oxygen required&r.
@@ -4660,7 +4660,7 @@ ftbuniversity.rockmonsta.desc2=Link the RMS to a Rocket (or, preferably, a Launc
 ftbuniversity.rockmonsta.desc3=At the bottom, you can see the progress of the Rocket's current mission, if any. We'll come back to those later.
 ftbuniversity.rockmonsta.desc4=By default, giving the RMS a &6redstone signal&r will launch the Rocket. You can change this with the button at the top right.
 
-ftbuniversity.unmanass.subtitle=Make an Unmanned Vehicle Assembler
+ftbuniversity.unmanass.subtitle=制作一个 Unmanned Vehicle Assembler
 ftbuniversity.unmanass.desc1=The &bUnmanned Vehicle Assembler&r allows you to create &6horizontal unmanned Drones&r, which are used to &6collect Oxygen, Hydrogen, or Nitrogen from gas giants&r.
 ftbuniversity.unmanass.desc2=Place the UVA, then place &6Structure Towers&r to the left and right to set the width, then up to set the height (minus one).
 ftbuniversity.unmanass.desc3=From the top Structure Tower, place more Tower blocks to set the depth. The building area is the volume within (but not including) the Structure Towers.
@@ -4714,7 +4714,7 @@ ftbuniversity.microrece.desc2=In the Receiver's &bInput Hatch&r, insert the Sate
 ftbuniversity.microrece.desc3=Obviously, the Satellites must be in orbit around the same planet the Receiver is on.
 
 ftbuniversity.observatory.title=Asteroid Mining
-ftbuniversity.observatory.subtitle=Make an Observatory
+ftbuniversity.observatory.subtitle=制作一个 Observatory
 ftbuniversity.observatory.desc1=The &bObservatory&r consumes Distance Data to &6locate Asteroids&r, which you can mine for their minerals. They are also the only way to get Iridium, at least with AR by itself.
 ftbuniversity.observatory.desc2=It must be placed &6somewhere dark that can see the sky&r. Using &bLenses&r instead of Glass will increase the range, as will using a higher tier &bMotor&r.
 ftbuniversity.observatory.desc3=In the first page, you can see how much RF and Data it has, the observable distance, and turn it off and on.
@@ -4728,7 +4728,7 @@ ftbuniversity.observatory.reward1=Distance
 ftbuniversity.observatory.reward2=Composition
 ftbuniversity.observatory.reward3=Mass
 
-ftbuniversity.adp.subtitle=Make an Astrobody Data Processor
+ftbuniversity.adp.subtitle=制作一个 Astrobody Data Processor
 ftbuniversity.adp.desc1=The &bAstrobody Data Processor&r is used to &6fill programmed Asteroid Chips with the Data they need&r.
 ftbuniversity.adp.desc2=Insert the Asteroid Chip into the bottom slot, give it the three main Datas (either by inserting a DSU or using Wireless Transcievers), then toggle the switches for each.
 ftbuniversity.adp.desc3=(The Chip's tooltip mentions 3 unused Datas, but those don't actually exist)
@@ -4816,7 +4816,7 @@ ftbuniversity.floatingflowers.desc=You can combine any functional flower with an
 ftbuniversity.floatingflowers.task=Any Floating functional flower
 
 ftbuniversity.botalccat.title=Equivalent Exchange
-ftbuniversity.botalccat.subtitle=Make an Alchemy Catalyst
+ftbuniversity.botalccat.subtitle=制作一个 Alchemy Catalyst
 ftbuniversity.botalccat.desc1=The &bAlchemy Catalyst&r, when &6placed under a Mana Pool&r, changes/adds the recipes you get from throwing items into the Pool.
 ftbuniversity.botalccat.desc2=See the Catalyst's uses in JEI to see these new recipes.
 
@@ -4853,7 +4853,7 @@ ftbuniversity.gaia2.desc1=The &bharder Guardian of Gaia&r has a &lmuch harder&r 
 ftbuniversity.gaia2.desc2=To summon it, click a &6Gaia Ingot&r on the beacon in your fighting area.
 
 ftbuniversity.endoflame.title=Burning Love
-ftbuniversity.endoflame.subtitle=Make an Endoflame
+ftbuniversity.endoflame.subtitle=制作一个 Endoflame
 ftbuniversity.endoflame.desc=The &bEndoflame&r generates Mana using any burnable item. The more items it would smelt, the more Mana.
 
 ftbuniversity.autoendo.title=Auto Endo
@@ -4863,7 +4863,7 @@ ftbuniversity.autoendo.desc2=Place a Wooden Pressure Plate nearby, invert the si
 ftbuniversity.autoendo.desc3=Any time an item on the pressure plate is removed (ie, burned by the Endoflame), the signal to the Hopper will be cut off, which will allow it to drop more fuel.
 
 ftbuniversity.entropinnyum.title=I Have One Question, and One Question Only: &cEXPLOSIONS?!&r
-ftbuniversity.entropinnyum.subtitle=Make an Entropinnyum
+ftbuniversity.entropinnyum.subtitle=制作一个 Entropinnyum
 ftbuniversity.entropinnyum.desc1=The &bEntropinnyum&r generates Mana from nearby &6explosions&r, which also prevents those explosions from breaking blocks.
 ftbuniversity.entropinnyum.desc2=If the Entropinnyum currently has Mana in it, &4it will not prevent block damage&r. &oHowever&r, other forms of explosion protection still work.
 
@@ -4891,7 +4891,7 @@ ftbuniversity.spectrolus.desc2=This order is: White, Orange, Magenta, Light Blue
 ftbuniversity.shulkmenot.title=The Tooltip Stole My Joke
 ftbuniversity.shulkmenot.subtitle=Make a Shulk Me Not
 ftbuniversity.shulkmenot.desc1=The &bShulk Me Not&r generates Mana &6when a Shulker attacks any other mob&r. This will kill both mobs, dropping no items or experience.
-ftbuniversity.shulkmenot.desc2=This flower is pretty hard to automate, but it can make an &6insane amount of Mana&r.
+ftbuniversity.shulkmenot.desc2=This flower is pretty hard to automate, but it can 制作一个 &6insane amount of Mana&r.
 
 ftbuniversity.autoshulk.title=Other Mods Do Things Too!
 ftbuniversity.autoshulk.subtitle=Automate the Shulk Me Not
@@ -4938,7 +4938,7 @@ ftbuniversity.lifeimbuer.subtitle=Make a Life Imbuer
 ftbuniversity.lifeimbuer.desc=The &bLife Imbuer&r, when placed on a Monster Spawner, will &6allow it to spawn mobs when a player is not nearby&r. This requires a fairly small amount of Mana to run.
 
 ftbuniversity.agricarnation.title=Farmers Only
-ftbuniversity.agricarnation.subtitle=Make an Agricarnation
+ftbuniversity.agricarnation.subtitle=制作一个 Agricarnation
 ftbuniversity.agricarnation.desc=The &bAgricarnation&r will use Mana to speed up the growth of nearby plants.
 
 ftbuniversity.jadedamaranthus.title=Botanical Floral Fertilizer
@@ -5113,7 +5113,7 @@ ftbuniversity.lavcryst.desc2=First, bind it to yourself by right-clicking it, th
 ftbuniversity.lavcryst.desc3=Putting it into a Furnace &6costs 750LP&r, but &reach item smelted only &6costs 50LP&r.
 
 ftbuniversity.bloodpacks.title=Blood Pack
-ftbuniversity.bloodpacks.subtitle=Make an LP-generating chestplate
+ftbuniversity.bloodpacks.subtitle=制作一个 LP-generating chestplate
 ftbuniversity.bloodpacks.desc1=The &bBlood-Letter's Pack&r will slowly damage you to half health, generating and storing LP in itself.
 ftbuniversity.bloodpacks.desc2=The &bCoat of Arms&r generates LP and stores it in itself when you are in combat.
 ftbuniversity.bloodpacks.desc3=Both can be emptied into an Altar by &6sneak right-clicking the Altar with them&r.
@@ -5135,12 +5135,12 @@ ftbuniversity.arcaneash.desc4=Not all alchemic arrays create items; the Sanguine
 ftbuniversity.arcaneash.desc5=These arrays can do stuff like move entities, enslave Skeletons, and grant buffs to nearby players.
 
 ftbuniversity.alchemytable.title=Big Model
-ftbuniversity.alchemytable.subtitle=Make an Alchemy Table
+ftbuniversity.alchemytable.subtitle=制作一个 Alchemy Table
 ftbuniversity.alchemytable.desc1=The &bAlchemy Table&r allows you to craft things using LP from your Blood Orb.
 ftbuniversity.alchemytable.desc2=A lot of items that are necessary for progression can only be crafted here.
 
 ftbuniversity.incense1.title=Blood Booster
-ftbuniversity.incense1.subtitle=Make an Incense Altar
+ftbuniversity.incense1.subtitle=制作一个 Incense Altar
 ftbuniversity.incense1.desc1=The &bIncense Altar&r is the focal point of a multiblock that allows you to &6boost the power of your Daggers&r for a time.
 ftbuniversity.incense1.desc2=Place it down on top of a 3x3 platform of any material.
 ftbuniversity.incense1.desc3=While near the Incense Altar, any Daggers in your inventory will become &6incensed&r. Using an incensed Dagger will &6instantly remove 90%% of your health, giving an additional 20%% LP per heart&r.
@@ -5203,7 +5203,7 @@ ftbuniversity.runes.task2=Tier 3
 ftbuniversity.runes.task3=Tier 4
 
 ftbuniversity.orb2.title=Tier 2 Blood Orb
-ftbuniversity.orb2.subtitle=Make an Apprentice Blood Orb
+ftbuniversity.orb2.subtitle=制作一个 Apprentice Blood Orb
 ftbuniversity.orb2.desc1=The &bApprentice Blood Orb&r increases your network's capacity to &625000LP&r.
 ftbuniversity.orb2.desc2=It also can be used in more recipes, but otherwise functions the same.
 
@@ -5330,7 +5330,7 @@ ftbuniversity.clusters.task=Will Crystal Clusters
 
 ftbuniversity.willtypes.title=Will Types
 ftbuniversity.willtypes.subtitle=Get a nonstandard type of Will
-ftbuniversity.willtypes.desc1=Make and activate the ritual &6Resonant of the Faceted Crystal&r. On top of the Master Ritual Stone, place a &6Demon Crystallizer&r and allow it to grow a Demon Will Crystal Cluster with &6at least 5 spikes&r.
+ftbuniversity.willtypes.desc1=制作一个d activate the ritual &6Resonant of the Faceted Crystal&r. On top of the Master Ritual Stone, place a &6Demon Crystallizer&r and allow it to grow a Demon Will Crystal Cluster with &6at least 5 spikes&r.
 ftbuniversity.willtypes.desc2=Once this happens, the ritual will take one of the spikes from the Crystal and place it on one of the 4 colored Ritual Stones, which will be of a &bnew kind of Will&r.
 ftbuniversity.willtypes.desc3=You can use this with the ritual &6Gathering of Forsaken Souls&r, which damages mobs in its area to grow nearby Crystal Clusters.
 ftbuniversity.willtypes.task=Nonstandard Will Clusters
@@ -5371,10 +5371,10 @@ ftbuniversity.bloodaltar5.desc=Use the &6Inspectoris Scandelum&r for how to upgr
 ftbuniversity.bloodaltar5.task=Runes
 
 ftbuniversity.orb5.title=Tier 5 Blood Orb
-ftbuniversity.orb5.subtitle=Make an Archmage Blood Orb
+ftbuniversity.orb5.subtitle=制作一个 Archmage Blood Orb
 ftbuniversity.orb5.desc=The &bArchmage Blood Orb&r increases your network's capacity to &610,000,000LP&r.
 
-ftbuniversity.awacryst.subtitle=Make an Awakened Activation Crystal
+ftbuniversity.awacryst.subtitle=制作一个 Awakened Activation Crystal
 ftbuniversity.awacryst.desc=Certain rituals can only be activated with the &bAwakened Activation Crystal&r.
 
 ftbuniversity.angelus.subtitle=Make the Draft of Angelus
@@ -5447,13 +5447,13 @@ ftbuniversity.thaumonom.desc4=Tiles that are flashing have tasks you have to com
 ftbuniversity.thaumonom.desc5=&nTechnically&r, the Thaumonomicon works as &6its own independent quest system&r. However, the quests here will teach &6without flavor-text&r, as well as giving &6pointers&r the book does not.
 ftbuniversity.thaumonom.desc6=Seriously though, read the Thaumonomicon. It teaches everything really well.
 
-ftbuniversity.arcanework.subtitle=Make an Arcane Workbench
+ftbuniversity.arcanework.subtitle=制作一个 Arcane Workbench
 ftbuniversity.arcanework.desc1=The &bArcane Workbench&r has slots for every primal Vis Crystal, which are required for certain recipes.
 ftbuniversity.arcanework.desc2=Recipes also use a certain amount of &6Vis from the chunk&r.
 ftbuniversity.arcanework.desc3=To make the Arcane Workbench, &6use Salis Mundus on a Crafting Table&r.
 
 ftbuniversity.thaumresearch.title=Study Nook
-ftbuniversity.thaumresearch.subtitle=Make and learn to use a Research Table
+ftbuniversity.thaumresearch.subtitle=制作一个d learn to use a Research Table
 ftbuniversity.thaumresearch.desc1=When trying to unlock knowledge in the Thaumonomicon, you may need to craft certain items, know certain aspects, or have Observations and Theories.
 ftbuniversity.thaumresearch.desc2=You get Observations with the &6Thaumometer&r, but you make Theories in the &bResearch Table&r.
 ftbuniversity.thaumresearch.desc3=Place a &6Wooden Table&r and use &bScribing Tools&r on it to convert it to a Research Table. To begin, insert some &6Paper&r and click &6Create Theory&r.
@@ -5535,7 +5535,7 @@ ftbuniversity.alchemicmetal.desc5=Later on, you can farm Nether Wart for Vitium,
 ftbuniversity.alchemicmetal.rewards=Magic Alloys
 
 ftbuniversity.essentiasmelting1.title=Purple Goop
-ftbuniversity.essentiasmelting1.subtitle=Make an Essentia Smeltery
+ftbuniversity.essentiasmelting1.subtitle=制作一个 Essentia Smeltery
 ftbuniversity.essentiasmelting1.desc1=The &bEssentia Smelter&r will &6break items down into unprocessed Essentia&r, converting about 20%% into Flux.
 ftbuniversity.essentiasmelting1.desc2=Slowly, this Essentia Slurry is split into &bArcane Alembics&r placed atop the Smelter. You can stack up to 5 Alembics on the Smelter, allowing up to 5 Aspects to be split from the Slurry.
 ftbuniversity.essentiasmelting1.desc3=Essentia can be removed from the Slurry by clicking &6Phials&r (or &6Warded Jars&r, if you're sneaking) on them.
@@ -5583,15 +5583,15 @@ ftbuniversity.optimaltube.desc4=&6Set&r each Filtered Tube to an Aspect, then pl
 ftbuniversity.optimaltube.desc5=Place a &6Restricted Tube&r at the end of each Filtered Tube (disconnect them from each other), and place a &6Void Jar under each&r.
 ftbuniversity.optimaltube.desc6=This setup should be able to handle as much Essentia as you can throw at it (though only from one Alembic). It will store up to 500 Essentia of each type, and then void the excess.
 
-ftbuniversity.auxslurry.subtitle=Make an Auxiliary Slurry Pump
+ftbuniversity.auxslurry.subtitle=制作一个 Auxiliary Slurry Pump
 ftbuniversity.auxslurry.desc1=The &bAuxiliary Slurry Pump&r can be placed on the side of an Essentia Smelter, and it will make it &6faster and more efficient&r.
 ftbuniversity.auxslurry.desc2=It will output refined Essentia to Alembics above itself.
 
-ftbuniversity.auxvent.subtitle=Make an Auxiliary Venting Port
+ftbuniversity.auxvent.subtitle=制作一个 Auxiliary Venting Port
 ftbuniversity.auxvent.desc=The &bAuxiliary Venting Port&r can be placed on the sides of an Essentia Smelter to &6decrease the amount of Flux&r it creates.
 
 ftbuniversity.essentiacentrifuge.title=Essence of SPEEEN
-ftbuniversity.essentiacentrifuge.subtitle=Make an Essentia Centrifuge
+ftbuniversity.essentiacentrifuge.subtitle=制作一个 Essentia Centrifuge
 ftbuniversity.essentiacentrifuge.desc1=The &bEssentia Centrifuge&r will &6separate compount Essentia into its components&r.
 ftbuniversity.essentiacentrifuge.desc2=This is beyond useful if certain Aspects (like Praecantatio) are hard to get, but they form a part of an Aspect that's easily farmable (like Vitium from Nether Wart).
 ftbuniversity.essentiacentrifuge.desc3=The input Essentia must &6enter the bottom&r, and the resultant Essentia &6exits the top&r.
@@ -5615,7 +5615,7 @@ ftbuniversity.tallow.subtitle=Complete Hedge Alchemy
 ftbuniversity.tallow.desc1=&bHedge Alchemy&r is one of the first branches of alchemy you can unlock.
 ftbuniversity.tallow.desc2=It unlocks &bMagic Tallow&r, which is kinda gross but sorta useful, but the research also allows you to duplicate certain items!
 
-ftbuniversity.everful.subtitle=Make an Everful Urn
+ftbuniversity.everful.subtitle=制作一个 Everful Urn
 ftbuniversity.everful.desc1=The &bEverful Urn&r will slowly &6fill up any nearby fluid containers&r with Water.
 ftbuniversity.everful.desc2=This is most useful for the Crucible, but also works on the Petal Apothecary!
 ftbuniversity.everful.desc3=You can also pipe Water out the top, and it never runs out.
@@ -5630,7 +5630,7 @@ ftbuniversity.bathsalt.subtitle=Make Purifying Bath Salts
 ftbuniversity.bathsalt.desc=Throwing &bPurifying Bath Salts&r into Water then jumping in will give you some &6relief from Warp&r.
 
 ftbuniversity.arcanespa.title=Gamer Bath Water
-ftbuniversity.arcanespa.subtitle=Make an Arcane Spa
+ftbuniversity.arcanespa.subtitle=制作一个 Arcane Spa
 ftbuniversity.arcanespa.desc=The &bArcane Spa&r can be filled with Water and Purifying Bath Salts, and it will pour the Purifying Fluid into the world in a 5x5 area above it.
 
 ftbuniversity.sansoap.subtitle=Make Sanity Soap
@@ -5666,7 +5666,7 @@ ftbuniversity.rechargeped.desc2=These items must be charged in the &bRecharge Pe
 ftbuniversity.workbenchcharger.subtitle=Make a Workbench Charger
 ftbuniversity.workbenchcharger.desc=The &bWorkbench Charger&r is placed on top of the Arcane Workbench or Focal Manipulator, allowing them to &6use Vis from adjacent chunks&r instead of only the one it's in.
 
-ftbuniversity.amuletofvis.subtitle=Make an Amulet of Vis
+ftbuniversity.amuletofvis.subtitle=制作一个 Amulet of Vis
 ftbuniversity.amuletofvis.desc=The &bAmulet of Vis&r, when charged and then worn, will &6charge items in your hotbar, baubles, or armor slots&r.
 
 ftbuniversity.visbattery.title=Saving For a Rainy Day
@@ -5678,7 +5678,7 @@ ftbuniversity.visbattery.desc3=Each stores a rather pitiful amount, so it would 
 ftbuniversity.unlockinfusion.title=Infusion
 ftbuniversity.unlockinfusion.subtitle=Unlock Infusion
 ftbuniversity.unlockinfusion.desc1=&bInfusion&r is the third school of magic, and it deals with the creation of certain items by &6infusing them with Essentia&r.
-ftbuniversity.unlockinfusion.desc2=To begin with, make any of a set of &bThaumaturge's armor&r, which gives a Vis discount when crafting or casting.
+ftbuniversity.unlockinfusion.desc2=To begin with, 制作一个y of a set of &bThaumaturge's armor&r, which gives a Vis discount when crafting or casting.
 ftbuniversity.unlockinfusion.task=Thaumaturge's armor
 
 ftbuniversity.infusionaltar.title=Infusion Altar
@@ -5718,7 +5718,7 @@ ftbuniversity.thaumarmor.desc2=The more pieces you have equipped, the more prote
 ftbuniversity.thaumarmor.task=Thaumium Fortress armors
 
 ftbuniversity.elementaltools.title=And This is Why Tinkers' Isn't In
-ftbuniversity.elementaltools.subtitle=Make any elemental tool
+ftbuniversity.elementaltools.subtitle=制作一个y elemental tool
 ftbuniversity.elementaltools.desc1=&bElemental tools&r have special effects that set them apart from normal, mundane tools. Sneaking will disable their extra powers.
 ftbuniversity.elementaltools.desc2=The &bAxe of the Stream&r will break the &6farthest log first&r, so you can mine the whole tree by focusing on the same block. Holding right-click will &6pull items towards you&r.
 ftbuniversity.elementaltools.desc3=The &bPickaxe of the Core&r has a chance of dropping &6Clusters&r, which smelt into two ingots. Right-clicking will &6show nearby ores&r.
@@ -5758,7 +5758,7 @@ ftbuniversity.unlockartifice.desc2=The &bGoggles of Revealing&r, when worn, allo
 ftbuniversity.unlockartifice.desc3=Many devices require Vis to work, which means you need the &6Recharge Pedestal&r in Auramancy.
 
 ftbuniversity.arcanegrapple.title=GRAPPLING HOOK!
-ftbuniversity.arcanegrapple.subtitle=Make an Arcane Grappler
+ftbuniversity.arcanegrapple.subtitle=制作一个 Arcane Grappler
 ftbuniversity.arcanegrapple.desc1=The &bArcane Grappler&r will shoot an arcing projectile, then stick to whatever block it touches, pulling you through the air towards it.
 ftbuniversity.arcanegrapple.desc2=While it isn't necessarily the most &ouseful&r form of transportation, it's &6super fun&r.
 
@@ -5767,7 +5767,7 @@ ftbuniversity.dioptra.desc1=The &bThaumic Dioptra&r, aside from being hard to sp
 ftbuniversity.dioptra.desc2=You can click it to toggle to showing those chunks' &6Flux&r instead.
 
 ftbuniversity.infernalfurnace.title=Infurnal Fernace
-ftbuniversity.infernalfurnace.subtitle=Make an Infernal Furnace
+ftbuniversity.infernalfurnace.subtitle=制作一个 Infernal Furnace
 ftbuniversity.infernalfurnace.desc1=The &bInfernal Furnace&r is a multiblock furnace.
 ftbuniversity.infernalfurnace.desc2=Items thrown in the top will slowly, but &6freely&r, be smelted and spit out the front.
 ftbuniversity.infernalfurnace.desc3=Ores have a chance of creating additional Nuggets and Rare Earth, among other things.
@@ -5785,7 +5785,7 @@ ftbuniversity.hungrychest.subtitle=Make a Hungry Chest
 ftbuniversity.hungrychest.desc=The &bHungry Chest&r will pick up any item that touches it, from any side. This is very useful for anything that drops items into the world, like &6mob farms&r or the &6Infernal Furnace&r.
 
 ftbuniversity.arcanelevitator.title=You Lift Me Up
-ftbuniversity.arcanelevitator.subtitle=Make an Arcane Levitator
+ftbuniversity.arcanelevitator.subtitle=制作一个 Arcane Levitator
 ftbuniversity.arcanelevitator.desc1=The &bArcane Levitator&r will &6lift entities 8 blocks&r above itself, and sneaking allows them to descend.
 ftbuniversity.arcanelevitator.desc2=When working, it uses up &61 Vis per second&r.
 ftbuniversity.arcanelevitator.desc3=The bottom can be clicked to &6change the max distance&r, also changing the cost.
@@ -5802,25 +5802,25 @@ ftbuniversity.visgen.desc1=The &bVis Generator&r drains Vis from the chunk, conv
 ftbuniversity.visgen.desc2=A redstone signal will disable it.
 
 ftbuniversity.arcaneear.title=Wizard Ears
-ftbuniversity.arcaneear.subtitle=Make an Arcane Ear
+ftbuniversity.arcaneear.subtitle=制作一个 Arcane Ear
 ftbuniversity.arcaneear.desc1=The &bArcane Ear&r gives off a redstone pulse when it hears a &6Noteblock note&r that matches the one it's set to.
 ftbuniversity.arcaneear.desc2=To set the Ear, treat it like a Noteblock. Place it on specific blocks for different instruments, and right-click to set the note.
 ftbuniversity.arcaneear.desc3=There's a second form that toggles a signal when it hears the note, instead of pulsing.
 ftbuniversity.arcaneear.task=Arcane Ear
 
 ftbuniversity.autocross.title=Pew Pew
-ftbuniversity.autocross.subtitle=Make an Automated Crossbow
+ftbuniversity.autocross.subtitle=制作一个 Automated Crossbow
 ftbuniversity.autocross.desc1=The &bAutomated Crossbow&r will &6shoot at hostile mobs&r within 24 blocks of itself, assuming it can see them.
 ftbuniversity.autocross.desc2=They exist as an entity, and have 30 health. Since they are an entity, then can &6ride Minecarts&r!
 ftbuniversity.autocross.desc3=They &6need a supply of Arrows&r to shoot, which can be inserted manually or with Dispensers.
 
 ftbuniversity.advancedcross.title=BRRRRRT
-ftbuniversity.advancedcross.subtitle=Make an Advanced Automated Crossbow
+ftbuniversity.advancedcross.subtitle=制作一个 Advanced Automated Crossbow
 ftbuniversity.advancedcross.desc1=The &bAdvanced Automated Crossbow&r fires faster, has more health, and allows you to &6configure what mobs it targets&r.
 ftbuniversity.advancedcross.desc2=Other than that, it works exactly like the normal version.
 
 ftbuniversity.arcanebore.title=Boring
-ftbuniversity.arcanebore.subtitle=Make an Arcane Bore
+ftbuniversity.arcanebore.subtitle=制作一个 Arcane Bore
 ftbuniversity.arcanebore.desc1=The &bArcane Bore&r, when given a redstone signal and a pickaxe, will use atmospheric Vis to &6dig a large tunnel in front of it&r.
 ftbuniversity.arcanebore.desc2=The pickaxe will take durability damage (though less than it would normally), but its enchantments will be applied to blocks broken.
 ftbuniversity.arcanebore.desc3=The more enchantable the pickaxe, &6the larger area dug&r.
@@ -5828,11 +5828,11 @@ ftbuniversity.arcanebore.desc4=If there is an inventory adjacent to it, it will 
 ftbuniversity.arcanebore.desc5=The Bore can &6ride Minecarts&r, which allows you to greatly increase the mined area!
 
 ftbuniversity.arcanerail.title=Drive-by
-ftbuniversity.arcanerail.subtitle=Make an Arcane Activator Rail
+ftbuniversity.arcanerail.subtitle=制作一个 Arcane Activator Rail
 ftbuniversity.arcanerail.desc=Any Minecart containing a Crossbow or Bore that drives over the &bArcane Activator Rail&r will be toggled, turning on or off.
 
 ftbuniversity.arcanelamp.title=I Love Lamp
-ftbuniversity.arcanelamp.subtitle=Make an Arcane Lamp
+ftbuniversity.arcanelamp.subtitle=制作一个 Arcane Lamp
 ftbuniversity.arcanelamp.desc=The &bArcane Lamp&r will place additional light sources around itself, lighting up a larger area.
 
 ftbuniversity.lampofblank.title=Mood Lighting
@@ -5850,7 +5850,7 @@ ftbuniversity.handmirror.subtitle=Make a Magic Hand Mirror
 ftbuniversity.handmirror.desc=The &bMagic Hand Mirror&r can be used to send items from your inventory to a linked Magic Mirror. 
 
 ftbuniversity.essentiamirror.title=Essentia Teleportation
-ftbuniversity.essentiamirror.subtitle=Make an Essentia Mirror
+ftbuniversity.essentiamirror.subtitle=制作一个 Essentia Mirror
 ftbuniversity.essentiamirror.desc1=The &bEssentia Mirror&r works like the Magic Mirror, but &6teleports Essentia&r instead.
 ftbuniversity.essentiamirror.desc2=Essentia cannot be &6moved through with Tubes&r, they can only move through as clouds.
 ftbuniversity.essentiamirror.desc3=That means you can only link from, say, Jars to the Infusion Matrix, or if you're using Essentia Transfusers.
@@ -5918,7 +5918,7 @@ ftbuniversity.bleeding.desc3=Mana is &6spent&r casting spells, and your &6max ma
 ftbuniversity.bleeding.desc4=Additionally, this Magic Circle is &6where spells are crafted&r.
 ftbuniversity.bleeding.desc5=You can toggle the mana GUI with the command &6/showmahou&r.
 
-ftbuniversity.attunedgem.subtitle=Make an Attuned gem
+ftbuniversity.attunedgem.subtitle=制作一个 Attuned gem
 ftbuniversity.attunedgem.desc1=Right-clicking an &bAttuned gem&r will take some of your mana and &6store it&r in itself.
 ftbuniversity.attunedgem.desc2=When casting spells, &6mana stored in a gem will be prioritized&r over your own mana.
 ftbuniversity.attunedgem.desc3=Storing mana in a gem counts as using it, &6increasing your maximum mana&r.
@@ -5970,7 +5970,7 @@ ftbuniversity.bowweapon.desc1=The &bBow of Weapon Projectiles&r will shoot weapo
 ftbuniversity.bowweapon.desc2=You get it by using a &6Scroll of Weapon Projectiles&r.
 
 ftbuniversity.ascension.title=Escape Rope
-ftbuniversity.ascension.subtitle=Make an Ascension spell
+ftbuniversity.ascension.subtitle=制作一个 Ascension spell
 ftbuniversity.ascension.desc1=&bAscension&r is a spell that has &6two forms&r, one as a Scroll and one as a Blood Circle.
 ftbuniversity.ascension.desc2=As a &6Blood Circle&r, any entity (including items, mobs, and players) that stand on it will get teleported to the highest solid block directly above it automatically.
 ftbuniversity.ascension.desc3=As a &6Scroll&r, it will teleport the caster to the highest block directly above them. This is very useful for when you're lost in caves.
@@ -6027,7 +6027,7 @@ ftbuniversity.familiar1.desc1=The &bScroll of Summon Familiar&r will spawn and b
 ftbuniversity.familiar1.desc2=Familiars will load the chunk they're in, and will let you know if it sees "interesting players, mobs, and blocks."
 
 ftbuniversity.familiar2.title=Familiar Functions
-ftbuniversity.familiar2.subtitle=Make any Scroll that requires a Familiar
+ftbuniversity.familiar2.subtitle=制作一个y Scroll that requires a Familiar
 ftbuniversity.familiar2.desc1=The &bScroll of Recall Familiar&r will teleport your Familiar to you.
 ftbuniversity.familiar2.desc2=The &bScroll of Familiar Exchange&r will swap your Familiar's position with yours. You could use this then recall the Familiar to have an easy way to teleport back to your base from anywhere.
 ftbuniversity.familiar2.desc3=The &bScroll of the Familiar's Garden&r will make the Familiar emit an aura of tranquility, preventing mobs from damaging each other.
@@ -6174,12 +6174,12 @@ ftbuniversity.juryrig.desc3=You &6cannot separate Upgrades&r after combining the
 ftbuniversity.ratuptips=See their tooltip for specific details on each.
 
 ftbuniversity.ratitems.title=Item Transfer
-ftbuniversity.ratitems.subtitle=Make an item-related Rat Upgrade
+ftbuniversity.ratitems.subtitle=制作一个 item-related Rat Upgrade
 ftbuniversity.ratitems.desc=These Rat Upgrades make &6moving items&r more convenient.
 ftbuniversity.ratitems.task=Item Rat Upgrades
 
 ftbuniversity.ratenergy.title=Energy Transfer
-ftbuniversity.ratenergy.subtitle=Make an Energy Transfer Rat Upgrade
+ftbuniversity.ratenergy.subtitle=制作一个 Energy Transfer Rat Upgrade
 ftbuniversity.ratenergy.desc1=These Rat Upgrades allow Rats to &6move RF&r instead of items.
 ftbuniversity.ratenergy.desc2=The Cheese Staff will still say "Deposit/Take items," but it will move RF instead.
 ftbuniversity.ratenergy.desc3=There are 4 tiers. The lowest tier moves &6100,000 RF&r, and the highest moves &6100,000,000 RF&r. It extracts/deposits instantly, but carrying it is &6only as fast as the Rat itself is&r.
@@ -6289,7 +6289,7 @@ ftbuniversity.cellan.title=Cells at Work
 ftbuniversity.cellan.subtitle=Make a Cell Analyser
 ftbuniversity.cellan.desc=The &bCell Analyser&r converts Organic Matter into &6Cells&r of the same mob.
 
-ftbuniversity.genoverclock.subtitle=Make an Overclocker
+ftbuniversity.genoverclock.subtitle=制作一个 Overclocker
 ftbuniversity.genoverclock.desc=&bOverclockers&r can be installed onto Genetics Reborn machines by right-clicking them.
 
 ftbuniversity.gendna.subtitle=Make a DNA Extractor
@@ -6313,7 +6313,7 @@ ftbuniversity.plasinjec.desc1=The &bPlasmid Injector&r takes a completed Plasmid
 ftbuniversity.plasinjec.desc2=This will put the gene into the Syringe but also contaminate it again, so you will have to purify it again.
 
 ftbuniversity.antiplasmid.title=Non-GMO
-ftbuniversity.antiplasmid.subtitle=Make an Anti Plasmid
+ftbuniversity.antiplasmid.subtitle=制作一个 Anti Plasmid
 ftbuniversity.antiplasmid.desc=Craft an Anti Plasmid with a completed Plasmid to set the gene, then inject it like a Plasmid to &6remove that gene&r.
 
 ftbuniversity.genelink.title=Click here for a list of genes
@@ -6339,7 +6339,7 @@ ftbuniversity.killers.subtitle=Make something that kills mobs
 ftbuniversity.killers.desc=All of these items can &bkill mobs&r.
 
 ftbuniversity.rfgen.title=RF Generators
-ftbuniversity.rfgen.subtitle=Make an RF generator
+ftbuniversity.rfgen.subtitle=制作一个 RF generator
 ftbuniversity.rfgen.desc=All of these machines &bgenerate RF&r in some way.
 
 ftbuniversity.rftrans.title=RF Transfer
@@ -6379,7 +6379,7 @@ ftbuniversity.flight.desc=All of these items will give you &bsome sort of flight
 ftbuniversity.flight.task=Flight items
 
 ftbuniversity.quarries.title=Quarries
-ftbuniversity.quarries.subtitle=Make any Quarry
+ftbuniversity.quarries.subtitle=制作一个y Quarry
 ftbuniversity.quarries.desc=All of these machines use energy to &bmine or generate ores&r.
 
 ###Misc2
@@ -6513,7 +6513,7 @@ ftbuniversity.projectredwires.task2=Bundled Cables
 ftbuniversity.projectredwires.task3=Framed Wires
 
 ftbuniversity.projectredgates.title=Facts and Logic
-ftbuniversity.projectredgates.subtitle=Make any logic gate
+ftbuniversity.projectredgates.subtitle=制作一个y logic gate
 ftbuniversity.projectredgates.desc1=ProjectRed also adds &blogic gates&r, like AND, OR, NOT, etc.
 ftbuniversity.projectredgates.desc2=I'm not even going to pretend to try teaching all of them. If you need them, you probably already know what they are. Their names should be pretty self-explanatory, at least for the simple ones.
 ftbuniversity.projectredgates.task=Any Logic Gate
@@ -6540,7 +6540,7 @@ ftbuniversity.compactmachines3.desc2=When connected to an outside face, &6pipes 
 ftbuniversity.compactmachines3.desc3=A &bRedstone Tunnel&r is required to move redstone signals through.
 ftbuniversity.compactmachines3.task=Either Tunnel
 
-ftbuniversity.mecapab.subtitle=Make an ME Capability Adaptor
+ftbuniversity.mecapab.subtitle=制作一个 ME Capability Adaptor
 ftbuniversity.mecapab.desc1=Compact Machines uses a specific function called &6capabilities&r to see if blocks should interact with Tunnels. Most other mods also use capabilities, so their pipes will automatically connect.
 ftbuniversity.mecapab.desc2=However, &6AE2 does not use capabilities&r. That means, by default, you &6cannot connect ME Cable through Tunnels&r.
 ftbuniversity.mecapab.desc3=The addon mod &eCapability Adapter&r adds the &bME Capability Adaptor&r, which &6carries channels using capabilities&r.
@@ -6644,7 +6644,7 @@ ftbuniversity.buildgadget.desc=The &bBuilding Gadget&r allows you to quickly bui
 ftbuniversity.gengadget.desc1=Sneak right-click a block to set it to place that block.
 ftbuniversity.gengadget.desc2=Hold the "Settings Menu" key (set it in Controls) to open a menu where you can change its settings.
 
-ftbuniversity.exchangegad.subtitle=Make an Exchanging Gadget
+ftbuniversity.exchangegad.subtitle=制作一个 Exchanging Gadget
 ftbuniversity.exchangegad.desc=The &bExchanging Gadget&r allows you to break blocks in the world, replacing them with blocks in your inventory.
 
 ftbuniversity.copypaste.subtitle=Make a Copy-Paste Gadget
@@ -6713,7 +6713,7 @@ ftbuniversity.neutronium.desc2=You're going to &6need a &llot&r of Neutronium, s
 ftbuniversity.neutronium.desc3=The addon &eDense Neutron Collectors&r adds 3 more tiers, which generate Nuggets, Ingots, and Blocks, in order.
 ftbuniversity.neutronium.task=Neutron Collectors
 
-ftbuniversity.autoint.subtitle=Make an Automation Interface
+ftbuniversity.autoint.subtitle=制作一个 Automation Interface
 ftbuniversity.autoint.desc1=The &bAutomation Interface&r allows you to automate Extended Crafting recipes.
 ftbuniversity.autoint.desc2=&6Place it on top&r of an Advanced+ Crafting Table &6&nthat already has a valid recipe in it&r, and provide it power.
 ftbuniversity.autoint.desc3=In the AI's GUI, click &6Save Recipe&r. Now, any items piped into it will try to be inserted into the correct slots of the Crafting Table.
