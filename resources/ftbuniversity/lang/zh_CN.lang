@@ -604,7 +604,7 @@ ftbuniversity.xnconnector.title=连接器
 ftbuniversity.xnconnector.subtitle=制作一个 连接器
 ftbuniversity.xnconnector.desc1=&b连接器&r &6将相邻的方块连接到网络&r.
 ftbuniversity.xnconnector.desc2=必须放置一个连接器&6在控制器上&r, 然后在你要放置的任何块上放置另一个&6你要交互的方块&r.
-ftbuniversity.xnconnector.desc3=连接器有四种颜色，只能连接到相同颜色的网络电缆。
+ftbuniversity.xnconnector.desc3=连接器有四种颜色，只能连接到相同颜色的网络线缆。
 ftbuniversity.xnconnector.desc4=连接器具有GUI，可让你&6切换到每一侧的连接&r。这样，如果它接触两台机器，则可以将其设置为仅连接到一台机器。你也可以在哪里&6重命名&r。
 
 ftbuniversity.advconnectors.title=高级连接器
@@ -615,7 +615,7 @@ ftbuniversity.advconnectors.desc3=常规连接器最多可以移动 &610,000RF/t
 ftbuniversity.advconnectors.desc4=高级连接器最多可以移动 &6100,000RF/t&r and &65,000mB/t&r.
 
 ftbuniversity.xnfacade.subtitle=制作一个 伪装方块
-ftbuniversity.xnfacade.desc=在一个方块上右键 &b伪装方块&r ，然后在电缆/连接器上使其看起来像那个方块。
+ftbuniversity.xnfacade.desc=在一个方块上右键 &b伪装方块&r ，然后在线缆/连接器上使其看起来像那个方块。
 
 ftbuniversity.xncables.title=网络线缆
 ftbuniversity.xncables.subtitle=制作一个 网络线缆
@@ -625,7 +625,7 @@ ftbuniversity.xncables.desc3=&6拿着网络线缆的时候潜行&r 将显示世�
 
 ftbuniversity.xnet1.title=使用网络
 ftbuniversity.xnet1.subtitle=了解如何使用控制器
-ftbuniversity.xnet1.desc1=使用连接器和网络电缆将控制器连接到某些方块后，即可开始 &6使用网络&r.
+ftbuniversity.xnet1.desc1=使用连接器和网络线缆将控制器连接到某些方块后，即可开始 &6使用网络&r.
 ftbuniversity.xnet1.desc2=在控制器中，对于网络上的每个方块有 &68个频道&r 。物品，能源等只能&6在一个频道内移动&r。另外， &6每个通道只能传送一种东西&r.
 ftbuniversity.xnet1.desc3=点击左上角的频道编号，然后选择要移动的频道。 &6xnet.energy&r, &6xnet.item&r, 和 &6xnet.fluid&r 应该是不言而喻的; 其他将在其他地方解释。
 
@@ -673,7 +673,7 @@ ftbuniversity.xnrouter2.desc1=单个路由器最多可以连接6个网络，但�
 ftbuniversity.xnrouter2.desc2=将路由器连接到单个网络，然后使用&b路由连接器&r 和 &b路由网线&r 将其连接到位于不同网络上的另一个路由器。
 ftbuniversity.xnrouter2.desc3=在具有命名通道的网络中的任何路由器中，通过给它一个路由器名称来 &6发布&r 。在通过路由连接器连接的任何其他路由器上，该通道将显示为&6远端频道&r.
 ftbuniversity.xnrouter2.desc4=就像使用单个路由器一样，将路由器名称指定给与远程通道的现有路由器名称匹配的其他网络上的通道。这将连接两者。
-ftbuniversity.xnrouter2.desc5=你只能在路由网络上有 &632个已发布的频道&r 。路由网络上的所有网络必须通过相同的电缆连接；如果像A-B-C这样连接网络，则B可以看到A和C，但是A不能看到B。
+ftbuniversity.xnrouter2.desc5=你只能在路由网络上有 &632个已发布的频道&r 。路由网络上的所有网络必须通过相同的线缆连接；如果像A-B-C这样连接网络，则B可以看到A和C，但是A不能看到B。
 
 ftbuniversity.wirelessrouter.subtitle=制作一个 无线路由器设备
 ftbuniversity.wirelessrouter.desc1=&b无线路由器&r 可以连接到路由器网络（使用路由连接器等），然后范围内的其他无线路由器将可以访问网络上的远程频道。
@@ -713,7 +713,7 @@ ftbuniversity.idsqueezer.desc3=给压榨机一个&6红石信号&r重置它。
 
 ftbuniversity.idwrench.subtitle=制作一个扳手
 ftbuniversity.idwrench.desc1=The &b扳手&r是一把扳手。它做扳手会做的事。
-ftbuniversity.idwrench.desc2=右键单击逻辑电缆连接将禁用该连接。潜行时单击鼠标右键会破坏线缆本身。
+ftbuniversity.idwrench.desc2=右键单击逻辑线缆连接将禁用该连接。潜行时单击鼠标右键会破坏线缆本身。
 
 ftbuniversity.labeller.subtitle=制作一个贴标机
 ftbuniversity.labeller.desc=你可以将任何物品放入&b贴标机&r的GUI, 在文本框中输入内容，然后单击&6写入&r重命名物品。
@@ -728,14 +728,14 @@ ftbuniversity.dryingbasin.desc2=它最重要的用途是 &6转换门瑞欧树脂
 
 ftbuniversity.idfacade.title伪装版
 ftbuniversity.idfacade.subtitle=制作一个伪装版
-ftbuniversity.idfacade.desc1=&b伪装版&r 可以隐藏逻辑电缆，使它们看起来像不同的块。
-ftbuniversity.idfacade.desc2=用任何方块合成伪装版, 然后在逻辑电缆上右键单击以将其掩盖。
+ftbuniversity.idfacade.desc1=&b伪装版&r 可以隐藏逻辑线缆，使它们看起来像不同的块。
+ftbuniversity.idfacade.desc2=用任何方块合成伪装版, 然后在逻辑线缆上右键单击以将其掩盖。
 
 ftbuniversity.mechdrybas.subtitle=制作一个机械干燥盆
 ftbuniversity.mechdrybas.desc=&b机械干燥盆&r就像干燥盆一样工作，但使用RF。
 
-ftbuniversity.logiccable.subtitle=制作逻辑电缆
-ftbuniversity.logiccable.desc=&b逻辑电缆&r是mod的管道；它们连接网络组件。
+ftbuniversity.logiccable.subtitle=制作逻辑线缆
+ftbuniversity.logiccable.desc=&b逻辑线缆&r是mod的管道；它们连接网络组件。
 
 ftbuniversity.monoconn.subtitle=制作一个单向连接器
 ftbuniversity.monoconn.desc1=&b单向连接器&r 让你 &6无线连接网络的各个部分&r。
@@ -848,8 +848,8 @@ ftbuniversity.itnonitems.desc=也有流体和能量的 &b接口&r, &b输入器&r
 ftbuniversity.itnonitems.task=非物品杂物
 
 ftbuniversity.energybattery.subtitle=制作一个能量电池
-ftbuniversity.energybattery.desc1=如果将RF导入到网络中，但没有任何有效的能源接口可将其存储在其中，则它将存储在连接到网络的任何＆b能量电池＆r中。
-ftbuniversity.energybattery.desc2=能量电池不必与接口连接，它们&6自动连接到相邻的逻辑电缆&r。
+ftbuniversity.energybattery.desc1=如果将RF导入到网络中，但没有任何有效的能源接口可将其存储在其中，则它将存储在连接到网络的任何&b能量电池&r中。
+ftbuniversity.energybattery.desc2=能量电池不必与接口连接，它们&6自动连接到相邻的逻辑线缆&r。
 ftbuniversity.energybattery.desc3=你可以 &6把两个能量电池合成在一起&r 合并他们的存储空间。单个电池中可能的最高RF是 &6655,360,000 RF&r。
 ftbuniversity.energybattery.desc4=右键单击物品栏中的能量电池将使其充电。
 
@@ -899,170 +899,170 @@ ftbuniversity.integratednbt.desc6=NBT 提取器中的变量卡可供网络使用
 ftbuniversity.integratednbt.desc7=从这里开始，你基本上可以使用变量卡。你可以将物品导入器列入白名单，以及提取没有RF的物品，将其导出到充电器，然后再将其放回其来源的箱子中。可能性仅受你的创造力的限制。
 
 ###AE2
-ftbuniversity.ae2chap.title=Applied Energistics 2
+ftbuniversity.ae2chap.title=应用能源学 2
 
-ftbuniversity.certus.title=Certainly Quartz
-ftbuniversity.certus.subtitle=Get some Certus Quartz
-ftbuniversity.certus.desc1=&bCertus Quartz&r is one of the most-used materials in Applied Energistics 2.
-ftbuniversity.certus.desc2=It comes in two types, normal and charged. &bCharged Certus Quartz&r drops from its ore, but can also be made in the &6Charger&r.
-ftbuniversity.certus.desc3=Mekanism also adds a way to craft it, but that's on Mekanism's side, not AE2's.
-ftbuniversity.certus.reward=Certus Quartz
+ftbuniversity.certus.title=当然是石英
+ftbuniversity.certus.subtitle=拿一些赛特斯石英
+ftbuniversity.certus.desc1=&b赛特斯石英&r 是应用能源学2中最常用的材料之一。
+ftbuniversity.certus.desc2=它有两种类型，普通型和带电型。 &b充能赛特斯石英&r 从矿石中掉落，但也可以在&6充电器&r制作。
+ftbuniversity.certus.desc3=Mekanism还添加了一种制作方法，但这是Mekanism的东西，而不是AE2的。
+ftbuniversity.certus.reward=赛特斯石英
 
-ftbuniversity.fluix.title=Fluix Buddies
-ftbuniversity.fluix.subtitle=Get some Fluix Crystals
-ftbuniversity.fluix.desc1=&bFluix Crystals&r are another resource, but they don't generate naturally.
-ftbuniversity.fluix.desc2=Instead, &6throw some Charged Certus Quartz, Nether Quartz, and Redstone dust into water&r and wait a second.
+ftbuniversity.fluix.title=福鲁伊克斯兄弟
+ftbuniversity.fluix.subtitle=拿一些赛福鲁伊克斯水晶
+ftbuniversity.fluix.desc1=&b福鲁伊克斯水晶&r 是另一种资源，但它们不是自然产生的。
+ftbuniversity.fluix.desc2=相反，&6扔一些充能赛特斯石英，下界石英，和红石粉丢入水中&r。
 
-ftbuniversity.purecrystals.title=Purity
-ftbuniversity.purecrystals.subtitle=Get some Pure Crystals
-ftbuniversity.purecrystals.desc1=The final new material is &bPure Crystals&r.
-ftbuniversity.purecrystals.desc2=To make Pure Crystals, throw a &bSeed&r of that type in some Water and just let it grow. It takes a &nvery long time&r, but eventually it will turn into a Pure Crystal.
-ftbuniversity.purecrystals.desc3=It is &6highly recommended to use Crystal Growth Accelerators&r, as they drastically reduce the time required.
-ftbuniversity.purecrystals.desc4=There are Pure variations of Nether Quartz, Certus Quartz, and Fluix Crystals.
-ftbuniversity.purecrystals.task1=Crystal Seeds
-ftbuniversity.purecrystals.task2=Pure Crystals
+ftbuniversity.purecrystals.title=纯度
+ftbuniversity.purecrystals.subtitle=得到一些纯净的水晶
+ftbuniversity.purecrystals.desc1=最终的新材料是&b纯水晶&r.
+ftbuniversity.purecrystals.desc2=要制作纯水晶，请扔一个该类型的 &b种子&r 进水，然后让它生长。需要一个 &n很长时间&r, 但最终它将变成纯水晶。
+ftbuniversity.purecrystals.desc3=&6强烈建议使用晶体催生器&r, 因为它们大大减少了所需的时间。
+ftbuniversity.purecrystals.desc4=地狱石英, 赛特斯石英, 和福鲁伊克斯水晶都有纯水晶。
+ftbuniversity.purecrystals.task1=水晶种子
+ftbuniversity.purecrystals.task2=纯水晶
 
-ftbuniversity.ae2energyacceptor.title=ME and Mine
-ftbuniversity.ae2energyacceptor.subtitle=制作一个 Energy Acceptor
-ftbuniversity.ae2energyacceptor.desc1=Applied Energistics 2 does not use RF or EU. Rather, it has &6its own energy system&r called "AE".
-ftbuniversity.ae2energyacceptor.desc2=The &bEnergy Acceptor&r can convert EU/RF to AE, at a rate of 1EU=2AE and 2RF=1AE.
-ftbuniversity.ae2energyacceptor.desc3=AE power can be &6transferred via any Cable&r from AE2.
-ftbuniversity.ae2energyacceptor.desc4=&nHowever&r, the &6ME Controller can also convert&r RF/EU to AE, and at a much faster rate. You have to make that eventually anyway, so &6this quest is optional&r.
+ftbuniversity.ae2energyacceptor.title=我和我的（Me and Mine）
+ftbuniversity.ae2energyacceptor.subtitle=制作一个能源接收器
+ftbuniversity.ae2energyacceptor.desc1=应用能源学 2不使用RF或EU。相反，它有 &6自己的能源系统&r 称为“ AE”。
+ftbuniversity.ae2energyacceptor.desc2=&b能源接收器&r 可以将EU / RF转换为AE，1EU = 2AE和2RF = 1AE。
+ftbuniversity.ae2energyacceptor.desc3=AE电源可以 &6通过任何来自AE2的线缆传输&r 。
+ftbuniversity.ae2energyacceptor.desc4=&n然而&r,  &6ME控制器也可以转换&rRF / EU到AE, 并以更快的速度。无论如何，你最终都必须做到这一点，所以 &6此任务是可选的&r.
 
-ftbuniversity.ae2energycell.subtitle=制作一个 Energy Cell
-ftbuniversity.ae2energycell.desc1=&bEnergy Cells&r store AE power, acting as a backup in case the network stops receiving it externally.
-ftbuniversity.ae2energycell.desc2=The lower tier stores &6200,000 AE&r, and the higher stores &61,600,000 AE&r.
-ftbuniversity.ae2energycell.task=Energy Cell
+ftbuniversity.ae2energycell.subtitle=制作一个能量电池
+ftbuniversity.ae2energycell.desc1=&b能量电池&r存储AE电力，以备使用，以防网络停电。
+ftbuniversity.ae2energycell.desc2=低级电池储存 &6200,000 AE&r, 高级电池储存 &61,600,000 AE&r.
+ftbuniversity.ae2energycell.task=能量电池
 
-ftbuniversity.vibrationchamber.title=Bad Vibes
-ftbuniversity.vibrationchamber.subtitle=(Don't) 制作一个 Vibration Chamber
-ftbuniversity.vibrationchamber.desc1=The &bVibration Chamber&r burns furnace fuels to generate AE.
-ftbuniversity.vibrationchamber.desc2=This is the only in-house way of generating power for AE2, but like... &6there's so many better ways&r to generate RF and then convert to AE that this doesn't really have any reason to exist.
-ftbuniversity.vibrationchamber.desc3=As such, &6this quest is entirely optional&r.
+ftbuniversity.vibrationchamber.title=不好的感觉
+ftbuniversity.vibrationchamber.subtitle=（别）制作一个谐振仓
+ftbuniversity.vibrationchamber.desc1=&b谐振仓&r 燃烧炉内燃料以产生AE。
+ftbuniversity.vibrationchamber.desc2=这是AE2唯一的内部发电方式, 但... &6有很多更好的方法&r生成RF，然后转换为AE，这实际上并没有任何理由存在。
+ftbuniversity.vibrationchamber.desc3=因此， &6这个任务是完全可选的&r.
 
-ftbuniversity.growthaccelerator.title=Basically Impossible Without This
-ftbuniversity.growthaccelerator.subtitle=制作一个 Crystal Growth Accelerator
-ftbuniversity.growthaccelerator.desc1=&bCrystal Growth Accelerators&r use AE power to &6speed up the growth of adjacent crystal Seeds&r.
-ftbuniversity.growthaccelerator.desc2=It is powered from the top or bottom, and it speeds up Seeds that are &6touching its sides&r.
-ftbuniversity.growthaccelerator.desc3=You can have &6up to 5&r surrounding one Water block while still leaving room for you to throw Seeds in.
+ftbuniversity.growthaccelerator.title=没有这个基本上是不可能的
+ftbuniversity.growthaccelerator.subtitle=制作一个晶体催生器
+ftbuniversity.growthaccelerator.desc1=&b晶体催生器&r 使用AE电源&6加快相邻晶体种子的生长&r。
+ftbuniversity.growthaccelerator.desc2=它从顶部或底部供电，并加快&6触碰它的侧面的水&r。
+ftbuniversity.growthaccelerator.desc3=你可以有 &6最多5个&r 围绕一个水块，同时还留有空间供你放入种子。
 
-ftbuniversity.inscriber.subtitle=制作一个 Inscriber
-ftbuniversity.inscriber.desc1=The &bInscriber&r is required to craft &6Processors&r, which are used very often in crafting recipes.
-ftbuniversity.inscriber.desc2=In the top slot, insert an &6Inscriber Press&r (more on that in the quest above), then insert the appropriate item in the center. Give it RF and it will slowly start working.
-ftbuniversity.inscriber.desc3=Inscribers are &6fairly hard to automate&r, as they can only have one item in each slot at a time. Placed upright, the top face is the &6top input&r, the bottom is the &6bottom input&r, and sides are both the &6middle input and the output&r.
+ftbuniversity.inscriber.subtitle=制作一个压印器
+ftbuniversity.inscriber.desc1=&b压印器&r是制作 &6处理器&r的必要原件, 在制作时经常使用。
+ftbuniversity.inscriber.desc2=在顶部插槽中，插入一个&6压模&r （有关上述，任务有更多信息），然后在中间插入适当的物品。给它RF，它将慢慢开始工作。
+ftbuniversity.inscriber.desc3=I压印器 &6很难自动化&r,因为它们每一个槽只能在特定的面输入。直立放置是顶面是&6上面的槽&r, 底部是 &6下面的槽&r, 和侧面是 &6中间槽和输出&r。
 
-ftbuniversity.ae2compass.subtitle=制作一个 Meteorite Compass
-ftbuniversity.ae2compass.desc1=Normally, you have to use the &bMeteorite Compass&r to find meteorites, at the center of which will have a chest with a &6random Inscriber Press&r.
-ftbuniversity.ae2compass.desc2=This is fun the first couple times, but can get annoying when you have 6 Logic Presses and nothing else. It can also cause lag, due to world generation.
-ftbuniversity.ae2compass.desc3=So, &6we've added recipes for Presses and Sky Stone&r, to hopefully mitigate some of those issues. Meteorites still spawn, but aren't necessary.
-ftbuniversity.ae2compass.task=Craftables
+ftbuniversity.ae2compass.subtitle=制作一个陨石指南针
+ftbuniversity.ae2compass.desc1=通常，你必须使用&b陨石指南针&r寻找陨石,在其中心将有一个包含&6随机压模&r的箱子.
+ftbuniversity.ae2compass.desc2=最初几次抽压模很有趣，但是当你有逻辑压模且没有其他压模时，这可能会很烦人。而且由于生成的缘故，它也可能导致卡顿。
+ftbuniversity.ae2compass.desc3=所以， &6我们添加了压模和陨石的合成&r，以期望减轻其中一些问题。陨石仍然会生成，但不是必需的。
+ftbuniversity.ae2compass.task=可合成的
 
-ftbuniversity.ae2acceleration.subtitle=制作一个 Acceleration Card
-ftbuniversity.ae2acceleration.desc1=&bAcceleration Cards&r can be inserted into certain AE2 machines to make them work faster.
-ftbuniversity.ae2acceleration.desc2=You can install multiple to increase their work speed even more.
+ftbuniversity.ae2acceleration.subtitle=制作一个加速卡
+ftbuniversity.ae2acceleration.desc1=&b加速卡s&r可以插入某些AE2机器以使其工作更快。
+ftbuniversity.ae2acceleration.desc2=你可以安装多个，以进一步提高其工作速度。
 
 ftbuniversity.mecontroller.title=ME!ME!ME!
-ftbuniversity.mecontroller.subtitle=制作一个 ME Controller
-ftbuniversity.mecontroller.desc1=The &BME Controller&r is the brain of every ME (matter-energy) network. &6You can only have one Controller multiblock per network.&r
-ftbuniversity.mecontroller.desc2=This quest will go over its &6construction&r, the quest above will explain how it works.
-ftbuniversity.mecontroller.desc3=When making the multiblock, &6prioritize how many faces are available&r; meaning, how many Cables can be attached directly.
-ftbuniversity.mecontroller.desc4=The multiblock must be a &67x7x7 or smaller&r.
-ftbuniversity.mecontroller.desc5=Controllers can only have a single axis with 2 connections; that is, it can be &6shaped like ⊥&r but &cnot +&r.
-ftbuniversity.mecontroller.desc6=The Controller can convert EU/RF to AE, at a rate of 1EU=2AE and 2RF=1AE.
+ftbuniversity.mecontroller.subtitle=制作一个ME控制器
+ftbuniversity.mecontroller.desc1=&BME控制器&r是每个ME（物质-能量）网络的大脑。 &6每个网络只能有一个控制器多方块。&r
+ftbuniversity.mecontroller.desc2=此任务讲解控制器的 &6构成&r, 上面的任务将解释其工作原理。
+ftbuniversity.mecontroller.desc3=建造多方块时, &6优先确定要有多少个裸露面&r; 意思是，可以直接连接多少根线缆。
+ftbuniversity.mecontroller.desc4=多方块必须是 &67x7x7 或者更小&r.
+ftbuniversity.mecontroller.desc5=控制器单轴只能有2个连接; 也就是说，可以是 &6⊥形状&r 但是不可以是 +&r.
+ftbuniversity.mecontroller.desc6=控制器可以将EU / RF转换为AE，1EU = 2AE和2RF = 1AE。
 
-ftbuniversity.ae2channels.title=Change the Channel
-ftbuniversity.ae2channels.subtitle=Learn about Channels
-ftbuniversity.ae2channels.desc1=&bChannels&r are a system unique to AE2. Cables can only support so many channels, with each device taking up one.
-ftbuniversity.ae2channels.desc2=You can theoretically have an ME network &6without a Controller&r, but it would &6only be able to support 8 channels&r.
-ftbuniversity.ae2channels.desc3=Normal &6Cables can carry 8 channels&r, while &6Dense Cables can carry 32&r, though they cannot connect to devices directly.
-ftbuniversity.ae2channels.desc4=A Dense Cable can support 4 fully maxed normal Cables.
-ftbuniversity.ae2channels.desc5=Each face of an ME Controller &6provides up to 32 channels&r, limited by the Cable connecting to it.
-ftbuniversity.ae2channels.desc6=Channels will take the &6shortest path&r from the Controller to the device.
+ftbuniversity.ae2channels.title=换个频道
+ftbuniversity.ae2channels.subtitle=了解频道
+ftbuniversity.ae2channels.desc1=&b频道&r 是AE2独有的系统。线缆只能支持这么多通道，大部分设备每个占用一个。
+ftbuniversity.ae2channels.desc2=理论上你可以拥有一个 &6没有控制器&r的ME网络, 但这&6只能支持8个频道&r.
+ftbuniversity.ae2channels.desc3=正常 &6线缆可以承载8个通道&r, 而 &6密集线缆可容纳32&r, 尽管他们无法直接连接到设备。
+ftbuniversity.ae2channels.desc4=一条密集线缆可以支持4条标准线缆。
+ftbuniversity.ae2channels.desc5=ME控制器的每一面 &6提供多达32个频道&r, 受连接线缆的限制。
+ftbuniversity.ae2channels.desc6=频道将采用从控制器到设备的 &6最短路径&r 。
 
-ftbuniversity.ae2channellink.title=They're Very Complex, Sorry
-ftbuniversity.ae2channellink.subtitle=If that didn't explain it well enough, click this to go to the mod's wiki page on channels.
+ftbuniversity.ae2channellink.title=很复杂，对不起
+ftbuniversity.ae2channellink.subtitle=如果那还不能很好地解释它，请单击此按钮以转到上mod的wiki页面。
 
-ftbuniversity.networktool.subtitle=制作一个 Network Tool
-ftbuniversity.networktool.desc1=The &bNetwork Tool&r is AE2's wrench, though it has some extra features.
-ftbuniversity.networktool.desc2=Using any wrench on a device will remove it from its Cable.
-ftbuniversity.networktool.desc3=Clicking the ME Controller with a Network Tool will show all machines in the ME network, along with how much power it is using per tick.
-ftbuniversity.networktool.desc4=Sneak right-clicking the Network Tool will open its GUI, allowing you to &6insert 9 stacks of upgrade Cards&r. When in a device GUI, the Tool's Cards will be available.
+ftbuniversity.networktool.subtitle=制作一个网络工具
+ftbuniversity.networktool.desc1=The &b网络工具&r是AE2的扳手，尽管它有一些额外的功能。
+ftbuniversity.networktool.desc2=在设备上使用任何扳手都会将其卸下。
+ftbuniversity.networktool.desc3=单击带有网络工具的ME控制器将显示ME网络中的所有机器，以及每刻所消耗的电量。
+ftbuniversity.networktool.desc4=蹲下右键单击网络工具将打开其GUI，使你可以&6插入9组升级卡&r。在设备GUI中时，将可以使用工具卡。
 
-ftbuniversity.ae2glasscable.title=You Basic
-ftbuniversity.ae2glasscable.subtitle=Make ME Glass Cables
-ftbuniversity.ae2glasscable.desc1=&bME Glass Cables&r are the most basic form of ME Cable.
-ftbuniversity.ae2glasscable.desc2=They can &6carry 8 channels&r, and can &6support devices&r attached to them.
-ftbuniversity.ae2glasscable.desc3=&bME Covered Cables&r are &6functionally identical&r to Glass Cables.
-ftbuniversity.ae2glasscable.task=Either Fluix Cable
+ftbuniversity.ae2glasscable.title=你基本
+ftbuniversity.ae2glasscable.subtitle=制造ME玻璃线缆
+ftbuniversity.ae2glasscable.desc1=&bME玻璃线缆&r是ME线缆的最基本形式。
+ftbuniversity.ae2glasscable.desc2=他们能 &6携带8个频道&r,并能 &6支持设备&r 放于他们边上。
+ftbuniversity.ae2glasscable.desc3=&bME覆盖线缆&r 是和玻璃线缆 &6功能上相同&r。
+ftbuniversity.ae2glasscable.task=任意一个线缆
 
 ftbuniversity.ae2colorcables.title=&4&l█&c&l█&6&l█&e&l█&2&l█&a&l█&b&l█&3&l█&1&l█&9&l█&d&l█
-ftbuniversity.ae2colorcables.subtitle=制作一个y colored Cable
-ftbuniversity.ae2colorcables.desc1=Cables of all kinds can be color-coded to prevent unwanted connections.
-ftbuniversity.ae2colorcables.desc2=Colored Cables &6only connect to Cables of the same color&r, though all colors connect to normal Fluix Cables.
-ftbuniversity.ae2colorcables.desc3=This is especially useful for when you have several paths within a small area that you don't want interacting, to make sure channels only go along certain paths.
-ftbuniversity.ae2colorcables.desc4=Also, certain devices will match the color of the Cable they are on!
-ftbuniversity.ae2colorcables.task=Colored Cables
-ftbuniversity.ae2colorcables.reward=Dyes
+ftbuniversity.ae2colorcables.subtitle=制作一个彩色线缆
+ftbuniversity.ae2colorcables.desc1=各种线缆都可以进行颜色编码，以防止不必要的连接。
+ftbuniversity.ae2colorcables.desc2=彩色线缆&6仅连接到相同颜色的线缆&r，尽管所有颜色都连接到普通的Fluix线缆。
+ftbuniversity.ae2colorcables.desc3=当你不想在一个小区域内有多个线缆进行交互时，以确保线缆仅沿着某些路径运行时，这特别有用。
+ftbuniversity.ae2colorcables.desc4=此外，某些设备将与它们所连接的线缆的颜色匹配！
+ftbuniversity.ae2colorcables.task=彩色线缆
+ftbuniversity.ae2colorcables.reward=染料
 
-ftbuniversity.quartzfiber.title=Technically You Already Had to Make These, But...
-ftbuniversity.quartzfiber.subtitle=Make Quartz Fiber
-ftbuniversity.quartzfiber.desc1=&bQuartz Fiber&r can be placed between two Cables to &6allow energy, but &onot&r &6channels, to pass through&r.
+ftbuniversity.quartzfiber.title=从技术上讲，你已经可以制作这些，但是...
+ftbuniversity.quartzfiber.subtitle=制作石英纤维
+ftbuniversity.quartzfiber.desc1=&b石英纤维&r 可以放在两根线缆之间&6允许能量，但&o不&r &6允许频道通过&r。
 
-ftbuniversity.mesmartcable.title=You Smart
-ftbuniversity.mesmartcable.subtitle=Make ME Smart Cables
-ftbuniversity.mesmartcable.desc1=&bME Smart Cables&r have all the same functionality as normal ME Cables, but will &6display how many channels are passing through them&r.
-ftbuniversity.mesmartcable.desc2=In addition to being convenient, it also just looks super cool.
+ftbuniversity.mesmartcable.title=你聪明
+ftbuniversity.mesmartcable.subtitle=制作智能线缆
+ftbuniversity.mesmartcable.desc1=&bME 智能线缆&r 具有与普通ME线缆相同的功能, 但是会&6显示是用了多少频道&r。
+ftbuniversity.mesmartcable.desc2=除了方便之外，它看起来也很酷。
 
-ftbuniversity.medense.title=Dummy Thicc
-ftbuniversity.medense.subtitle=Make ME Dense Covered Cables
-ftbuniversity.medense.desc1=&bME Dense Covered Cables&r can carry up to &632 channels&r, but cannot directly support devices.
-ftbuniversity.medense.desc2=Pre-P2P (we'll get to that eventually), it would be smart to directly connect these to the Controller, and then from there branch off into normal Cables.
+ftbuniversity.medense.title=THICC
+ftbuniversity.medense.subtitle=制作致密线缆
+ftbuniversity.medense.desc1=&b致密线缆&r 可以承受 &632个频道&r, 但不能直接支持设备。
+ftbuniversity.medense.desc2=P2P之前（我们将了解它）, 将它们直接连接到控制器，然后从那里分支到普通线缆是很明智的。
 
-ftbuniversity.smartdense.title=Big Brain
-ftbuniversity.smartdense.subtitle=Make ME Dense Smart Cables
-ftbuniversity.smartdense.desc=&bME Dense Smart Cables&r work exactly like Dense Covered Cables, but they &6show how many channels are passing through them&r.
+ftbuniversity.smartdense.title=大脑子
+ftbuniversity.smartdense.subtitle=制作智能致密线缆
+ftbuniversity.smartdense.desc=&b智能致密线缆&r 的工作方式与致密线缆完全相同，但是会&6显示是用了多少频道&r。
 
-ftbuniversity.ae2facade.title=The C is Silent, and the S is Invisible
-ftbuniversity.ae2facade.subtitle=制作一个y Cable Facade
-ftbuniversity.ae2facade.desc1=&bCable Facades&r can be attached to any ME Cable, &6making that side look like the block it's made out of&r.
-ftbuniversity.ae2facade.desc2=Additionally, Torches, Levers, and the like can be placed on Facades, as if they were a solid block.
-ftbuniversity.ae2facade.desc3=Facades can be placed on the same face as a device, so you can make your Terminals etc flush with the wall.
-ftbuniversity.ae2facade.task=Any Cable Facade
+ftbuniversity.ae2facade.title=C是无声的，而S是不可见的
+ftbuniversity.ae2facade.subtitle=制作一个线缆伪装版
+ftbuniversity.ae2facade.desc1=&b线缆伪装版&r 可以连接到任何ME电缆, &6使那边看起来像是由它制成的方块&r.
+ftbuniversity.ae2facade.desc2=此外，可以将火把等放置在线缆伪装版上，就好像它们是一个实体方块一样。
+ftbuniversity.ae2facade.desc3=可以将线缆伪装版与设备放置在同一面上，因此可以使终端等与墙齐平。
+ftbuniversity.ae2facade.task=任何线缆伪装版
 
-ftbuniversity.mechest.subtitle=制作一个 ME Chest
-ftbuniversity.mechest.desc1=The &bME Chest&r is the most simple way to use AE2 to store items.
-ftbuniversity.mechest.desc2=Click any side other than the top to insert a &6Storage Cell&r, and click the top to access items inside it.
-ftbuniversity.mechest.desc3=The ME Chest is capable of &6working independently&r of an ME Controller, as it can accept RF/EU directly. However, if connected to a network, the network will also be able to access its contents.
+ftbuniversity.mechest.subtitle=制作一个ME箱子
+ftbuniversity.mechest.desc1=&bME箱子&r 是使用AE2存储物品的最简单方法。
+ftbuniversity.mechest.desc2=单击顶部以外的任何一侧以插入&6储存单元&r,然后单击顶部以访问其中的物品。
+ftbuniversity.mechest.desc3=ME箱子有能力在ME控制器以外&6独立工作&r , 因为它可以直接接受RF / EU。但是，如果连接到网络，则网络也将能够访问其内容。
 
-ftbuniversity.meterminal.title=Storage Access
-ftbuniversity.meterminal.subtitle=制作一个 ME Terminal
-ftbuniversity.meterminal.desc1=The &bME Terminal&r is the first of many devices, and allows you to &6access all items in the ME network&r (we'll get to storing items in a bit).
-ftbuniversity.meterminal.desc2=On the left, you have several &6buttons&r. Their &6tooltips&r should be fairly self-explanatory.
-ftbuniversity.meterminal.desc3=The top right has a button to show what the system is &6auto-crafting&r, as well as 5 slots for &6View Cells&r. We'll cover both of those later.
+ftbuniversity.meterminal.title=储存存取
+ftbuniversity.meterminal.subtitle=制作一个ME终端
+ftbuniversity.meterminal.desc1=&bME终端&r 是许多设备中的第一个，可以让你 &6访问ME网络中的所有物品&r （我们将稍后谈谈存储物品）。
+ftbuniversity.meterminal.desc2=在左边，有几个 &6按钮&r。其 &6工具提示&r 应该是不言自明的。
+ftbuniversity.meterminal.desc3=右上角有一个按钮来显示系统是在做什么&6自动合成&r,以及5个给&6显示元件&r的插槽 。我们稍后将讨论这两个方面。
 
-ftbuniversity.craftingterminal.subtitle=制作一个 ME Crafting Terminal
-ftbuniversity.craftingterminal.desc=The &bME Crafting Terminal&r works exactly like an ME Terminal, but &6has a 3x3 crafting grid&r.
+ftbuniversity.craftingterminal.subtitle=制作一个 ME 合成终端
+ftbuniversity.craftingterminal.desc=&bME 合成终端&r就像ME终端一样工作，但是&6有一个3x3的合成网格&r.
 
-ftbuniversity.cellworkbench.title=Cells at Work
-ftbuniversity.cellworkbench.subtitle=制作一个 Cell Workbench
-ftbuniversity.cellworkbench.desc1=The &bCell Workbench&r allows you to &6configure Cells&r.
-ftbuniversity.cellworkbench.desc2=You can insert a &6Storage Cell&r into the top right slot, and then in the slots below set an &6item whitelist&r of what is allowed to enter that Cell. This is called &6partitioning&r.
-ftbuniversity.cellworkbench.desc3=An example use of this would be to put all ores into one cell, all ingots into another, etc. That way, the cell won't get full of any random junk you put into the system.
-ftbuniversity.cellworkbench.desc4=You can also click the Wrench button to automatically partition the Cell to what it's currently holding.
-ftbuniversity.cellworkbench.desc5=You can insert a &6Fuzzy Card&r to make that Cell ignore damage and nbt, and you can insert an &6Invert Card&r to make it a blacklist instead of a whitelist.
+ftbuniversity.cellworkbench.title=工作单元
+ftbuniversity.cellworkbench.subtitle=制作一个元件工作台
+ftbuniversity.cellworkbench.desc1=&b元件工作台&r让你&6配置单元&r。
+ftbuniversity.cellworkbench.desc2=您可以在右上方的插槽插入一个 &6储存单元&r , 然后在下面的槽中设置一个允许进入该单元的 &6物品白名单&r 。这就是所谓的 &6分割&r.
+ftbuniversity.cellworkbench.desc3=例如，将所有矿石放入一个单元，将所有铸锭放入另一个单元，等等。这样一来，该单元将不会充满您放入系统中的任何随机垃圾。
+ftbuniversity.cellworkbench.desc4=您也可以单击“扳手”按钮以自动将单元划分为当前所容纳的物品。
+ftbuniversity.cellworkbench.desc5=您可以插入一个 &6模糊卡&r 要使该单元忽略伤害和nbt，您可以插入&6反转卡&r使其成为黑名单而不是白名单。
 
-ftbuniversity.viewcell.title=Filter
-ftbuniversity.viewcell.subtitle=制作一个 View Cell
-ftbuniversity.viewcell.desc=Partition a &bView Cell&r, and then insert it into the top right slots of Terminals to filter what's visible to match the View Cell's whitelist/blacklist.
+ftbuniversity.viewcell.title=过滤
+ftbuniversity.viewcell.subtitle=制作一个显示元件
+ftbuniversity.viewcell.desc= &b显示元件&r使用元件工作台分区, 然后将其插入终端的右上角插槽，以过滤可见的内容以匹配显示元件的白名单/黑名单。
 
-ftbuniversity.medrive.title=Storing Items
-ftbuniversity.medrive.subtitle=制作一个 ME Drive and Storage Cell
-ftbuniversity.medrive.desc1=The &bME Drive&r can store up to 10 &bStorage Cells&r, allowing their contents to be visible to the network.
-ftbuniversity.medrive.desc2=Storage Cells can store items, with higher tiers storing more.
-ftbuniversity.medrive.desc3=&oTechnically&r, Storage Cells store &6bytes&r, not items. A certain amount of bytes is required for unique items; &62 of the same item uses less bytes than 2 different items&r.
-ftbuniversity.medrive.desc4=&6Higher tier Cells have more bytes&r, but also require &6more bytes per unique item&r. That makes them more useful for storing a large amount of a small variety of items.
-ftbuniversity.medrive.desc5=Additionally, every cell is &6limited to 63 unique items&r.
-ftbuniversity.medrive.task=Any Storage Cell
+ftbuniversity.medrive.title=存放物品
+ftbuniversity.medrive.subtitle=制作一个ME驱动器和存储单元
+ftbuniversity.medrive.desc1=&bME驱动器&r最多可存储10个 &b储存单元&r, 允许其内容对网络可见。
+ftbuniversity.medrive.desc2=存储单元可以存储物品，更高级可以存储更多。
+ftbuniversity.medrive.desc3=&o技术上&r, 存储单元储存 &6字节&r, 不是物品。 物品需要一定数量的字节； &6两个相同的物品使用比两个不同的物品使用更少的字节&r。
+ftbuniversity.medrive.desc4=&6较高级的单元具有更多字节&r, 但也要求 &6每个唯一物品需要更多字节&r。这使得它们对于存储大量的少种类物品更为有用。
+ftbuniversity.medrive.desc5=此外，每个单元格都是 &6仅限63个独特物品&r.
+ftbuniversity.medrive.task=任何存储单元
 
 ftbuniversity.meimport.title=I
 ftbuniversity.meimport.subtitle=制作一个 ME Import Bus
