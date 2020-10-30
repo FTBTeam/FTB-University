@@ -180,11 +180,11 @@ ftbuniversity.antibarrel.title=不可堆叠
 ftbuniversity.antibarrel.subtitle=制作一个反桶
 ftbuniversity.antibarrel.desc1=这个 &b反桶&r &6存放不可堆叠的物品&r像剑之类的。
 ftbuniversity.antibarrel.desc2=它&6不受限于单一物品种类&r。它可以存储物品，而不管其NBT和损坏情况如何。
-ftbuniversity.antibarrel.desc3=这使它 &n对怪物农场非常有用&r，因此您无需进行复杂的设置即可把这些物品丢进垃圾桶。
+ftbuniversity.antibarrel.desc3=这使它 &n对怪物农场非常有用&r，因此你无需进行复杂的设置即可把这些物品丢进垃圾桶。
 
 ftbuniversity.yabtier.title=这甚至不是我的最终形式
 ftbuniversity.yabtier.subtitle=制作升级
-ftbuniversity.yabtier.desc1=通过这些升级，您可以在&6“物品桶”&r中存储更多物品。他们&6必须按顺序放置&r: 铁，然后金，然后是钻石。但是，可以在任意位置安装无限容量。
+ftbuniversity.yabtier.desc1=通过这些升级，你可以在&6“物品桶”&r中存储更多物品。他们&6必须按顺序放置&r: 铁，然后金，然后是钻石。但是，可以在任意位置安装无限容量。
 ftbuniversity.yabtier.desc2=• &b铁&r 可以存储256组。
 ftbuniversity.yabtier.desc3=• &b金&r 可以存储1024组。
 ftbuniversity.yabtier.desc4=• &b钻石&r 可以存储4096组。
@@ -196,9 +196,9 @@ ftbuniversity.yabups.subtitle=制作一个功能升级
 ftbuniversity.yabups.desc1=这些物品可以添加到任何等级的桶中以添加一些功能。
 ftbuniversity.yabups.desc2=&b黑曜石壳&r进行桶装&6抵抗爆炸&r。
 ftbuniversity.yabups.desc3=&b红石输出&r在桶的GUI中添加了几个选项，以使其能够基于存储的数量&6发射红石信号。
-ftbuniversity.yabups.desc4=&b漏斗&r 在GUI中添加选项，使其可以像&6漏斗＆r一样工作：从上方的物品栏中拉出，推入下方的物品栏中，并在顶部抓取物品实体。所有这些都是可配置的。
+ftbuniversity.yabups.desc4=&b漏斗&r 在GUI中添加选项，使其可以像&6漏斗&r一样工作：从上方的物品栏中拉出，推入下方的物品栏中，并在顶部抓取物品实体。所有这些都是可配置的。
 ftbuniversity.yabups.desc5=&b虚空升级&r 允许桶 &6即使已满也接受物品，并将其破坏&r.
-ftbuniversity.yabups.desc6=&b收集升级&r 允许桶在损坏和在您的物品栏中时 &6自动收集您拿起的物品&r。这对于存储鹅卵石非常有用，因为您可以在采矿时随身携带它。
+ftbuniversity.yabups.desc6=&b收集升级&r 允许桶在损坏和在你的物品栏中时 &6自动收集你拿起的物品&r。这对于存储鹅卵石非常有用，因为你可以在采矿时随身携带它。
 ftbuniversity.yabups.desc7=&b物品熔炼&r 将尝试 &6每20秒熔炼一次存储的物品&r，将结果放在前面。
 ftbuniversity.yabups.task=功能升级
 
@@ -215,7 +215,7 @@ ftbuniversity.progression.title=引言
 
 ftbuniversity.progintro.title=欢迎来到模组！
 ftbuniversity.progintro.subtitle=是什么让模组特别
-ftbuniversity.progintro.desc1=本章将向您展示使每个模组变得与众不同的原因 &6什么时候应该玩&r。
+ftbuniversity.progintro.desc1=本章将向你展示使每个模组变得与众不同的原因 &6什么时候应该玩&r。
 ftbuniversity.progintro.desc2=不要一次做一个模组！ 模组组合在一起时效果最佳！
 ftbuniversity.progintro.desc3= &6阿卡什宝典&r （此任务的奖励）可以与其他任何书籍一起制作以存储它们。右键单击它以选择要转换成的书，左键点击空气重置。
 ftbuniversity.progintro.desc4=将变形后的书扔掉以将其作为物品退还。
@@ -224,7 +224,7 @@ ftbuniversity.progfor.title=林业
 ftbuniversity.progfor.subtitle=自然科技
 ftbuniversity.progfor.desc1=&e林业&r 是涉及农业的模组。
 ftbuniversity.progfor.desc2=它最著名的特征是蜜蜂育种，它可以使蜜蜂产生从线到钻石的各种物品。 （从技术上讲，无机蜜蜂来自附加组件，但仍然如此。）
-ftbuniversity.progfor.desc3=林业非常适合 &6开局&r, 因为它相当便宜，可以让您快速实现木材和农作物的自动化。
+ftbuniversity.progfor.desc3=林业非常适合 &6开局&r, 因为它相当便宜，可以让你快速实现木材和农作物的自动化。
 
 ftbuniversity.progexu2.title=更多实用工具2
 ftbuniversity.progexu2.subtitle=魔术型科技
@@ -235,7 +235,7 @@ ftbuniversity.progbot.title=植物魔法
 ftbuniversity.progbot.subtitle=植物魔法是一个来自Vazkii的科技模组
 ftbuniversity.progbot.desc1=&e植物魔法&r 自称是以自然魔法为主题的科技模组。 所以虽然 &6看起来像魔法模组&r, 它 &6玩起来像是科技模组&r.
 ftbuniversity.progbot.desc2=植物魔法的大部分在&dFTB Academy&r被覆盖 ，因此大学只会教导更复杂的方面。
-ftbuniversity.progbot.desc3=植物魔法几乎在&6从最开始&r访问,这样您就可以在掌握材料后立即开始。
+ftbuniversity.progbot.desc3=植物魔法几乎在&6从最开始&r访问,这样你就可以在掌握材料后立即开始。
 
 ftbuniversity.progic2.title=工业2
 ftbuniversity.progic2.subtitle=实验室科技
@@ -245,13 +245,13 @@ ftbuniversity.progic2.desc3=IC2应该持续整个模组包，从 &6开始到结�
 
 ftbuniversity.proglog.title=物流管道
 ftbuniversity.proglog.subtitle=逻辑自动化
-ftbuniversity.proglog.desc1=&e物流管道&r 是一个增加了 &6有趣的管道&r 来自动化您的基地的模组。
+ftbuniversity.proglog.desc1=&e物流管道&r 是一个增加了 &6有趣的管道&r 来自动化你的基地的模组。
 ftbuniversity.proglog.desc2=物流管道是 &6相当的前期&r, 但需要一些能源基础设施。
 
 ftbuniversity.progie.title=沉浸工程
 ftbuniversity.progie.subtitle=工厂科技
 ftbuniversity.progie.desc1=&e沉浸工程&r 是使用RF的科技模组。令其脱颖而出的是所有机器都是 &6充满风格的多方块&r.
-ftbuniversity.progie.desc2=沉浸工程需要大量的煤和铁，但是 &6如果您有资源，可以随时开始&r.
+ftbuniversity.progie.desc2=沉浸工程需要大量的煤和铁，但是 &6如果你有资源，可以随时开始&r.
 
 ftbuniversity.progpneu.title=气动工艺
 ftbuniversity.progpneu.subtitle=空气科技
@@ -265,13 +265,13 @@ ftbuniversity.progthaum.desc2=神秘时代可以在 &6从最开始&r 进入。
 ftbuniversity.progthaum.reward=Vis晶体
 
 ftbuniversity.progblood.title=血魔法：炼金术士
-ftbuniversity.progblood.subtitle=酷炫魔法
+ftbuniversity.progblood.subtitle=中二病魔法
 ftbuniversity.progblood.desc1=&e血魔法&r是一个 &6使用生命精华&r 来驱动 &6祭坛&r, &6炼金术&r, 和 &6咒语&r的模组。
 ftbuniversity.progblood.desc2=第一步需要大量珍贵的矿石，但是可以 &6相当前期&r开始。
 
 ftbuniversity.progeio.title=末影接口
 ftbuniversity.progeio.subtitle=很多&m微合成&r&7的便捷科技
-ftbuniversity.progeio.desc1=&e末影接口&r 是一个使用RF的科技模组。它最独特的功能是导管系统，您可以在同一个方块其中&6运输&r物品，能量和液体。
+ftbuniversity.progeio.desc1=&e末影接口&r 是一个使用RF的科技模组。它最独特的功能是导管系统，你可以在同一个方块其中&6运输&r物品，能量和液体。
 ftbuniversity.progeio.desc2=末影接口的机器有不同等级，所以这个模组 &6在任何时候都有用&r。
 
 ftbuniversity.progmek.title=通用机械 v9
@@ -304,7 +304,7 @@ ftbuniversity.progadvr.desc3=火箭科学并不容易，所以直到大约 &6中
 
 ftbuniversity.progrftd.title=RFTools次元
 ftbuniversity.progrftd.subtitle=次元科技
-ftbuniversity.progrftd.desc1=&eRFTools 次元&r 是RFTools的附加组件，可让您根据您的喜好 &6创建自己的次元&r 。
+ftbuniversity.progrftd.desc1=&eRFTools 次元&r 是RFTools的附加组件，可让你根据你的喜好 &6创建自己的次元&r 。
 ftbuniversity.progrftd.desc2=这些次元的设计可以是常规的主世界，或者在这里，所有东西都被照亮，并且怪物从不产生，甚至到用烈酒制成的无限海洋，再到用钻石块制成的超平坦世界。
 ftbuniversity.progrftd.desc3=RFTools次元是 &6&l非常&r&6 后期&r, 因为要运行一个次元需要大量的RF。
 
@@ -331,85 +331,85 @@ ftbuniversity.automationchap.title=自动化
 ftbuniversity.logisticspipeschap.title=物流管道
 
 ftbuniversity.unroutedpipes.title=
-ftbuniversity.unroutedpipes.subtitle=Make Unrouted Transport Pipes
-ftbuniversity.unroutedpipes.desc1=&bUnrouted Transport Pipes&r are the most basic pipe available. They only serve to connect other pipes.
-ftbuniversity.unroutedpipes.desc2=If items try to pass through an Unrouted Transport Pipe that splits into multiple paths, the item will randomly choose a direction.
-ftbuniversity.unroutedpipes.desc3=All pipes that have any error will glow &cred&r.
-ftbuniversity.unroutedpipes.desc4=Logistics Pipes uses the MCMultiPart API, which means they can &6share a blockspace with Bits&r.
+ftbuniversity.unroutedpipes.subtitle=制作无路由运输管道
+ftbuniversity.unroutedpipes.desc1=&b无路由运输管道&r 是最基本的管道。它们仅用于连接其他管道。
+ftbuniversity.unroutedpipes.desc2=如果物品试图穿过分成多条路径的无路线运输管道，则物品将随机选择一个方向。
+ftbuniversity.unroutedpipes.desc3=所有有错误的管道都会发&c红&r光.
+ftbuniversity.unroutedpipes.desc4=物流管道使用MCMultiPart API，这意味着它们可以&6与微方块共享一个空间&r.
 
-ftbuniversity.highspeedpipes.title=Gotta Go Fast
-ftbuniversity.highspeedpipes.subtitle=Make Highspeed Tubes
-ftbuniversity.highspeedpipes.desc1=&bHighspeed Tubes&r are much, &omuch&r faster than regular pipes, and should to connect regular pipes at long distances.
-ftbuniversity.highspeedpipes.desc2=&bHighspeed Speedup Tubes&r are required at both ends. They will speed items up when coming from the near side, and slow down when coming from the far side.
-ftbuniversity.highspeedpipes.desc3=&bHighspeed Line Tubes&r should be used for straight lines, and cannot curve. The other tube names should be mostly self-explanatory.
-ftbuniversity.highspeedpipes.task3=Any non-straight Highspeed Tube
+ftbuniversity.highspeedpipes.title=要快
+ftbuniversity.highspeedpipes.subtitle=制作高速管
+ftbuniversity.highspeedpipes.desc1=&b高速管&r 是更加， &o更加&r 快的管道，并且应长距离连接常规管道。
+ftbuniversity.highspeedpipes.desc2=&b变速高速管&r 两端都需要。当它们从近侧进入时，它们将加快速度，而从远侧进入时，它们将降低速度。
+ftbuniversity.highspeedpipes.desc3=&b直线高速管&r 应该用于直线，并且不能弯曲。其他管道名称应大多是不言自明的。
+ftbuniversity.highspeedpipes.task3=任何非直线高速管
 
-ftbuniversity.logpipewrenches.title=Pipe Gooey
-ftbuniversity.logpipewrenches.subtitle=Make something that can manage pipes
-ftbuniversity.logpipewrenches.task=Items that can open pipe GUIs
-ftbuniversity.logpipewrenches.desc=Certain pipes have GUIs that can't be accessed normally. You can use either a &bWrench&r, if you have one, or a &bPipe Manager&r.
+ftbuniversity.logpipewrenches.title=管道粘糊糊
+ftbuniversity.logpipewrenches.subtitle=做一些可以管理管道的事情
+ftbuniversity.logpipewrenches.task=可以打开管道GUI
+ftbuniversity.logpipewrenches.desc=某些管道具有无法正常访问的GUI。如果你有一个，你可以使用 &b扳手&r，或一个 &b管道管理器&r。
 
-ftbuniversity.basiclogpipes.subtitle=Make Basic Logistics Pipes
-ftbuniversity.basiclogpipes.desc1=&bBasic Logistics Pipes&r are one step above Unrouted Transport Pipes. They can connect to inventories and certain other blocks. 
-ftbuniversity.basiclogpipes.desc2=Open the Basic Logistics Pipe's GUI (with a Wrench or Pipe Manager) to set what items are allowed to enter the inventory it is placed on. You can also toggle &6Default route&r, which allows all items through.
-ftbuniversity.basiclogpipes.desc3=&cIf the inventory is full, items will be dropped out of the pipe into the world.&r
-ftbuniversity.basiclogpipes.desc4=Basic Logistics Pipes should be used where Unrouted Transport Pipes &6intersect&r, items will move in the correct path intelligently.
-ftbuniversity.basiclogpipes.desc5=All intelligent pipes &6require energy to function&r.
+ftbuniversity.basiclogpipes.subtitle=制作基本物流管道
+ftbuniversity.basiclogpipes.desc1=&b基础物流管道&r 比路由运输管道高出一步。他们可以连接到物品栏和某些其他模块。
+ftbuniversity.basiclogpipes.desc2=打开基本物流管道的GUI（使用扳手或管道管理器）以设置允许哪些物品输入。 你也可以切换 &6默认路线&r，它允许所有物品通过。
+ftbuniversity.basiclogpipes.desc3=&c如果物品栏已满，则物品将从管道中掉落到世界上。&r
+ftbuniversity.basiclogpipes.desc4=无基础物流管道应用于无路由管道 &6交错&r的位置，物品将智能地沿着正确的路径移动。
+ftbuniversity.basiclogpipes.desc5=所有智能管道 &6需要能量才能运作&r.
 
 ftbuniversity.logpowerjunction.title=
-ftbuniversity.logpowerjunction.subtitle=Make a Logistics Power Junction
-ftbuniversity.logpowerjunction.desc1=Logistics Pipe networks require power to function. Place down a &bLogistics Power Junction&r and connect it to the network with a Basic Logistics Pipe, then &6provide it with RF or EU&r.
-ftbuniversity.logpowerjunction.desc2=You may need to place some pipes to update the network.
+ftbuniversity.logpowerjunction.subtitle=制作物流能量中枢
+ftbuniversity.logpowerjunction.desc1=物流管网需要电源才能运行。放下 &b物流能量中枢&r 并使用基本物流管道将其连接到网络，然后 &6向其提供RF或EU&r.
+ftbuniversity.logpowerjunction.desc2=你可能需要放置一些管道以更新网络。
 
-ftbuniversity.logprogcomp.title=Log Prog Com for Short
-ftbuniversity.logprogcomp.subtitle=Make a Logistics Program Compiler
-ftbuniversity.logprogcomp.desc1=Most Logistics Pipes require programs in their crafting recipes. These programs are made in the &bLogistics Program Compiler&r. Place one down and connect it to the LP network with a Basic Logistics Pipe.
-ftbuniversity.logprogcomp.desc2=Place a &bLogistics Disk&r in the upper left slot and a &bLogistics Programmer&r in the upper right.
-ftbuniversity.logprogcomp.desc3=On the left of the GUI, click one of the options and click &6Unlock&r. This will take some time and energy to unlock that tier of program.
-ftbuniversity.logprogcomp.desc4=After that tier has been unlocked, you can pick a program of that tier to &6Compile&r on the right. After it's been compiled, you can &6Flash&r it onto that the Logistics Programmer to use it in crafting recipes. The Programmer is reusable, though you can only have one program flashed on it at a time.
+ftbuniversity.logprogcomp.title=Log Prog Com的简称
+ftbuniversity.logprogcomp.subtitle=制作物流程序编译器
+ftbuniversity.logprogcomp.desc1=大多数物流管道在其制作配方中都需要程序。这些程序是在&b物流程序编译器&r中编译。 将其放下，然后通过基本物流管道将其连接到LP网络。
+ftbuniversity.logprogcomp.desc2=放置一个 &b物流磁盘&r 在左上方的插槽中 &b物流编程器&r 在右上方.
+ftbuniversity.logprogcomp.desc3=在GUI的左侧，单击选项之一，然后单击 &6解锁&r。要解锁该程序，将需要一些时间和能量。
+ftbuniversity.logprogcomp.desc4=解锁该层后，你可以选择程序以在右边 &6编译&r 。编译后，你可以将其放到物流编程器以用于制合成。尽管你一次只能在其中闪存一个程序，但编程器是可重用的。
 
 ####Routed Pipes
-ftbuniversity.routedpipes.title=We are Routed, Fall Back!
-ftbuniversity.routedpipes.subtitle=Learn what routed pipes are
-ftbuniversity.routedpipes.desc1=Every pipe that isn't Unrouted is, by definition, routed. 
-ftbuniversity.routedpipes.desc2=Routed pipes are the only pipes that connect to inventories and other special blocks, and are also the only pipes that can accept upgrades.
+ftbuniversity.routedpipes.title=我们被路由，后退！
+ftbuniversity.routedpipes.subtitle=了解什么是路由管道
+ftbuniversity.routedpipes.desc1=按照定义，每个非无路由管道都将被路由。
+ftbuniversity.routedpipes.desc2=路由管道是连接到物品栏和其他特殊模块的唯一管道，并且也是唯一可以接受升级的管道。
 
-ftbuniversity.logprovider.title=Input
-ftbuniversity.logprovider.subtitle=Make a Provider Logistics Pipe
-ftbuniversity.logprovider.desc1=The &bProvider Logistics Pipe&r will make the system treat its inventory as a source, &6allowing other pipes to pull from it&r. This can be a chest, machine, or even an ME Interface or Drawer Controller!
-ftbuniversity.logprovider.desc2=Open the Provider Logistics Pipe's GUI to set a blacklist or whitelist. You can also set it to keep the &6first and/or last stacks&r of the inventory, keep &61 item per stack&r, or keep &61 item per item type&r. 
+ftbuniversity.logprovider.title=输入
+ftbuniversity.logprovider.subtitle=制作供应物流管道
+ftbuniversity.logprovider.desc1=The &b供应物流管道&r 将使系统将其物品栏视为来源， &6允许其他管道从中拉出&r。这可以是箱子，机器，甚至是ME接口或抽屉控制器！
+ftbuniversity.logprovider.desc2=打开提供物流管道的GUI来设置黑名单或白名单。 你也可以设置它保持物品栏的 &6第一组和/或最后一组&r , 保持 &6每一组一个物品&r, 或保持 &6每一种物品一个&r. 
 
-ftbuniversity.logsupplier.title=Output
-ftbuniversity.logsupplier.subtitle=Make a Supplier Logistics Pipe
-ftbuniversity.logsupplier.desc1=The &bSupplier Logistics Pipe&r will attempt to pull items into the inventory it is connected to from any source within the system.
-ftbuniversity.logsupplier.desc2=Open the Supplier Logistics Pipe's GUI to set a list of up to 9 items to keep stocked from Provider Pipes/Modules. If you place a stack of 32, it will try to keep it at 32 of that item in the inventory.
-ftbuniversity.logsupplier.desc3=• If it is set to &6Bulk 50&r, it will only retrieve more when the inventory is at 50%% of the specified amount.
-ftbuniversity.logsupplier.desc4=• &6Bulk 100&r is &nSUPPOSED&r to only refill when there's no remaining items, but it's bugged and works like Partial mode.
-ftbuniversity.logsupplier.desc5=• &6Infinite&r will make it pull regardless of how much is already in the inventory.
-ftbuniversity.logsupplier.desc6=• &6Partial&r will pull when any amount is removed.
+ftbuniversity.logsupplier.title=输出
+ftbuniversity.logsupplier.subtitle=制作补给物流管道
+ftbuniversity.logsupplier.desc1= &b补给物流管道&r 将从系统内的任何来源尝试将物品拉入与之相连的物品栏。
+ftbuniversity.logsupplier.desc2=打开补给物流管道的GUI，设置最多9个物品的列表，保持补给管道/模块的物品栏。 如果你放置32个物品，它会尝试保持32个物品在物品栏内。
+ftbuniversity.logsupplier.desc3=• 如果设置为 &6封装50&r, 只有在物品量为指定的50 %%时，它才会创建补给请求。
+ftbuniversity.logsupplier.desc4=• &封装100&r 是 &n应该&r 仅在没有剩余物品时重新装满，但是它存在问题，并且运行是像是部分模式。
+ftbuniversity.logsupplier.desc5=• &6无限&r 不管物品栏中已经有多少东西，它都会创建补给请求。
+ftbuniversity.logsupplier.desc6=• &6部分&r 移除任何物品时，它会创建补给请求。
 
-ftbuniversity.logrequest.title=Who Needs Digital Storage?
-ftbuniversity.logrequest.subtitle=Make a Request Logistics Pipe
-ftbuniversity.logrequest.desc1=The &bRequest Logistics Pipe&r will allow you to manually request any item from sources within the system. If the Pipe is connected to an inventory, the requested items will enter it. Otherwise, the items will be spit out into the world.
-ftbuniversity.logrequest.desc2=You can open the Pipe's GUI with just your hands.
+ftbuniversity.logrequest.title=谁需要数字存储？
+ftbuniversity.logrequest.subtitle=制作请求物流管道
+ftbuniversity.logrequest.desc1=&b请求物流管道&r 将允许你从系统内的源手动请求任何项目。如果管道连接到物品栏，则请求的物料将输入。否则，这些物品将被吐向世界。
+ftbuniversity.logrequest.desc2=你可以用手打开此管道的GUI。
 
-ftbuniversity.logordreq.subtitle=Make a Remote Orderer Logistics Pipe
-ftbuniversity.logordreq.desc1=The &bRemote Orderer&r can be connected to a &bRemote Orderer Logistics Pipe&r by sneak right-clicking.
-ftbuniversity.logordreq.desc2=Then, you can right-click the connected Remote Orderer, you can &6use it like a Request Logistics Pipe&r, and the items will be sent to the connected inventory.
-ftbuniversity.logordreq.desc3=If you connect it to an Ender Chest, you can request items from your base from anywhere and take them out using an Ender Pouch.
+ftbuniversity.logordreq.subtitle=制作远程请求物流管道
+ftbuniversity.logordreq.desc1=通过潜行右键单击 &b远程请求器&r 可以连接到 &b远程请求物流管道&r 。
+ftbuniversity.logordreq.desc2=然后，你可以右键所连接的远程请求器，并可以将其像请求物流管道一样使用，并且这些项目将被发送到所连接的物品栏。
+ftbuniversity.logordreq.desc3=如果将其连接到末影箱，则可以从任何地方从基地索取物品，然后使用末影背包将其取出。
 
-ftbuniversity.logfire.subtitle=Make a Logistics Firewall Pipe
-ftbuniversity.logfire.desc1=You can open the &bLogistics Firewall Pipe&r's GUI to restrict specific connections from passing through it.
-ftbuniversity.logfire.desc2=You can set a blacklist/whitelist of 36 items, as well as toggling Providing, Crafting, and Sorting Logistics Pipes, as well as whether power flows through it.
+ftbuniversity.logfire.subtitle=制作物流防火墙管道
+ftbuniversity.logfire.desc1=你可以打开&b物流防火墙管道&r的GUI来限制特定的物品通过。
+ftbuniversity.logfire.desc2=你可以设置36个物品的黑名单/白名单, 还有切换供应，合成管道和能量是否可以通过它。
 
-ftbuniversity.loginvsyscon.subtitle=Make a Logistics Inventory System Connector
-ftbuniversity.loginvsyscon.desc1=You can use a pair of &bLogistics Inventory System Connectors&r to wirelessly connect separate pipe systems together through the inventories they are placed on.
-ftbuniversity.loginvsyscon.desc2=Open the pipe's GUI and click &6Change&r at the top to set the channel. Click &6Add&r to create a channel, then click the channel and then &6Select&r to connect to it. All systems on the same channel will be connected.
-ftbuniversity.loginvsyscon.desc3=If an item on one end tries to pass through to the other end, it will be sent to the inventory the pipe is placed on. You should use some non-Logistics Pipes method to move items from that inventory to the inventory the connected pipe is placed on.
-ftbuniversity.loginvsyscon.desc4=An &6Ender Chest&r is the most simplest way to connect them.
+ftbuniversity.loginvsyscon.subtitle=制作物流网络连接器
+ftbuniversity.loginvsyscon.desc1=你可以使用一对 &b物流网络连接器&r 各个管道系统无线连接在一起。
+ftbuniversity.loginvsyscon.desc2=打开管道的GUI并单击 &6更改&r 在顶部设置频道。 请点击 &6新建&r 创建一个频道，点击频道，然后 &6选择&r 连接到它。同一通道上的所有系统都将连接。
+ftbuniversity.loginvsyscon.desc3=如果一端的项目试图传递到另一端，则它将被发送到放置管道的物品栏中。你应该使用一些非物流管道方法将项目从该物品移动到所连接的管道所在的物品栏。
+ftbuniversity.loginvsyscon.desc4=&6末影箱&r是连接它们的最简单方法。
 
-ftbuniversity.craftlogi.title=Simple Item Autocrafting
-ftbuniversity.craftlogi.subtitle=Make a Logistics Crafting setup
+ftbuniversity.craftlogi.title=简单的物品自动合成
+ftbuniversity.craftlogi.subtitle制作一套物流管道的自动合成
 ftbuniversity.craftlogi.desc1=The &bCrafting Logistics Pipe&r can be placed on a block and be set a recipe, and &6the output item will be show up in Request Pipes/Tables&r.
 ftbuniversity.craftlogi.desc2=You can connect it to a &bLogistics Crafting Table&r, then set the recipe inside there. Then, open the Pipe's GUI and click &6Import&r to automatically set the recipe there. You can then request the resulting item and the ingredients will be sent to the Table, and then the item will be sent to you.
 ftbuniversity.craftlogi.desc3=Nested recipes work; if you have a recipe for Logs→Planks, and Planks→Chests, you can make Chests from Logs. Any excess items will either jam or be sent back into the system, as if they were just added.
