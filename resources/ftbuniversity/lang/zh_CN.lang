@@ -148,7 +148,7 @@ ftbuniversity.quarkenchant.desc5=这个可以在 &6模组选项...&r 菜单中�
 
 ftbuniversity.exu2search.title=合理化不整理箱子，自2014年以来
 ftbuniversity.exu2search.subtitle=了解有关ExU2的物品定位器
-ftbuniversity.exu2search.desc1=Extra Utilities 2添加了可让你使用的按键 &b将鼠标悬停在物品栏中的任何物品上，然后按T&r, 然后它就会 &6在附近有该物品的方块中产生粒子&r.
+ftbuniversity.exu2search.desc1=更多实用设备2添加了可让你使用的按键 &b将鼠标悬停在物品栏中的任何物品上，然后按T&r, 然后它就会 &6在附近有该物品的方块中产生粒子&r.
 ftbuniversity.exu2search.desc2=这对于那些尚未对其基地进行太多整理的人非常有用，因为你可以找到特定箱子中有哪些物品。
 
 ftbuniversity.ironchests.title=内在更大
@@ -1361,7 +1361,7 @@ ftbuniversity.forestrybook.desc2=即使它解释了几乎所有内容，我们�
 
 ftbuniversity.clockworkengine.subtitle=制作一个发条引擎
 ftbuniversity.clockworkengine.desc1=&b发条引擎&r 可以通过右键单击来缠绕，然后&6释放时生成RF&r。使用时间越长，它的工作时间就越长。如果你缠绕太久&c你会受到伤害&r。
-ftbuniversity.clockworkengine.desc2=按住右键单击直至受伤，然后立即放开会生成 &6略高于25,000RF&r。总而言之，这并不好，但是对于早期游戏来说，当您负担不起任何更好的东西时，还可以。
+ftbuniversity.clockworkengine.desc2=按住右键单击直至受伤，然后立即放开会生成 &6略高于25,000RF&r。总而言之，这并不好，但是对于早期游戏来说，当你负担不起任何更好的东西时，还可以。
 
 ftbuniversity.biogasengine.subtitle=制作一个沼气发动机
 ftbuniversity.biogasengine.desc1=&b沼气发动机&r 使用熔岩加热有机流体（生物质，牛奶等），然后从中产生能量。它需要一个红石信号才能运行。
@@ -1385,7 +1385,7 @@ ftbuniversity.thermionicfabricator.title=每个专家包使用的机器
 ftbuniversity.thermionicfabricator.subtitle=制作一个热电子加工台
 ftbuniversity.thermionicfabricator.desc1=&b热电子加工台&r 使用RF和沙子或玻璃制作 &6液体玻璃&r 。
 ftbuniversity.thermionicfabricator.desc2=在左上方的栏位放沙子或&6玻璃&r ，在中间设置一个 &6配方&r，然后将&6材料放在下方&r。如果配方有效，它将加热玻璃，然后加工该物品。一些配方可能需要&6右上方栏位中的其他物品&r.
-ftbuniversity.thermionicfabricator.desc3=&6如果输出不为空，它将无法处理物品&r，因此您应该将其自动化。&r 它还需要获得小量持续的RF，以保持液态玻璃熔融。红石信号将禁用此功能。
+ftbuniversity.thermionicfabricator.desc3=&6如果输出不为空，它将无法处理物品&r，因此你应该将其自动化。&r 它还需要获得小量持续的RF，以保持液态玻璃熔融。红石信号将禁用此功能。
 
 ftbuniversity.forestryfermenter.title=环保的
 ftbuniversity.forestryfermenter.subtitle=制作一个发酵罐
@@ -1418,9 +1418,9 @@ ftbuniversity.forestryraintank.desc=&b雨水箱&r &6下雨时充满水&r，并�
 
 ftbuniversity.habitatformer.subtitle=制作一个栖息地成型器
 ftbuniversity.habitatformer.desc1=&b栖息地成型器&r&6改变周围地区的气候&r，对蜜蜂和树木有用。使用GUI右上方的滑块和按钮设置区域。
-ftbuniversity.habitatformer.desc2=您可以手动设置目标温度和湿度，从预设列表中选择目标温度或湿度，或放入蜜蜂以自动适应其首选的气候。
+ftbuniversity.habitatformer.desc2=你可以手动设置目标温度和湿度，从预设列表中选择目标温度或湿度，或放入蜜蜂以自动适应其首选的气候。
 ftbuniversity.habitatformer.desc3=需要熔岩来提高温度和降低湿度，而水/碎冰则相反。
-ftbuniversity.habitatformer.desc4=您可以潜行右键在栖息地成型器的 &6屏幕&r &6来看到工作区域&r。
+ftbuniversity.habitatformer.desc4=你可以潜行右键在栖息地成型器的 &6屏幕&r &6来看到工作区域&r。
 
 ftbuniversity.managedfarms.title=为我做
 ftbuniversity.managedfarms.subtitle=制作一个自动收割机
@@ -1445,7 +1445,7 @@ ftbuniversity.multifarms.desc7=&b农场控制盒&r 允许对农场进行红石�
 ftbuniversity.multifarms.desc8=其余的多功能农场必须由 &b农场方块&r组成。
 ftbuniversity.multifarms.desc9=&6（从技术上讲，一个多功能农场只需要一个变速箱和一个基本的农场方块，而自动化和控制则需要其余的东西。）&r
 ftbuniversity.multifarms.desc10=最小的多功能农场有一个&6菱形工作区&r，从两侧各延伸7个方块，对角线连接（&6见手册&r)。最大的多功能农场将扩展到11个方块。
-ftbuniversity.multifarms.desc11=使用任何农场块材料（石砖等）， &6放下您希望农场工作的范围&r，并且在有泥土和水时会自动放置腐殖质。
+ftbuniversity.multifarms.desc11=使用任何农场块材料（石砖等）， &6放下你希望农场工作的范围&r，并且在有泥土和水时会自动放置腐殖质。
 ftbuniversity.multifarms.desc12=默认情况下，多功能农场仅适用于树木。请参阅下一个任务以对此进行更改。
 ftbuniversity.multifarms.task1=任何农场方块
 ftbuniversity.multifarms.task2=任何农场变速箱
@@ -1456,7 +1456,7 @@ ftbuniversity.multifarms.task5=任何农场控制盒
 ftbuniversity.multifarmcontrol.title=多功能农场控制
 ftbuniversity.multifarmcontrol.subtitle=配置电路板
 ftbuniversity.multifarmcontrol.desc1=多功能农场可以用&b电路板&r配置。它具有4个等级，最多4根电子管。&6每个电子管只改变一个侧边&r，因此要从树上将它们全部更改，则必须安装四个电路板。
-ftbuniversity.multifarmcontrol.desc2=&b电子管&r允许多功能农场 &6种另一种植物&r。您可以通过在将鼠标悬停在它们上方时按住shift并阅读它们的工具提示来查看它们。
+ftbuniversity.multifarmcontrol.desc2=&b电子管&r允许多功能农场 &6种另一种植物&r。你可以通过在将鼠标悬停在它们上方时按住shift并阅读它们的工具提示来查看它们。
 ftbuniversity.multifarmcontrol.desc3=要将电子管安装到电路板上，请右键单击 &b烙铁&r。按下你需要的电路板类型（通常是“自动农场”），然后&6将电子管放入插槽&r （每个插槽都是一个方向）。
 ftbuniversity.multifarmcontrol.desc4=将电路板拖放到 &6多功能服务器场GUI左上方的中央插槽&r安装它。
 ftbuniversity.multifarmcontrol.task1=任何电路板
@@ -1465,28 +1465,28 @@ ftbuniversity.multifarmcontrol.task2=任何电子管
 ftbuniversity.beeguide.title=不！是蜜蜂！
 ftbuniversity.beeguide.subtitle=开始漫长的学习蜜蜂如何工作的过程
 ftbuniversity.beeguide.desc1=林业 &b蜜蜂&r通常是mod中最著名的方面之一。
-ftbuniversity.beeguide.desc2=&6蜜蜂给你蜂蜜和蜂蜡&r,我猜这很酷。 &6&o酷蜜蜂&r&6 在附近时为您提供钻石，龙蛋和药水效果&r。
-ftbuniversity.beeguide.desc3=为蜜蜂培养的道路是漫长而复杂的，但最终还是值得的。蜜蜂会完全耗尽您的生命，或者完全让您退出游戏一年，直到PTSD消失在遥远的记忆中。
+ftbuniversity.beeguide.desc2=&6蜜蜂给你蜂蜜和蜂蜡&r,我猜这很酷。 &6&o酷蜜蜂&r&6 在附近时为你提供钻石，龙蛋和药水效果&r。
+ftbuniversity.beeguide.desc3=为蜜蜂培养的道路是漫长而复杂的，但最终还是值得的。蜜蜂会完全耗尽你的生命，或者完全让你退出游戏一年，直到PTSD消失在遥远的记忆中。
 
 ftbuniversity.beescoop.title=为什么我们不能养蜂朋友
 ftbuniversity.beescoop.subtitle=制作一个捕蜂网和一个熏蜂器
-ftbuniversity.beescoop.desc1=显然，要成为养蜂人，您需要一些蜜蜂。在世界上任何地方找到任何一种蜂巢，然后使用 &b捕蜂网&r挖起来。
-ftbuniversity.beescoop.desc2=自然，这会使里面的蜜蜂非常生气，它们会出来攻击你。您可以使用 &b蜜蜂烟熏器&r 使他们平静下来。
-ftbuniversity.beescoop.desc3=这将为您带来一些蜜蜂，甚至还有蜂窝。蜜蜂的类型将取决于收获的蜂巢。你会想要 &6公主&r 和大量的 &6工蜂&r 来开始。
+ftbuniversity.beescoop.desc1=显然，要成为养蜂人，你需要一些蜜蜂。在世界上任何地方找到任何一种蜂巢，然后使用 &b捕蜂网&r挖起来。
+ftbuniversity.beescoop.desc2=自然，这会使里面的蜜蜂非常生气，它们会出来攻击你。你可以使用 &b蜜蜂烟熏器&r 使他们平静下来。
+ftbuniversity.beescoop.desc3=这将为你带来一些蜜蜂，甚至还有蜂窝。蜜蜂的类型将取决于收获的蜂巢。你会想要 &6公主&r 和大量的 &6工蜂&r 来开始。
 ftbuniversity.beescoop.task=捕蜂网
 ftbuniversity.beescoop.rewards=蜂巢
 
 ftbuniversity.beeexplanation1.title=所以什么&l是&r 蜜蜂?
 ftbuniversity.beeexplanation1.subtitle=了解蜜蜂
 ftbuniversity.beeexplanation1.desc1=蜜蜂有两种类型， &b公主们&r 和 &b工蜂&r，两者都是必需的。它们在 &6蜂房&r结合在一起创造一个&6女王&r，她将做她要做的事。
-ftbuniversity.beeexplanation1.desc2=女王将留在其蜂房生成物品中。它死后，它将 &6a总是给一个公主&r并有一个 &6有机会给予多个工蜂&r。这意味着，如果您想获得更多公主，则必须从世界上的蜂巢那里获取它们。
-ftbuniversity.beeexplanation1.desc3=当两只蜜蜂来着不同的物种&6繁殖&r，最终的皇后很有可能会生出基于合成表的&6全新物种&r。您可以通过以下方式查看这些组合及其突变机会 &6在JEI中检查他们的合成&r.
+ftbuniversity.beeexplanation1.desc2=女王将留在其蜂房生成物品中。它死后，它将 &6a总是给一个公主&r并有一个 &6有机会给予多个工蜂&r。这意味着，如果你想获得更多公主，则必须从世界上的蜂巢那里获取它们。
+ftbuniversity.beeexplanation1.desc3=当两只蜜蜂来着不同的物种&6繁殖&r，最终的皇后很有可能会生出基于合成表的&6全新物种&r。你可以通过以下方式查看这些组合及其突变机会 &6在JEI中检查他们的合成&r.
 ftbuniversity.beeexplanation1.desc4=为了使蜜蜂“工作”，他们需要具体的 &6花卉&r, &6生物群落温度&r和（通常） &6光&r 和 &6阳光直射&r。
 ftbuniversity.beeexplanation1.task1=任何公主
 ftbuniversity.beeexplanation1.task2=任何工蜂
 
 ftbuniversity.beealyzer.subtitle=制作一个便携式分析仪
-ftbuniversity.beealyzer.desc1=蜜蜂具有改变它们工作方式的几个特征。&b便携式分析仪&r通过放入任何蜜蜂和一些蜂蜜，让您看到他们的属性。
+ftbuniversity.beealyzer.desc1=蜜蜂具有改变它们工作方式的几个特征。&b便携式分析仪&r通过放入任何蜜蜂和一些蜂蜜，让你看到他们的属性。
 ftbuniversity.beealyzer.desc2=蜜蜂具有两种类型的特征： &6显性&r 和 &6隐性&r。显性特征定义了它们的工作方式，隐性特征可以通过繁殖传承下来， 可能会变成显性特征。红色特征是&4优势&r，并且更有可能被传下来，蓝色特质是&9劣势&r。
 ftbuniversity.beealyzer.desc3=这些特征是：
 ftbuniversity.beealyzer.desc4=• &6寿命&r
@@ -1496,8 +1496,8 @@ ftbuniversity.beealyzer.desc7=• &6花型&r （他们工作需要的方块）
 ftbuniversity.beealyzer.desc8=• &6生育能力&r（它创造了多少工蜂）
 ftbuniversity.beealyzer.desc9=• &6领土&r （他们巡逻区域的大小）
 ftbuniversity.beealyzer.desc10=• &6影响&r（他们对自己领土内的玩家做什么）
-ftbuniversity.beealyzer.desc11=您可以将蜜蜂移栏位&l&6II&r 看看他们需要什么气候和湿度，如果他们在白天和/或晚上工作，在雨中工作以及在地下工作。
-ftbuniversity.beealyzer.desc12=栏位&l&6III&r-&l&6V&r 显示您可能不需要的更多信息。
+ftbuniversity.beealyzer.desc11=你可以将蜜蜂移栏位&l&6II&r 看看他们需要什么气候和湿度，如果他们在白天和/或晚上工作，在雨中工作以及在地下工作。
+ftbuniversity.beealyzer.desc12=栏位&l&6III&r-&l&6V&r 显示你可能不需要的更多信息。
 
 ftbuniversity.ignoblebee.title=不朽的蜜蜂
 ftbuniversity.ignoblebee.subtitle=平凡 vs 原始种
@@ -1508,22 +1508,22 @@ ftbuniversity.beemutation.title=蜜蜂繁殖的时代
 ftbuniversity.beemutation.subtitle=了解蜜蜂突变
 ftbuniversity.beemutation.desc1=&b突变&r是两个不相同的蜜蜂繁殖&6创造新的东西&r的过程。变异可以改变基本特征（请参阅分析器任务），也可以产生一个全新的物种。
 ftbuniversity.beemutation.desc2=某些 &6物种的特定组合&r 有机会 &6变异成第三种&r。只要是不同种类的工蜂或公主，都没有关系。有些突变有一定的 &6额外条件&r,就像在一个特定的生物群落中。
-ftbuniversity.beemutation.desc3=蜜蜂杂交 &6在JEI中显示合成&r，因此您可以查看蜜蜂的配方和用法，以查看其制作方法。
+ftbuniversity.beemutation.desc3=蜜蜂杂交 &6在JEI中显示合成&r，因此你可以查看蜜蜂的配方和用法，以查看其制作方法。
 
 ftbuniversity.beehouse.title=不是转基因
 ftbuniversity.beehouse.subtitle=制作一个简易蜂房
-ftbuniversity.beehouse.desc1=&b简易蜂房&r将使您工作的蜜蜂没有突变的机会。这将允许您仅回收相同的公主和无人机以获取它们的掉落物。蜂房也无法实现自动化。
-ftbuniversity.beehouse.desc2=在右上角，您可以看到 &6目前的气候&r。在左上角您可以看到 &6阻止女王工作的任何事情&r （通常缺少鲜花和错误的气候）
-ftbuniversity.beehouse.desc3=如果您的库存中有便携式分析仪，则可以在简易蜂房中分析蜜蜂。您可以通过单击蜂槽上方的按钮来切换菜单的这一部分。
+ftbuniversity.beehouse.desc1=&b简易蜂房&r将使你工作的蜜蜂没有突变的机会。这将允许你仅回收相同的公主和无人机以获取它们的掉落物。蜂房也无法实现自动化。
+ftbuniversity.beehouse.desc2=在右上角，你可以看到 &6目前的气候&r。在左上角你可以看到 &6阻止女王工作的任何事情&r （通常缺少鲜花和错误的气候）
+ftbuniversity.beehouse.desc3=如果你的库存中有便携式分析仪，则可以在简易蜂房中分析蜜蜂。你可以通过单击蜂槽上方的按钮来切换菜单的这一部分。
 
 ftbuniversity.apiary.subtitle=制作一个蜂房
-ftbuniversity.apiary.desc1=&b蜂房&r 可以让您的蜜蜂在工作的同时保持变异的能力。
+ftbuniversity.apiary.desc1=&b蜂房&r 可以让你的蜜蜂在工作的同时保持变异的能力。
 ftbuniversity.apiary.desc2=养蜂场最多可容纳三个&b框架&r，这可能会影响女王的特质（通常会增加产量并减少未知种的突变）。
 ftbuniversity.apiary.task=任何框架
 
 ftbuniversity.apiaristchest.subtitle=制作一个养蜂家的宝箱
 ftbuniversity.apiaristchest.desc1=&b养蜂家的宝箱&r有5页，每页25个栏位，可以&6储蜂&r。
-ftbuniversity.apiaristchest.desc2=在左侧，您可以看到发现了多少种蜜蜂。如果已在分析仪中对其进行扫描，则将鼠标悬停在插槽上以查看有关该蜜蜂的详细信息。
+ftbuniversity.apiaristchest.desc2=在左侧，你可以看到发现了多少种蜜蜂。如果已在分析仪中对其进行扫描，则将鼠标悬停在插槽上以查看有关该蜜蜂的详细信息。
 
 ftbuniversity.forestrycentrifuge.subtitle=制作一个离心机
 ftbuniversity.forestrycentrifuge.desc=&b离心机&r使用RF获取&6各种蜂窝中可用材料&r.
@@ -1535,7 +1535,7 @@ ftbuniversity.apiaristarmor.desc=穿着全套&b养蜂家的衣服&r将停止某�
 ftbuniversity.alveary1.title=奇怪的小窝
 ftbuniversity.alveary1.subtitle=制作一个蜂箱组
 ftbuniversity.alveary1.desc1=&b蜂箱组&r本质上是模块化的多块养蜂场。它由3x3x3的蜂箱组方块立方体构成，上面放有9个木半砖。
-ftbuniversity.alveary1.desc2=实际上，蜂箱组的功能要比养蜂场少，因为它没有框架。但是，您可以用其他块替换任何一个蜂箱组升级，如下一任务中所述。
+ftbuniversity.alveary1.desc2=实际上，蜂箱组的功能要比养蜂场少，因为它没有框架。但是，你可以用其他块替换任何一个蜂箱组升级，如下一任务中所述。
 ftbuniversity.alveary1.task=9x 任何木半砖
 
 ftbuniversity.alveary2.subtitle=制作一个蜂箱组升级
@@ -1545,179 +1545,179 @@ ftbuniversity.alveary2.desc3=• The &b蜂箱组风扇&r使用RF &6降低大概2
 ftbuniversity.alveary2.desc4=• The &b蜂箱组加热器&r使用RF &6升高大概20%%的温度&r 。
 ftbuniversity.alveary2.desc5=• The &b蜂箱组加湿器&r 当放入水或熔岩时将 &6升高或降低大概20%%的湿度&r 。碎冰将使湿度增加约40 %%，并使温度降低约15 %%。
 ftbuniversity.alveary2.desc6=• The &b蜂箱组稳定器&r将使平凡种持续多几代。
-ftbuniversity.alveary2.desc7=• The &b蜂箱组滤网&r 将拦截可能给附近树木授粉的花粉，并将其以物品形式提供给您。可以单击另一种叶子以迫使它们交叉授粉。要运行它，需要编织的丝绸，他会随着时间用掉耐久。
+ftbuniversity.alveary2.desc7=• The &b蜂箱组滤网&r 将拦截可能给附近树木授粉的花粉，并将其以物品形式提供给你。可以单击另一种叶子以迫使它们交叉授粉。要运行它，需要编织的丝绸，他会随着时间用掉耐久。
 ftbuniversity.alveary2.task=蜂箱组升级
 
 ftbuniversity.forestrytrees.title=树木栽培
 ftbuniversity.forestrytrees.subtitle=开始育种
-ftbuniversity.forestrytrees.desc1=像养蜂一样，林业也增加了&b树木育种&r。新的树意味着您的基础也有了新的材质&6水果&r to eat. They can also be bred to give more fruit and grow them faster.
-ftbuniversity.forestrytrees.desc2=Leaves with ripe fruits can be right-clicked to harvest. You can also bonemeal fruit leaves.
-ftbuniversity.forestrytrees.desc3=To begin breeding trees, &6analyze two different vanilla saplings and plant them near working bees&r. It will probably take several generations of bees for them to cross-pollinate, so have patience.
-ftbuniversity.forestrytrees.task=任何analyzed sapling
+ftbuniversity.forestrytrees.desc1=像养蜂一样，林业也增加了&b树木育种&r。新的树意味着你的基础也有了新的材质和可以吃的&6水果&r 。它们也可以繁殖，以提供更多的果实并更快地生长。
+ftbuniversity.forestrytrees.desc2=可以右键单击带有成熟果实的叶子以进行收获。你也可以将骨粉水果叶。
+ftbuniversity.forestrytrees.desc3=要开始繁殖树木， &6分析两种不同的原版树苗并将其种植在工作的蜜蜂附近&r蜜蜂可能需要花几代才能传粉，所以要有耐心。
+ftbuniversity.forestrytrees.task=任何分析过的树苗
 
-ftbuniversity.treetraits.title=Tree Traits
-ftbuniversity.treetraits.subtitle=Analyzed Saplings
-ftbuniversity.treetraits.desc1=Like bees, &bsaplings can be analyzed&r to see their traits. These traits are:
-ftbuniversity.treetraits.desc2=• &6Saplings&r (how many saplings you get from its leaves)
-ftbuniversity.treetraits.desc3=• &6Matures&r (how fast it takes to grow without bone meal)
-ftbuniversity.treetraits.desc4=• &6Height&r
-ftbuniversity.treetraits.desc5=• &6Girth&r (how many saplings must be placed for the tree to grow)
-ftbuniversity.treetraits.desc6=• &6Yield&r (how many fruits it drops)
-ftbuniversity.treetraits.desc7=• &6Sappiness&r (how much Biomass you get from putting the sapling in a Fermenter)
-ftbuniversity.treetraits.desc8=• &6Effect&r (no tree actually has an effect, so just ignore this)
+ftbuniversity.treetraits.title=树的特征
+ftbuniversity.treetraits.subtitle=分析树苗
+ftbuniversity.treetraits.desc1=像蜜蜂一样&b树苗可以分析&r 看他们的特质。这些特征是：
+ftbuniversity.treetraits.desc2=• &6树苗&r（从树上得到多少树苗）
+ftbuniversity.treetraits.desc3=• &6成熟的&r （没有骨头粉生长需要多长时间）
+ftbuniversity.treetraits.desc4=• &6高度&r
+ftbuniversity.treetraits.desc5=• &6周长&r （树必须摆出几棵树苗才能生长）
+ftbuniversity.treetraits.desc6=• &6产量&r（它掉了多少水果）
+ftbuniversity.treetraits.desc7=• &6湿度&r（将树苗放入发酵罐中可获得多少生物质）
+ftbuniversity.treetraits.desc8=• &6影响&r （实际上没有树有效果，因此请忽略此）
 
-ftbuniversity.treetraits2.title=Extra Trees
-ftbuniversity.treetraits2.subtitle=Learn more about trees
-ftbuniversity.treetraits2.desc1=Page &bII&r of the Analyzer will show the sapling's secondary traits:
-ftbuniversity.treetraits2.desc2=If it's &6fireproof&r, its preferred &6soil&r (which always shows up as plains for some reason), what kind of &6fruit type&r it can support, what kind of &6fruit it currently has&r, and what &6fruit family that is&r.
-ftbuniversity.treetraits2.desc3=If a tree is bred that has has the Apple fruit gene, but can't support Apples, it won't grow Apples but can &6pass that gene along to a tree that can&r.
-ftbuniversity.treetraits2.desc4=Page &bIII&r shows the fruit, page &bIV&r shows the possible mutations, and page &bV&r shows some flavor text for that sapling.
+ftbuniversity.treetraits2.title=更多的树
+ftbuniversity.treetraits2.subtitle=了解有关树木的更多信息
+ftbuniversity.treetraits2.desc1=分析器的第 &bII&r 页将会显示树苗的次要特征：
+ftbuniversity.treetraits2.desc2=它是否&6防火&r，它的首选&6泥土&r（由于某种原因，它总是显示为普通）， 它可以开出什么样的&6水果类型&r ， &6目前拥有的水果&r以及 &6水果的族&r.
+ftbuniversity.treetraits2.desc3=如果繁殖的树具有苹果果实基因，但不支持苹果，则不会种植苹果，但可以 &6将该基因传递给一棵可以结果的&r。
+ftbuniversity.treetraits2.desc4=第 &bIII&r 页显示水果，第&bIV&r 页显示可能的突变，以及第 &bV&r 页显示该树苗的一些风味。
 
-ftbuniversity.pollinated.title=X-Ray Specs
-ftbuniversity.pollinated.subtitle=Make some Spectacles
-ftbuniversity.pollinated.desc1=&bSpectacles&r allow you to &6see leaves that have been pollinated&r. Pollinated leaves are lighter in color, and it should say at the top of the screen.
-ftbuniversity.pollinated.desc2=&bGrafter&r gives a &6100%% chance to drop a sapling&r when breaking Forestry leaves.
-ftbuniversity.pollinated.task1=Spectacles
-ftbuniversity.pollinated.task2=Grafter
+ftbuniversity.pollinated.title=X-Ray眼镜
+ftbuniversity.pollinated.subtitle=做一些眼镜
+ftbuniversity.pollinated.desc1=&b眼镜&r 让你 &6看到已经授粉的叶子&r。授粉的叶子颜色较浅，应该在屏幕顶部显示。
+ftbuniversity.pollinated.desc2=&b剪枝器&r 打破林业叶子时给一个&6100 %%机率掉下树苗&r。
+ftbuniversity.pollinated.task1=眼镜
+ftbuniversity.pollinated.task2=剪枝器
 
-ftbuniversity.butterflies.title=Boneless Bees
-ftbuniversity.butterflies.subtitle=Butterflies also exist, kind of
-ftbuniversity.butterflies.desc1=&6Butterflies&r are pretty much the most obscure, esoteric feature of any mod. Most people don't breed bees, even less people breed &otrees&r, which are the only way to get Butterflies. &6Forestry leaves have a very low chance to spawn a random Butterfly.&r
-ftbuniversity.butterflies.desc2=Right-click a Butterfly with a &6Scoop&r to catch it, turning it into an item. &oAllegedly&r, throwing the item on the ground will allow it to return to being a mob, &cthough this appears to not work&r.
-ftbuniversity.butterflies.desc3=You can &6mate&r two Butterflies by crafting them together. Once this mated Butterfly is returned to the world and it reaches the end of its lifespan, it will find some Leaves, spawn a Cocoon, and die. Some time later, a new Butterfly will emerge.
-ftbuniversity.butterflies.desc4=Like Bees and trees, Butterflies can be &6scanned in the Portable Analyzer&r. Butterflies also &cdo not have any produce&r, they only work to &6spread Pollen&r. And, of course, make your world prettier.0
+ftbuniversity.butterflies.title=无骨蜜蜂
+ftbuniversity.butterflies.subtitle=蝴蝶也存在，大概
+ftbuniversity.butterflies.desc1=&6蝴蝶&r 是所有mod中最晦涩，深奥的功能。大多数人不繁殖蜜蜂，甚至更少的人繁殖&o树木&r，这是获得蝴蝶的唯一途径。 &6林业叶子生成蝴蝶的机会很小。&r
+ftbuniversity.butterflies.desc2=&6用捕蜂网&r 右键单击来抓住蝴蝶，将其变成一个物品。 &o据称&r,将物品丢在地上会使它恢复为生物，&c虽然这似乎不起作用&r.
+ftbuniversity.butterflies.desc3=你可以通过合成 &6交配&r两只蝴蝶。 一旦这只交配的蝴蝶回到世上并到达生命的尽头，它就会发现一些叶子，产下一个茧，然后死去。一段时间后，会出现一只新的蝴蝶。
+ftbuniversity.butterflies.desc4=像蜜蜂和树木一样，蝴蝶可以&6在便携式分析仪中扫描&r。蝴蝶也&c没有任何产品&r，他们只会 &6传播花粉&r。当然，让你的世界更漂亮。:D
 
-ftbuniversity.gendustry.title=Gendustry!
-ftbuniversity.gendustry.subtitle=Learn about Gendustry
-ftbuniversity.gendustry.desc=&eGendustry&r is an addon for Forestry that essentially makes the life of an apiarist a lot easier. Because of that, &cwe're locking it until you've made an 蜂箱组&r, so as to not trivialize it.
+ftbuniversity.gendustry.title=基因学！
+ftbuniversity.gendustry.subtitle=了解基因学
+ftbuniversity.gendustry.desc=&e基因学&r 是是林业的插件，从本质上使养蜂人的生活变得容易得多。因此，我们将其锁定，直到&6你完成蜂箱组&r，以免你过得太简单了。
 
-ftbuniversity.pollenkit.subtitle=制作一个 Pollen Collection Kit
-ftbuniversity.pollenkit.desc1=&bPollen Collection Kit&r can be &6used on Leaves to get Pollen of that species&r, which you can use on other Leaves to forcibly crossbreed them.
-ftbuniversity.pollenkit.desc2=They are one-use only, and will break after.
+ftbuniversity.pollenkit.subtitle=制作一个花粉收集工具
+ftbuniversity.pollenkit.desc1=&b花粉收集工具&r 可 &6在叶子上使用以获取该物种的花粉&r，你可以在其他叶子上使用它们来强制杂交。
+ftbuniversity.pollenkit.desc2=它们仅是一次性的，并且会在使用后破裂。
 
-ftbuniversity.indusapiary.title=Electric Beekeeping
-ftbuniversity.indusapiary.subtitle=制作一个 Industrial Apiary
-ftbuniversity.indusapiary.desc1=&bIndustrial Apiary&r is essentially a &oway&r better version of the Apiary.
-ftbuniversity.indusapiary.desc2=It can't use Frames, but can take &6upgrades&r that make it emulate biomes, let it ignore rain or skylight, reduce bees' lifetimes, or increase their productivity.
-ftbuniversity.indusapiary.desc3=It &6requires RF&r to run.
+ftbuniversity.indusapiary.title=电动养蜂
+ftbuniversity.indusapiary.subtitle=制作一个工业养蜂场
+ftbuniversity.indusapiary.desc1=&b工业养蜂场&r 本质上是&o个&r 更好的养蜂场版本。
+ftbuniversity.indusapiary.desc2=它不能使用框架，但可以 &6升级&r 使其模仿生物群落，使其忽略雨水或天光，缩短蜜蜂的寿命，或提高其生产力。
+ftbuniversity.indusapiary.desc3=它&6需要RF&r才能运行。
 
-ftbuniversity.genups.title=Oh, Beehave!
-ftbuniversity.genups.subtitle=制作一个 Industrial Apiary Upgrade
-ftbuniversity.genups.desc1=Industrial Apiary has 4 slots for &bUpgrades&r. Some upgrades can be stacked, boosting it even further.
-ftbuniversity.genups.desc2=tooltip of each upgrade will say what they do, and to how high they can stack.
-ftbuniversity.genups.task=任何Industrial Apiary Upgrade
+ftbuniversity.genups.title=哦，天哪！
+ftbuniversity.genups.subtitle=制作一个工业养蜂场升级
+ftbuniversity.genups.desc1=工业养蜂场有4个&b升级&r插槽 。可以堆叠一些升级，从而进一步增强它。
+ftbuniversity.genups.desc2=每个升级的工具提示将说明其功能以及可堆叠的大小。
+ftbuniversity.genups.task=任何工业养蜂场升级
 
-ftbuniversity.gencovers.title=Cover Me
-ftbuniversity.gencovers.subtitle=制作一个 Cover
-ftbuniversity.gencovers.desc1=&bCovers&r can be placed on any side of a Gendustry machine.
-ftbuniversity.gencovers.desc2=&bItem Eject and Import Covers&r are fairly obvious; the &bError Sensor Cover&r will output a redstone signal whenever the machine has any error.
-ftbuniversity.gencovers.task=任何Cover
+ftbuniversity.gencovers.title=掩护我
+ftbuniversity.gencovers.subtitle=制作一个覆盖版
+ftbuniversity.gencovers.desc1=&b覆盖版&r可以放在基因学机器的任何一侧。
+ftbuniversity.gencovers.desc2=&b物品弹出覆盖版和输入覆盖版&r 相当明显； &b误差传感器覆盖版&r 机器有任何错误时，都会输出一个红石信号。
+ftbuniversity.gencovers.task=任何覆盖版
 
-ftbuniversity.mutaprod.subtitle=制作一个 Mutagen Producer
-ftbuniversity.mutaprod.desc=&bMutagen Producer&r uses RF to &6convert Redstone into Mutagen&r, which is required for the Mutatron.
+ftbuniversity.mutaprod.subtitle=制作一个诱变剂生产者
+ftbuniversity.mutaprod.desc=&b诱变剂生产者&r使用RF &6将红石转变为诱变剂&r，这是诱变机必需的。
 
-ftbuniversity.mutatron.subtitle=制作一个 Mutatron
-ftbuniversity.mutatron.desc1=&bMutatron&r will allow you to combine a Drone and Princess, &6forcing them to mutate into another species&r.
-ftbuniversity.mutatron.desc2=Obviously, the Drone and Princess &ccannot be the same species&r.
-ftbuniversity.mutatron.desc3=Each mutation uses up 1,000mB of Mutagen, some RF, and 1 Genetics Labware.
+ftbuniversity.mutatron.subtitle=制作一个诱变机
+ftbuniversity.mutatron.desc1=&b诱变机&r 可以让你将工蜂和公主结合在一起， &6迫使他们变​​异成另一个物种&r。
+ftbuniversity.mutatron.desc2=显然，工蜂和公主 &c不能是同一个物种&r。
+ftbuniversity.mutatron.desc3=每个突变都使用多达1,000mB的诱变剂，一些RF和1个遗传学实验室用具。
 
-ftbuniversity.advmutatron.title=Why is The m &o&nLowercase&r&o?!&r
-ftbuniversity.advmutatron.subtitle=制作一个 Advanced mutatron
-ftbuniversity.advmutatron.desc=&bAdvanced mutatron&r works exactly the same as the normal Mutatron, except you can &6choose which species to breed into&r.
+ftbuniversity.advmutatron.title=为什么那个M &o&n是小写&r&o?!&r
+ftbuniversity.advmutatron.subtitle=制作一个 高级诱变机
+ftbuniversity.advmutatron.desc=&b 高级诱变机&r 与普通的诱变机完全一样，除了你可以&6选择要繁殖的物种&r.
 
-ftbuniversity.geneticsampler.subtitle=制作一个 Genetic Sampler
-ftbuniversity.geneticsampler.desc1=&bGenetic Sampler&r will &6take a random chromosome from a bee&r (like its speed, lifespan, etc) and &6get a sample of it&r. This kills the bee.
-ftbuniversity.geneticsampler.desc2=It takes one &bBlank Gene Sample&r and &bGenetics Labware&r per gene.
+ftbuniversity.geneticsampler.subtitle=制作一个基因取样器
+ftbuniversity.geneticsampler.desc1=&b基因取样器&r将&6从蜜蜂身上取随机染色体&r（例如其速度，寿命等）和 &6得到它的样品&r。这杀死蜜蜂。
+ftbuniversity.geneticsampler.desc2=每个基因需要一个&b空白基因样本&r 和 &b遗传学实验室用具&r 。
 
-ftbuniversity.genetictemplate.subtitle=制作一个 Genetic Template
-ftbuniversity.genetictemplate.desc1=You can craft Samples with a &bGenetic Template&r to put that gene on the Template.
-ftbuniversity.genetictemplate.desc2=There are 13 chromosomes in total, but you do not have to fill them all into the Template.
+ftbuniversity.genetictemplate.subtitle=制作一个基因模板
+ftbuniversity.genetictemplate.desc1=你可以使用 &b基因模板&r 将基因放在模板上。
+ftbuniversity.genetictemplate.desc2=总共有13条染色体，但是你不必将它们全部填充到模板中。
 
-ftbuniversity.imprinter.title=Non-non-GMO
-ftbuniversity.imprinter.subtitle=制作一个 Genetic Imprinter
-ftbuniversity.imprinter.desc1=&bGenetic Imprinter&r allows you to copy all genes from a Genetic Template onto any bee.
-ftbuniversity.imprinter.desc2=This &6requires Genetics Labware&r to work.
+ftbuniversity.imprinter.title=非非转基因
+ftbuniversity.imprinter.subtitle=制作一个基因印记
+ftbuniversity.imprinter.desc1=&b基因印记&r使你可以将遗传模板中的所有基因复制到任何蜜蜂上。
+ftbuniversity.imprinter.desc2=这个&6需要遗传学实验室用具&r 才能工作。
 
-ftbuniversity.genetictransposer.subtitle=制作一个 Genetic Transposer
-ftbuniversity.genetictransposer.desc1=&bGenetic Transposer&r allows you to copy Samples or Templates.
-ftbuniversity.genetictransposer.desc2=Put the Sample/Templet you want to copy in the &6top left slot&r, and empty ones in the &6bottom left.&r It also &6requires Genetics Labware&r.
+ftbuniversity.genetictransposer.subtitle=制作一个基因转座
+ftbuniversity.genetictransposer.desc1=&b基因转座&r允许你复制样本或模板。
+ftbuniversity.genetictransposer.desc2=将要复制的样品/模板放入&6左上方插槽&r，并在&6左下方放置空白的&r它也是&6需要遗传学实验室用具&r。
 
 ftbuniversity.proteindna.title=BNA
-ftbuniversity.proteindna.subtitle=制作一个 Protein Liquifier and DNA Extractor
-ftbuniversity.proteindna.desc1=&bProtein Liquifier&r converts &6raw meats into Protein&r fluid.
-ftbuniversity.proteindna.desc2=&bDNA Extractor&r convert &6bees, butterflies, or saplings into Liquid DNA&r. It also requires Genetics Labware.
-ftbuniversity.proteindna.rewards=Protein or DNA
+ftbuniversity.proteindna.subtitle=制作一个蛋白质液化剂和DNA提取器
+ftbuniversity.proteindna.desc1=&b蛋白质液化器&r 转换 &6生肉转化成蛋白质&r 。
+ftbuniversity.proteindna.desc2=&bDNA提取器&r 转换 &6蜜蜂，蝴蝶或树苗成液体DNA&r。它还需要遗传学实验室用具。
+ftbuniversity.proteindna.rewards=蛋白质或DNA
 
 ftbuniversity.geneticreplicator.title=蜜蜂建造
 ftbuniversity.geneticreplicator.subtitle=制作一个基因复制机
 ftbuniversity.geneticreplicator.desc=&b基因复制机&r 将使用RF，1,000mB的液态DNA，5,000mB的蛋白质和 &n完全填满的&r 遗传模板 &6创建一个平凡女王&r。
 
-###Extra Utilities 2
-ftbuniversity.extrautils2chap.title=Extra Utilities 2
+###更多实用设备2
+ftbuniversity.extrautils2chap.title=更多实用设备2
 
-ftbuniversity.exu2manual.subtitle=Get the Extra Utilities 2 Manual
-ftbuniversity.exu2manual.desc1=&bExtra Utilities 2 Manual&r is a manual for Extra Utilities 2.
-ftbuniversity.exu2manual.desc2=It's not a very &ogood&r one, but it's definitely there.
+ftbuniversity.exu2manual.subtitle=获得更实用设备2手册
+ftbuniversity.exu2manual.desc1=&b更多实用设备2手册&r 是一本更多实用设备2手册
+ftbuniversity.exu2manual.desc2=这不是一个非常&好的&r一本， 但它存在。
 
-ftbuniversity.exu2drums.title=Octuple Compressed Fluids
-ftbuniversity.exu2drums.subtitle=制作一个 Drum
-ftbuniversity.exu2drums.desc1=&bDrums&r can store an incredibly large amount of a single fluid in a single block. Fludis can be inserted and extracted from any side.
-ftbuniversity.exu2drums.desc2=Drums come in 4 tiers, each storing more than the last. In order, they store:
-ftbuniversity.exu2drums.desc3=&bStone Drum&r: &616,000 mB&r
-ftbuniversity.exu2drums.desc4=&bIron Drum&r: &6256,000 mB&r
-ftbuniversity.exu2drums.desc5=&bReinforced Large Drum&r: &64,096,000&r
-ftbuniversity.exu2drums.desc6=&bDemonically Gargantuan Drum&r: &665,563,000&r
-ftbuniversity.exu2drums.task=任何Drum
+ftbuniversity.exu2drums.title=八重压缩流体
+ftbuniversity.exu2drums.subtitle=制作一个桶
+ftbuniversity.exu2drums.desc1=&b桶&r可以在一个方块中存储大量的单个流体。流体可以从任何一侧输入和输出。
+ftbuniversity.exu2drums.desc2=桶分为4种，每一个都比上一个存储更多。按照顺序，它们存储：
+ftbuniversity.exu2drums.desc3=&b石头桶&r: &616,000 mB&r
+ftbuniversity.exu2drums.desc4=&b铁桶&r: &6256,000 mB&r
+ftbuniversity.exu2drums.desc5=&b强化桶&r: &64,096,000&r
+ftbuniversity.exu2drums.desc6=&b恶魔桶&r: &665,563,000&r
+ftbuniversity.exu2drums.task=任何桶
 
-ftbuniversity.exu2compressed.title=Compressum Est
-ftbuniversity.exu2compressed.subtitle=Compress each block
-ftbuniversity.exu2compressed.desc1=You can craft 9 Cobblestone, Dirt, Sand, Gravel, or Netherrack together to 制作一个 &bCompressed&r version of that block, which you can later uncraft back into the base form.
-ftbuniversity.exu2compressed.desc2=Some of these have multiple tiers. For instance, &6Octuple Compressed Cobblestone&r can store &n&l43,046,721 Cobblestone&r.
-ftbuniversity.exu2compressed.task1=Compressed Cobblestone
-ftbuniversity.exu2compressed.task2=Compressed Dirt
-ftbuniversity.exu2compressed.task3=Compressed Sand
-ftbuniversity.exu2compressed.task4=Compressed Gravel
-ftbuniversity.exu2compressed.task5=Compressed Netherrack
+ftbuniversity.exu2compressed.title=有一个压缩机
+ftbuniversity.exu2compressed.subtitle=压缩每个方块
+ftbuniversity.exu2compressed.desc1=你可以一起制作9块鹅卵石，泥土，沙子，砾石或地狱岩制作一个  该块的&b压缩&r版本，你以后可以将其取消合成成基本形式。
+ftbuniversity.exu2compressed.desc2=其中一些具有很多级别。例如，&6八重压缩鹅卵石&r 可以储存 &n&l43,046,721 鹅卵石&r。
+ftbuniversity.exu2compressed.task1=压缩鹅卵石
+ftbuniversity.exu2compressed.task2=压缩泥土
+ftbuniversity.exu2compressed.task3=压缩沙子
+ftbuniversity.exu2compressed.task4=压缩砾石
+ftbuniversity.exu2compressed.task5=压缩地狱岩
 
-ftbuniversity.exu2spikes.title=Watch Out for Those Pointy Bits
-ftbuniversity.exu2spikes.subtitle=制作一个 Spike
-ftbuniversity.exu2spikes.desc1=&bSpikes&r hurt whatever touches them. Simple enough.
-ftbuniversity.exu2spikes.desc2=Spikes come in multiple tiers, which deal more damage and have other special effects, as told by their tooltip.
-ftbuniversity.exu2spikes.task=任何Spike
+ftbuniversity.exu2spikes.title=提防那些尖尖的东西
+ftbuniversity.exu2spikes.subtitle=制作一个刺
+ftbuniversity.exu2spikes.desc1=&b刺&r 伤害任何触及它们的生物。很简单。
+ftbuniversity.exu2spikes.desc2=尖刺分为多个等级，如其提示所示，它们会造成更大的伤害并产生其他特殊效果。
+ftbuniversity.exu2spikes.task=任何刺
 
-ftbuniversity.exu2enderlily.title=Infinite Ender Pearls, Technically
-ftbuniversity.exu2enderlily.subtitle=Find an Ender Lily
-ftbuniversity.exu2enderlily.desc1=&bEnder Lillies&r can be rarely found in dungeon chests, but are fairly common in the End.
-ftbuniversity.exu2enderlily.desc2=They can be planted on a block and will &overy slowly&r grow, and can eventually be right-clicked to &6harvest a single Ender Pearl&r. They &6grow faster on End Stone&r.
+ftbuniversity.exu2enderlily.title=从技术上讲无尽的珍珠
+ftbuniversity.exu2enderlily.subtitle=寻找末影百合
+ftbuniversity.exu2enderlily.desc1=&b末影百合&r 在地牢的箱子中很少见，但在末地相当普遍。
+ftbuniversity.exu2enderlily.desc2=他们可以种植在一个方块上，并会&慢慢地&r 增长， 并最终可以右键单击 &6收获一颗末影珍珠&r。他们&6在末地石上成长更快&r。
 
-ftbuniversity.exu2potions.title=I Require Your Strongest Potions
-ftbuniversity.exu2potions.subtitle=制作一个y Exu2 Potion
-ftbuniversity.exu2potions.desc1=Extra Utilities 2 adds several potions that do pretty neat things. The tooltips should explain most of them, and the name should explain the rest.
-ftbuniversity.exu2potions.desc2=You only need to craft one of these for the quest to complete.
+ftbuniversity.exu2potions.title=需要你最强的药水
+ftbuniversity.exu2potions.subtitle=制作一个Exu2药水
+ftbuniversity.exu2potions.desc1=更多实用设备2 添加了一些不同效果的药水。工具提示应说明其中的大部分内容，名称应说明其余内容。
+ftbuniversity.exu2potions.desc2=你只需要制作其中一项即可完成任务。
 
-ftbuniversity.exu2deepdark.title=Deep Underground
-ftbuniversity.exu2deepdark.subtitle=制作一个 Deep Dark Portal
-ftbuniversity.exu2deepdark.desc1=Standing on the &bDeep Dark Portal&r for a couple seconds will teleport you to the Deep Dark dimension, which is an infinitely massive cave.
-ftbuniversity.exu2deepdark.desc2=You will spawn in a room at the top of the dimension, which has a Portal back. Dig down and make either ladders or a staircase down.
-ftbuniversity.exu2deepdark.desc3=&cDarkness in the Deep Dark will harm you.&r Make sure to light up your area.
-ftbuniversity.exu2deepdark.desc4=Deep Dark is a pretty &6good place for quarries&r, since you don't have to worry about putting massive holes in the Overworld.
+ftbuniversity.exu2deepdark.title=地下深层
+ftbuniversity.exu2deepdark.subtitle=制作一个漆黑之门
+ftbuniversity.exu2deepdark.desc1=站在&b漆黑之门&r 持续几秒钟，你将被传送到漆黑维度，这是一个无限巨大的洞穴。
+ftbuniversity.exu2deepdark.desc2=你将在顶部的房间中生成。往下挖，然后放下梯子或楼梯。
+ftbuniversity.exu2deepdark.desc3=&c漆黑中的黑暗会伤害你.&r 确保照亮你的区域。
+ftbuniversity.exu2deepdark.desc4=深黑是一个很适合 &6采石场的好地方&r，因为你不必担心在主世界中放置大量坑洞。
 
-ftbuniversity.exu2clock.subtitle=制作一个 Redstone Clock
-ftbuniversity.exu2clock.desc=&bRedstone Clock&r emits a redstone pulse every second. It can be disabled with a strong redstone signal (ie a Lever placed directly on it).
+ftbuniversity.exu2clock.subtitle=制作一个红石钟
+ftbuniversity.exu2clock.desc=&b红石钟&r 每秒发出一个红石脉冲。可以用强红石信号（即直接放置拉杆在上面）将其禁用。
 
-ftbuniversity.exu2trash.title=Rubbish
-ftbuniversity.exu2trash.subtitle=制作一个 Trash Can
-ftbuniversity.exu2trash.desc=&bTrash Cans&r delete anything piped into them. There are three types: &6item&r, &6fluid&r, and &6energy&r.
-ftbuniversity.exu2trash.task=任何Trash Can
+ftbuniversity.exu2trash.title=垃圾
+ftbuniversity.exu2trash.subtitle=制作一个垃圾箱
+ftbuniversity.exu2trash.desc=&b垃圾桶&r删除传送到它们的任何内容。共有三种类型： &6物品&r, &6流体&r, 和 &6能量&r.
+ftbuniversity.exu2trash.task=任何垃圾箱
 
-ftbuniversity.exu2angel.subtitle=制作一个 Angel Block
-ftbuniversity.exu2angel.desc=&bAngel Block&r will be placed 1 block away from you in whatever direction you're facing, without having to place it against an existing block. This is especially useful for &6floating structures&r.
+ftbuniversity.exu2angel.subtitle=制作一个天使方块
+ftbuniversity.exu2angel.desc=&b天使方块&r 会放置于你面向方向一格以外，而无需将其放置在现有方块上。这对于 &6浮空结构&r.
 
-ftbuniversity.exu2mechanicals.title=Mechanical Whatsits
-ftbuniversity.exu2mechanicals.subtitle=Make the Mechanical blocks
-ftbuniversity.exu2mechanicals.desc1=&bMechanical Crafter&r can be set a crafting recipe, and when it has all the ingredients in the input inventory &6it will craft the item and send it to the output inventory&r to be pumped out. You can set it to require redstone, toggle if ancillatory items (empty buckets etc) are sent to the output, and add Speed Upgrades.
-ftbuniversity.exu2mechanicals.desc2=&bMechanical Miner&r will break the block in front of it, &6putting the drop into its inventory&r. You can give it Speed Upgrades and an Enchanted Book to make it use that enchantment.
-ftbuniversity.exu2mechanicals.desc3=&bMechanical User&r &6simulates a player clicking&r an item in its inventory. You can toggle if it left or right-clicks, what &okind&r of click, and what slot to "hold". You can also give it speed upgrades.
+ftbuniversity.exu2mechanicals.title=机械问题
+ftbuniversity.exu2mechanicals.subtitle=制作机械方块
+ftbuniversity.exu2mechanicals.desc1=&b合成器&r 设置一个手工配方，当所有材料都包含在输入物品栏中时，&6它将合成该项目&r并将其发送到输出物品栏中。你可以将其设置为需要红石，是否将辅助项目（空桶等）发送到输出，并添加“速度升级”。
+ftbuniversity.exu2mechanicals.desc2=&b挖掘器&r 会打破前面的方块，&6将掉落物放入物品栏&r。你可以给它速度升级和一本附魔书，以使它使用该附魔。
+ftbuniversity.exu2mechanicals.desc3=&b使用者&r &6模拟玩家点击&r 物品栏中的物品。你可以在鼠标左键单击或右键单击时切换，什么&o类型&r点击 以及要“保留”的位置。 你还可以给它速度升级。
 
 ftbuniversity.exu2dropofevil.subtitle=Get a Drop of Evil
 ftbuniversity.exu2dropofevil.desc1=&bDrop of Evil&r rarely drops from Wither Skeletons and has several uses.
@@ -1777,7 +1777,7 @@ ftbuniversity.exu2transferpipefilter.desc=A &bTransfer Pipe Filter&r can be plac
 
 ftbuniversity.exu2learngp.title=What's a GP?
 ftbuniversity.exu2learngp.subtitle=Learn about Grid Power
-ftbuniversity.exu2learngp.desc1=&bGrid Power&r is Extra Utilities 2's energy system, which works very different from other mods'.
+ftbuniversity.exu2learngp.desc1=&bGrid Power&r is 更多实用设备2's energy system, which works very different from other mods'.
 ftbuniversity.exu2learngp.desc2=Grid Power is &6completely wireless&r and player-specific. Generators and users do not have to be anywhere near each other, so long as the generators are chunk loaded.
 ftbuniversity.exu2learngp.desc3=GP users don't use up GP; it's more accurate to say they &ooccupy&r it. Hovering over anything that uses GP shows a fraction: &6(occupied GP)/(total GP)&r.
 ftbuniversity.exu2learngp.desc4=If the amount of GP being used is greater than the amount available, &ceverything using GP will stop working&r.
@@ -1936,9 +1936,9 @@ ftbuniversity.exu2death.subtitle=制作一个 Death Generator
 ftbuniversity.exu2death.desc=&bDeath Generator&r generates RF from Bones, Rotten Flesh, and the like. If a player enters a 3x3 area around it, they will get the &cDoom&r effect inflicted on them, which spells &6certain death unless cured&r after 60 seconds.
 
 # Codes generated with https://scratch.mit.edu/projects/218197841/
-ftbuniversity.exu2rainbow.subtitle=制作一个 Rainbow Generator!
+ftbuniversity.exu2rainbow.subtitle=制作一个彩虹发电机！
 ftbuniversity.exu2rainbow.desc=Rainbow Generator! generates &n25,000,000 RF/t&r while &6all other ExU2 generators are running&r.
-ftbuniversity.exu2rainbow.task=&4R&ca&6i&en&2b&ao&bw&3 &1G&9e&dn&4e&cr&6a&et&2o&ar&b!
+ftbuniversity.exu2rainbow.task=&4制&c作&6一&e个&2彩&a虹&b发&3电&1机&9！
 
 ###Industrial Craft 2
 # WHY DOES IC2 EXPLODE WHEN YOU RELOAD RESOURCES AAAAAAAAA
@@ -6481,7 +6481,7 @@ ftbuniversity.shadyvillager.task=All trades
 
 ftbuniversity.supersoundmuffler.title=Super Sound Muffler
 ftbuniversity.supersoundmuffler.subtitle=制作一个 Super Sound Muffler
-ftbuniversity.supersoundmuffler.desc1=&bSuper Sound Muffler&r allows you to &6mute sounds&r in an area. Unlike Extra Utilities 2's, SSM allows you to pick and &6choose which sounds to mute&r.
+ftbuniversity.supersoundmuffler.desc1=&bSuper Sound Muffler&r allows you to &6mute sounds&r in an area. Unlike 更多实用设备2's, SSM allows you to pick and &6choose which sounds to mute&r.
 ftbuniversity.supersoundmuffler.desc2=In &6Whitelist&r mode, everything in the list is not muted. In &6Blacklist&r mode, only what's in the list is muted.
 ftbuniversity.supersoundmuffler.desc3=To add sounds to the list, click &6Add&r. Type in the name of the sound event, choose it out of the list, and click Add again.
 ftbuniversity.supersoundmuffler.desc4=Sound events are in code-terms, but should be fairly easy to guesstimate. Instead of searching &6moo&r, you would search &6cow&r and then see find &6minecraft:entity.cow.ambient&r.
@@ -6861,7 +6861,7 @@ ftbuniversity.xntrophy.subtitle=Complete the XNet chapter
 ftbuniversity.idtrophy.subtitle=Complete the Integrated Dynamics chapter
 ftbuniversity.ae2trophy.subtitle=Complete the Applied Energistics 2 chapter
 ftbuniversity.fortrophy.subtitle=Complete the Forestry chapter
-ftbuniversity.exu2trophy.subtitle=Complete the Extra Utilities 2 chapter
+ftbuniversity.exu2trophy.subtitle=Complete the 更多实用设备2 chapter
 ftbuniversity.ic2trophy.subtitle=Complete the Industrial Craft 2 chapter
 ftbuniversity.immengtrophy.subtitle=Complete the Immersive Engineering chapter
 ftbuniversity.pnrtrophy.subtitle=Complete the PneumaticCraft: Repressurized chapter
