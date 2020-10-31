@@ -868,7 +868,7 @@ ftbuniversity.storageterminal.desc5=存储终端由&e集成终端&r附加模组�
 ftbuniversity.intcrafting.subtitle=制作一个制作界面
 ftbuniversity.intcrafting.desc1=&b制作界面&r是使用网络进行自动制作的第一步。
 ftbuniversity.intcrafting.desc2=连接合成接口 &6到你想用的机器上&r。对于常规的3x3制作配方，请将其附加到制作台上；对于冶炼配方，将其连接到炉子上；等等
-ftbuniversity.intcrafting.desc3=用一个&6逻辑编程器&r，点击&9合成表&r 并设置所需的手工配方。例如，在左侧栏位中放置8个橡木木板，然后在右侧栏位中放置箱子。
+ftbuniversity.intcrafting.desc3=用一个&6逻辑编程器&r，点击&9合成表&r 并设置所需的物配方。例如，在左侧栏位中放置8个橡木木板，然后在右侧栏位中放置箱子。
 ftbuniversity.intcrafting.desc4=插入这个变量卡插入制作接口中的栏位之一，网络现在就可以访问该配方了。
 
 ftbuniversity.ictips.title=制作技巧
@@ -1429,7 +1429,7 @@ ftbuniversity.singleblockfarms.desc=这些农场运作范围是一个 &6甜甜�
 ftbuniversity.managedfarms.task=任何自动收割机
 
 ftbuniversity.manualfarms.title=我自己动手
-ftbuniversity.manualfarms.subtitle=制作一个手工农场
+ftbuniversity.manualfarms.subtitle=制作一个手动农场
 ftbuniversity.manualfarms.desc=&b手动农场&r设置起来有点复杂。他们&6一开始不会放置土壤或种植新种子&r，但仍会自动收获和补种。
 ftbuniversity.manualfarms.task=任何手动农场
 
@@ -1715,225 +1715,225 @@ ftbuniversity.exu2angel.desc=&b天使方块&r 会放置于你面向方向一格�
 
 ftbuniversity.exu2mechanicals.title=机械问题
 ftbuniversity.exu2mechanicals.subtitle=制作机械方块
-ftbuniversity.exu2mechanicals.desc1=&b合成器&r 设置一个手工配方，当所有材料都包含在输入物品栏中时，&6它将合成该项目&r并将其发送到输出物品栏中。你可以将其设置为需要红石，是否将辅助项目（空桶等）发送到输出，并添加“速度升级”。
+ftbuniversity.exu2mechanicals.desc1=&b合成器&r 设置一个物配方，当所有材料都包含在输入物品栏中时，&6它将合成该物品&r并将其发送到输出物品栏中。你可以将其设置为需要红石，是否将辅助物品（空桶等）发送到输出，并添加“速度升级”。
 ftbuniversity.exu2mechanicals.desc2=&b挖掘器&r 会打破前面的方块，&6将掉落物放入物品栏&r。你可以给它速度升级和一本附魔书，以使它使用该附魔。
 ftbuniversity.exu2mechanicals.desc3=&b使用者&r &6模拟玩家点击&r 物品栏中的物品。你可以在鼠标左键单击或右键单击时切换，什么&o类型&r点击 以及要“保留”的位置。 你还可以给它速度升级。
 
-ftbuniversity.exu2dropofevil.subtitle=Get a Drop of Evil
-ftbuniversity.exu2dropofevil.desc1=&bDrop of Evil&r rarely drops from Wither Skeletons and has several uses.
-ftbuniversity.exu2dropofevil.desc2=You can click it on Grass to make &bCursed Earth&r, which will spread for a while and very rapidly spawn very powerful monters. It burns in the sun, and gets disabled by light. This is &6great for mob farms&r, though it's best if you save this step until the rest of the grinder is ready.
-ftbuniversity.exu2dropofevil.desc3=Since Drops of Evil are so rare, it would be a good idea to spend your first one on a &6mob farm in a Nether Fortress&r, which you can use to get more.
-ftbuniversity.exu2dropofevil.desc4=You can click it on a Spawner to 制作一个 &bResturbed Mob Spawner&r, which can be toggled with redstone and given &6Speed Upgrades&r. It can also be &6mined with a pickaxe&r without being lost.
+ftbuniversity.exu2dropofevil.subtitle=邪恶点滴
+ftbuniversity.exu2dropofevil.desc1=&b邪恶点滴&r很少从凋灵骷髅掉落，有多种用途。
+ftbuniversity.exu2dropofevil.desc2=Y您可以在草上单击以使其变成&b被诅咒的泥土&r，它会传播一段时间并非常迅速地生成非常强大的怪物。它在阳光下燃烧，并因光而失去功效。这 &6非常适合怪物农场&r，尽管最好先别做这步，直到刷怪场的其余部分准备就绪为止。
+ftbuniversity.exu2dropofevil.desc3=由于邪恶之滴非常稀有，所以最好在地狱堡垒建立第一个农场，以此拿到更多点滴。
+ftbuniversity.exu2dropofevil.desc4=您可以在生怪笼上单击以制作一个 &b重生的生怪笼&r，可以使用红石切换并给与&6速度升级&r。他也可以 &6用镐开采&r而不会被破坏。
 
-ftbuniversity.exu2terraformer.title=Terra-Freezing the Planet
-ftbuniversity.exu2terraformer.subtitle=制作一个 Terraformer
-ftbuniversity.exu2terraformer.desc1=&bTerraformer&r is a multiblock machine that allows you to &6change the biome of the surrouding area&r, to a maximum radius of 64 blocks.
-ftbuniversity.exu2terraformer.desc2=First, use a &bBiome Marker&r in the biome you want to change to to set it to that biome. Place it in a powered Terraformer where you want to terraform. It will give you a list of &bClimographs&r that must be placed within 4 blocks of the Terraformer (they don't necessarily need to touch).
-ftbuniversity.exu2terraformer.desc3=&6Climographs&r (Humidifiers, Coolers, etc) require an &bAntenna&r be placed on them, energy, and something called &6TF&r. Each climograph has different requirements for TF; a &6Magic Infuser needs magic items&r, a &6Cooler needs cold items&r, etc. You can click the arrow in their GUIs to see what gives them TF.
-ftbuniversity.exu2terraformer.desc4=Once everything is &6powered&r and the required climographs have a &6good source of TF&r, the area surrounding the Terraformer will transform into the biome set by the Marker.
-ftbuniversity.exu2terraformer.task=Climographs
+ftbuniversity.exu2terraformer.title=冻结地球
+ftbuniversity.exu2terraformer.subtitle=制作一个地形转化仪
+ftbuniversity.exu2terraformer.desc1=&b地形转化仪&r是一款多方块机器，可让您更改 &6周围区域&r的生物群系，最大半径为64个方块。
+ftbuniversity.exu2terraformer.desc2=首先，使用 &生物群落标记&r在您要更改为的生物群系中，设置生物群系。将其放在地形转化仪中。它会给你一个清单 &b气候记录仪&r 必须放置在地形转化仪的4个方块内（它们不一定需要触摸）。
+ftbuniversity.exu2terraformer.desc3=&6气候记录仪&r （加湿器，冷却器等）需要 &b天线&r 放在他们身上，能量，以及所谓的&6TF&r。每个气候记录仪对TF都有不同的要求；一种 &6魔法注入者需要魔法物品&r, a &6冷却器需要冷物品&r, 等等。您可以单击其GUI中的箭头以查看为他们提供了TF的原因。
+ftbuniversity.exu2terraformer.desc4=一旦一切都 &6有能量&r并且所需的气候记录仪有一个&6TF的好来源&r,地形转化仪周围的区域将转换为标记所设置的生物群系。
+ftbuniversity.exu2terraformer.task=气候记录仪
 
-ftbuniversity.exu2muffler.title=Superb Sound Muffler
-ftbuniversity.exu2muffler.subtitle=制作一个 Sound Muffler
-ftbuniversity.exu2muffler.desc1=&bSound Muffler&r stops any sound within 8 blocks of itself.
-ftbuniversity.exu2muffler.desc2=Shockingly useful; put one near your Nether Portal, mob farms, annoyingly loud machines, anywhere that's too noisy for your tastes.
+ftbuniversity.exu2muffler.title=一流的消音器
+ftbuniversity.exu2muffler.subtitle=制作一个消声器
+ftbuniversity.exu2muffler.desc1=&b消声器&r停止自身8个方块内的任何声音。
+ftbuniversity.exu2muffler.desc2=令人震惊的有用；在您的地狱门附近，怪物农场，嘈杂的机器上放一个，在你觉得太嘈杂的地方。
 
-ftbuniversity.exu2lasso.subtitle=Make the Lassos
-ftbuniversity.exu2lasso.desc1=&bGolden Lasso&r can be right-clicked on a &6passive mob to pick it up&r, and can be placed down later.
-ftbuniversity.exu2lasso.desc2=&bCursed Lasso&r does the same, but works on &6hostile mobs&r.
+ftbuniversity.exu2lasso.subtitle=制作套索
+ftbuniversity.exu2lasso.desc1=&b金色套索&r 可以右键单击 &6被动怪物来捡起它&r，以后可以放下。
+ftbuniversity.exu2lasso.desc2=&b诅咒的套索&r 很相似，但对 &6敌对怪物&r有效。
 
-ftbuniversity.exu2enchanter.subtitle=制作一个 Enchanter
-ftbuniversity.exu2enchanter.desc1=&bEnchanter&r uses RF and Lapis to enchant items, if it has &615 Bookshelves&r or &66 Magical Wood&r nearby.
-ftbuniversity.exu2enchanter.desc2=Combining any enchantable item with a &6Lapis Lazuli will enchant it with a single minimum level enchantment&r; combine the item with a &6Nether Star to get a max level enchantment&r.
-ftbuniversity.exu2enchanter.desc3=Enchanter is also required for certain items, like &6Enchanted Ingots&r.
+ftbuniversity.exu2enchanter.subtitle=制作一个附魔器
+ftbuniversity.exu2enchanter.desc1=&b附魔器&r 使用RF和青金石附魔物品，需要 &615书架&r 或者 &66个魔法木&r在附近。
+ftbuniversity.exu2enchanter.desc2=将任何可附魔物品与 &6青金石将以单个最低等级的结界对其进行附魔&r;将物品与&6地狱之星获得最高等级的附魔&r.
+ftbuniversity.exu2enchanter.desc3=某些物品也需要附魔器，例如 &6魔法锭&r。
 
-ftbuniversity.exu2transfernodes.title=Transfer Nodes
-ftbuniversity.exu2transfernodes.subtitle=制作一个 Transfer Node system
-ftbuniversity.exu2transfernodes.desc1=&6Transfer Nodes&r will slowly pull items or fluids out of the inventory they are placed in, and will try to send them along a path defined by &bTransfer Pipes&r.
-ftbuniversity.exu2transfernodes.desc2=You can click a connection with any Wrench to make that connection &6one way&r. If the connection is blocked on both ways, they completely disconnect.
+ftbuniversity.exu2transfernodes.title=传输节点
+ftbuniversity.exu2transfernodes.subtitle=制作一个传输节点系统
+ftbuniversity.exu2transfernodes.desc1=&6传输节点&r会缓慢地中拉出物品或液体，并尝试沿着由 &b传输管&r.
+ftbuniversity.exu2transfernodes.desc2=您可以单击任何扳手的连接以建立&6单向&r连接。如果双向连接均被阻止，则它们将完全断开连接。
 
-ftbuniversity.exu2flatnodes.title=Compact Automation
-ftbuniversity.exu2flatnodes.subtitle=Make Flat Transfer Nodes
-ftbuniversity.exu2flatnodes.desc1=&6Flat Transfer Nodes&r fit between two adjacent blocks to pull items/fluids from the block it is placed on and push into the block it is facing.
-ftbuniversity.exu2flatnodes.desc2=That means you could have a Chest placed directly on top of a Furnace, and a Flat Transfer Node placed between them would transfer items between them.
-ftbuniversity.exu2flatnodes.desc3=You can &6hold control to make it pull instead of push&r.
-ftbuniversity.exu2flatnodes.desc4=Right-click one with any Wrench to open its GUI, where you can put a Filter. Left-click with a Wrench to break it.
-ftbuniversity.exu2flatnodes.task=Either Flat Transfer Node
+ftbuniversity.exu2flatnodes.title=紧凑型自动化
+ftbuniversity.exu2flatnodes.subtitle=制作平面传输节点
+ftbuniversity.exu2flatnodes.desc1=&6平面传输节点&r卡在两个相邻的方块之间，以从放置在其上的方块中拉出物品/流体并推入其面对的块中。
+ftbuniversity.exu2flatnodes.desc2=这意味着您可以将箱子直接放在炉子上，并且在它们之间放置一个平面转移节点可以在它们之间转移物品。
+ftbuniversity.exu2flatnodes.desc3=您可以&6按住控制使其拉动而不是推动&r.
+ftbuniversity.exu2flatnodes.desc4=扳手右键单击任何以打开其GUI，在其中可以放置一个筛选器。用扳手左键将其破坏。
+ftbuniversity.exu2flatnodes.task=任意平面转移节点
 
-ftbuniversity.exu2retrieval.title=Pull!
-ftbuniversity.exu2retrieval.subtitle=Make Retrieval Nodes
-ftbuniversity.exu2retrieval.desc=&bRetrieval Nodes&r work pretty much exactly the same as Transfer Nodes, except they are &6placed on the destination instead of the source&r.
+ftbuniversity.exu2retrieval.title=拉！
+ftbuniversity.exu2retrieval.subtitle=制作检索节点
+ftbuniversity.exu2retrieval.desc=&b检索节点&r工作原理与传输节点几乎完全相同，除了它们是 &6放置在目标而不是源上&r.
 
-ftbuniversity.exu2filters.subtitle=制作一个 Filter
-ftbuniversity.exu2filters.desc1=&bFilters&r can be placed in Nodes to &6choose what items/fluids are allowed to be moved&r. It has 12 slots, and options for requiring NBT and Metadata, as well as using the Ore Dictionary. It can also be toggled between being a Whitelist and a Blacklist.
-ftbuniversity.exu2filters.desc2=You can &6nest Filters&r (putting Filters inside Filters) as well, and have them all function.
-ftbuniversity.exu2filters.task=Filters
+ftbuniversity.exu2filters.subtitle=制作一个过滤器
+ftbuniversity.exu2filters.desc1=&b过滤器&r 可以放在节点中 &6选择允许移动哪些物品/流体&r。它具有12个栏位，以及用于要求NBT和元数据以及使用矿石字典的选项。也可以在白名单和黑名单之间切换。
+ftbuniversity.exu2filters.desc2=您可以&6过滤器套娃&r （将过滤器放入“过滤器”内部），并使它们全部起作用。
+ftbuniversity.exu2filters.task=过滤器
 
-ftbuniversity.exu2transferfilters.subtitle=制作一个 Transfer Filter
-ftbuniversity.exu2transferfilters.desc=&bTransfer Filter&r can be placed on an inventory and given a Filter to &6set what is allowed to go into that inventory&r. You can also set the &oamount&r of those items that are allowed.
+ftbuniversity.exu2transferfilters.subtitle=制作一个转移过滤器
+ftbuniversity.exu2transferfilters.desc=&b转移过滤器&r可以放在物品栏上，并&6设置允许进入该物品栏的物品&r。您还可以设置这些允许的物品中的&o数量&r 。
 
-ftbuniversity.exu2transferpipefilter.subtitle=制作一个 Transfer Pipe Filter
-ftbuniversity.exu2transferpipefilter.desc=A &bTransfer Pipe Filter&r can be placed between two Transfer Pipes and be given a Filter to &6set what items are allowed to pass through&r.
+ftbuniversity.exu2transferpipefilter.subtitle=制作一个输送管过滤器
+ftbuniversity.exu2transferpipefilter.desc=A &b输送管过滤器&r 可以放置在两个输送管之间，并提供一个过滤器 &6设置允许哪些物品通过&r。
 
-ftbuniversity.exu2learngp.title=What's a GP?
-ftbuniversity.exu2learngp.subtitle=Learn about Grid Power
-ftbuniversity.exu2learngp.desc1=&bGrid Power&r is 更多实用设备2's energy system, which works very different from other mods'.
-ftbuniversity.exu2learngp.desc2=Grid Power is &6completely wireless&r and player-specific. Generators and users do not have to be anywhere near each other, so long as the generators are chunk loaded.
-ftbuniversity.exu2learngp.desc3=GP users don't use up GP; it's more accurate to say they &ooccupy&r it. Hovering over anything that uses GP shows a fraction: &6(occupied GP)/(total GP)&r.
-ftbuniversity.exu2learngp.desc4=If the amount of GP being used is greater than the amount available, &ceverything using GP will stop working&r.
-ftbuniversity.exu2learngp.desc5=If you have too many of the same generator, they all become less efficient. You can see the effective power of a mill by hovering over it.
-ftbuniversity.exu2learngp.desc6=If you are playing with someone and you want to share GP, use the command &6/xu_powersharing&r. This is one-way though, so both players have to use the command if you want it to go both ways.
+ftbuniversity.exu2learngp.title=什么是GP？
+ftbuniversity.exu2learngp.subtitle=了解GP电网
+ftbuniversity.exu2learngp.desc1=&bGrid Power&r 是更多实用设备2的能源系统，其运作方式与其他模组的截然不同。
+ftbuniversity.exu2learngp.desc2=GP电网是&6完全无线&r 和特定于玩家。发电机和用电机器不必彼此靠近，只要发电机是区块加载的即可。
+ftbuniversity.exu2learngp.desc3=GP用户不会用完GP；说他们更准确&o占据&r 它。将鼠标悬停在使用GP的任何内容上都会显示以下内容： &6（已用GP）/（总GP）&r.
+ftbuniversity.exu2learngp.desc4=如果正在使用的GP数量大于可用数量，那么使用GP的一切将停止工作&r.
+ftbuniversity.exu2learngp.desc5=如果同一种发电机太多，它们的效率都会降低。将鼠标悬停在它上面可以看到它的有效功率。
+ftbuniversity.exu2learngp.desc6=如果您正在与某人一起玩并且想要共享GP，请使用以下命令 &6/xu_powersharing&r。但是这是单向的，因此如果您希望命令同时执行，则两个玩家都必须使用该命令。
 
-ftbuniversity.exu2manualmill.title=It's a Mill.
-ftbuniversity.exu2manualmill.subtitle=制作一个 Manual Mill
-ftbuniversity.exu2manualmill.desc1=&bManual Mill& will generate &615GP&r, but only when used by a player.&r
-ftbuniversity.exu2manualmill.desc2=It's not very useful except to power the Resonator, which will allow you to make other, better Mills.
+ftbuniversity.exu2manualmill.title=这是一个发电机。
+ftbuniversity.exu2manualmill.subtitle=制作一个手动发电机
+ftbuniversity.exu2manualmill.desc1=&b手动发电机&r 会产生 &615GP&r,但仅限玩家使用时。&r
+ftbuniversity.exu2manualmill.desc2=除了为共振仪供电以外，它不是很有用，这将使您能够制造其他更好的发电机。
 
-ftbuniversity.exu2solarpanel.title=And This... is a Mill.
-ftbuniversity.exu2solarpanel.subtitle=制作一个 Solar Panel
-ftbuniversity.exu2solarpanel.desc=A &bSolar Panel&r will generate &61GP&r when it can see daylight.
+ftbuniversity.exu2solarpanel.title=而且这是一个发电机。
+ftbuniversity.exu2solarpanel.subtitle=制作一个太阳能板
+ftbuniversity.exu2solarpanel.desc=&b太阳能板&r  当它可以看到日光会产生&61GP&r。
 
-ftbuniversity.exu2lunarpanel.title=This, However, is a Mill.
-ftbuniversity.exu2lunarpanel.subtitle=制作一个 Lunar Panel
-ftbuniversity.exu2lunarpanel.desc=A &bLunar Panel&r will generate &61GP&r when it can see... nightlight.
+ftbuniversity.exu2lunarpanel.title=但是，这是一个发电机。
+ftbuniversity.exu2lunarpanel.subtitle=制作一个月球能板
+ftbuniversity.exu2lunarpanel.desc=&b月球能板&r 当它可以看到...夜光会产生&61GP&r。
 
-ftbuniversity.exu2windmill.title=Surprisingly, It's a Mill.
-ftbuniversity.exu2windmill.subtitle=制作一个 Wind Mill
-ftbuniversity.exu2windmill.desc=A &bWind Mill&r generates a &6fairly variable amount of GP&r from the wind. There must not be a block directly to the North/South of it.
+ftbuniversity.exu2windmill.title=令人惊讶的是，这是一个发电机。
+ftbuniversity.exu2windmill.subtitle=制作一个风车发电机
+ftbuniversity.exu2windmill.desc=&b风车发电机&r从风中产生一个 &6相当随机的GP&r 。不得在其北/南直接有一个方块。
 
-ftbuniversity.exu2watermill.title=Mill...
-ftbuniversity.exu2watermill.subtitle=制作一个 Water Mill
-ftbuniversity.exu2watermill.desc1=A &bWater Mill&r generates &64GP&r per horizontal side touching flowing water, for a maximum of &616GP&r.
-ftbuniversity.exu2watermill.desc2=Water Mills are generally the easiest to spam for the amount of GP they make.
+ftbuniversity.exu2watermill.title=发电...
+ftbuniversity.exu2watermill.subtitle=制作一个水车发电机
+ftbuniversity.exu2watermill.desc1=&b水车发电机&r  每水平边接触流动的水产生 &64GP&r， 最多 &616GP&r.
+ftbuniversity.exu2watermill.desc2=对于制造的GP而言，水车发电机通常最容易发电的。
 
-ftbuniversity.exu2lavamill.title=Is It Really a Mill?
-ftbuniversity.exu2lavamill.subtitle=制作一个 Lava Mill
-ftbuniversity.exu2lavamill.desc=A &bLava Mill&r generates &62GP&r when next to a Lava source block, &63GP&r when next to the first stage of flowing Lava, &62GP&r when on second, and &61GP&r on third.
+ftbuniversity.exu2lavamill.title=真的是发电机吗？
+ftbuniversity.exu2lavamill.subtitle=制作一个熔岩车发电机
+ftbuniversity.exu2lavamill.desc=&b熔岩车发电机&r在熔岩源方块旁边时产生 &62GP&r ， &63GP&r 在流动的熔岩的第一格段旁边时，当第二格 &62GP&r  第三格&61GP&r 。
 
-ftbuniversity.exu2firemill.title=Behold! A Mill.
-ftbuniversity.exu2firemill.subtitle=制作一个 Fire Mill
-ftbuniversity.exu2firemill.desc=A &bFire Mill&r generates &64GP&r when directly over fire.
+ftbuniversity.exu2firemill.title=看哪！发电机
+ftbuniversity.exu2firemill.subtitle=制作一个火发电机
+ftbuniversity.exu2firemill.desc=&b火发电机&r 当直接着火时产生 &64GP&r。
 
-ftbuniversity.exu2dragoneggmill.title=Eh? What is This?
-ftbuniversity.exu2dragoneggmill.subtitle=制作一个 Dragon Egg Mill
-ftbuniversity.exu2dragoneggmill.desc=A &bDragon Egg Mill&r generates &6500GP&r when a Dragon Egg is placed on top of it.
+ftbuniversity.exu2dragoneggmill.title=嗯？这是什么？
+ftbuniversity.exu2dragoneggmill.subtitle=制作一个龙蛋发电机
+ftbuniversity.exu2dragoneggmill.desc=&b龙蛋发电机&r 当龙蛋放在上面时生成 &6500GP&r 。
 
-ftbuniversity.exu2resonator.subtitle=制作一个 Resonator
-ftbuniversity.exu2resonator.desc1=&bResonator&r is the first machine that uses GP. It works a bit like a furnace, but with different recipes.
-ftbuniversity.exu2resonator.desc2=&6Put items in, make sure GP is available, get items out.&r
+ftbuniversity.exu2resonator.subtitle=制作一个共振仪
+ftbuniversity.exu2resonator.desc1=&b共振仪&r 是第一台使用GP的机器。它的工作原理有点像熔炉，但是配方不同。
+ftbuniversity.exu2resonator.desc2=&6放入物品，确保GP可用，取出物品。&r
 
-ftbuniversity.redcoal.subtitle=Make some Red Coal
-ftbuniversity.redcoal.desc=&bRed Coal&r works better as furnace fuel the more GP it has, up to 700%% (56 items).
+ftbuniversity.redcoal.subtitle=做一些红煤
+ftbuniversity.redcoal.desc=&b红煤&r GP网络拥有更多的GP时，其作为燃料的效果更好 ，最高达到700%% (56 物品).
 
-ftbuniversity.wirelessrfbattery.subtitle=制作一个 Wireless RF Battery
-ftbuniversity.wirelessrfbattery.desc=任何RF stored in the &bWireless RF Battery&r can be transmitted from &bWireless RF Transmitters&r anywhere in the world to any machine within 4 blocks of itself.
+ftbuniversity.wirelessrfbattery.subtitle=制作一个无线RF电池
+ftbuniversity.wirelessrfbattery.desc=任何RF 存储在 &b无线RF电池&r 中可以从世界上任何地方的 &b无线RF发射器&r 输出到4个方块以内的任何机器。
 
 ftbuniversity.exu2screen.title=R390EId
-ftbuniversity.exu2screen.subtitle=制作一个 Screen
-ftbuniversity.exu2screen.desc=&bScreen&r uses a bit of GP to display any (smaller than 256kb) Imgur file in the world.
+ftbuniversity.exu2screen.subtitle=制作一个屏幕
+ftbuniversity.exu2screen.desc=&b屏幕&r使用一点GP来显示世界上任何（小于256kb）Imgur文件。
 
-ftbuniversity.ineffableglass.title=Unable to Eff
-ftbuniversity.ineffableglass.subtitle=Make Ineffable Glass
-ftbuniversity.ineffableglass.desc1=&bIneffable Glass&r can be walked through. Pretty neat stuff. Sneaking makes it act like normal Glass.
-ftbuniversity.ineffableglass.desc2=&b&lDark&r&b Ineffable Glass&r can do the same except, like Dark Glass, doesn't let light through.
+ftbuniversity.ineffableglass.title=无法有效
+ftbuniversity.ineffableglass.subtitle=制作超凡玻璃
+ftbuniversity.ineffableglass.desc1=&b超凡玻璃&r 可以走过去。很整洁的东西。潜行走过使其像普通玻璃一样。
+ftbuniversity.ineffableglass.desc2=&b&l黑暗&r&b 超凡玻璃&r可以做同样的事情，除了像深色玻璃一样，不允许光线通过。
 
-ftbuniversity.playerchest.title=It's Like an Ender Chest, Except the Ender is &lYou&r
-ftbuniversity.playerchest.subtitle=制作一个 Player Chest
-ftbuniversity.playerchest.desc1=&bPlayer Chest&r directly connects to &6your inventory&r. In its GUI, you can set the permission for each slot; whether you can extract, insert, both, or neither.
-ftbuniversity.playerchest.desc2=This is extremely useful for many things. At your base, you could have something that &6constantly refills a specific slot in your hotbar with Torches&r, or removes full Shulker Boxes from the top right slot, empties them, and puts them back in! The possibilities are only limited to your ingenuity.
+ftbuniversity.playerchest.title=就像末影箱一样，除了末影是&l你&r
+ftbuniversity.playerchest.subtitle=制作一个玩家箱子
+ftbuniversity.playerchest.desc1=&b玩家箱子&r 直接连接到 &6您的物品栏&r。在其GUI中，您可以设置每个栏位的权限。是否可以提取，输入，两者都提取还是两者都否。
+ftbuniversity.playerchest.desc2=这对许多事情都非常有用。在您的基地，您可能会用&6不断使用火把&r填充快捷栏，或者从右上角的栏位中取出完整的潜影盒，清空它们，然后放回去！可能性仅限于您的独创性。
 
-ftbuniversity.exu2speed.title=I am Speed
-ftbuniversity.exu2speed.subtitle=Make the Speed Upgrades
-ftbuniversity.exu2speed.desc1=Most ExU2 machines can be sped up with the &bUpgrade Speed&r. Each installed Upgrade requires slightly more GP than the last, starting at 1.
-ftbuniversity.exu2speed.desc2=&mUpgrade Speeds&r &mUpgrades Speed&r Upgrades can only stack up to a specific amount, dictated by the tier. Basic ones can stack to &64&r, Magical can stack to &616&r, and Ultimate can stack to &664&r. 4 basic is the same as 4 Ultimate, the only difference is you can put more in.
+ftbuniversity.exu2speed.title=我是速度
+ftbuniversity.exu2speed.subtitle=进行速度升级
+ftbuniversity.exu2speed.desc1=大多数ExU2机器都可以&b升级速度&r。每次安装的升级都需要比上一次升级的GP多一点。
+ftbuniversity.exu2speed.desc2=&m速度升级&r &m升级速度&r 升级最多只能堆叠特定数量，具体取决于等级。 基本的可以堆叠到 &64&r,魔法可以叠加到 &616&r, 并且终极可以堆叠到 &664&r。 4基本与4终极相同，唯一的不同是您可以添加更多。
 
-ftbuniversity.exu2stack.title=I am Stack
-ftbuniversity.exu2stack.subtitle=Make the Upgrade Stack
-ftbuniversity.exu2stack.desc=&bUpgrade Stack&r can be used with Transfer Nodes to extract and move an entire stack of an item at a time.
+ftbuniversity.exu2stack.title=我在堆
+ftbuniversity.exu2stack.subtitle=进行堆叠升级
+ftbuniversity.exu2stack.desc=&b堆叠升级k&r可以与传输节点一起使用，以一次提取和移动整个物品组。
 
-ftbuniversity.exu2mining.title=Mining Comma Upgrade
-ftbuniversity.exu2mining.subtitle=Make the Upgrade Mining
-ftbuniversity.exu2mining.desc=&bUpgrade Mining&r can be installed on a Transfer Node placed on Cobblestone that is touching both Water and Lava sources to make it &6generate Cobblestone&r. Speed Upgrades will make it generate more per tick.
+ftbuniversity.exu2mining.title=采矿逗号升级
+ftbuniversity.exu2mining.subtitle=进行挖掘升级
+ftbuniversity.exu2mining.desc=&b挖掘升级&r 可以安装在放置在鹅卵石上的传输节点上，该鹅卵石同时接触水和熔岩源，从而 &6生成鹅卵石&r。速度升级将使其每tick产生更多。
 
-ftbuniversity.exu2rings.title=Fly Like a Bird Squid Angel
-ftbuniversity.exu2rings.subtitle=Make the flying Rings
-ftbuniversity.exu2rings.desc1=&bChicken Wing Ring&r allows you to &6slow your fall&r for a time by holding space.
-ftbuniversity.exu2rings.desc2=&bRing of the Flying Squid&r allows you to &6fly into the air&r for a time.
-ftbuniversity.exu2rings.desc3=various &bAngel Rings&r allow infinite &6full creative flight&r. The only difference among them is their looks.
-ftbuniversity.exu2rings.desc4=All of these require GP, naturally.
-ftbuniversity.exu2rings.task=任何Angel Ring
+ftbuniversity.exu2rings.title=像鱿鱼鸟天使一样飞翔
+ftbuniversity.exu2rings.subtitle=制作飞行戒指
+ftbuniversity.exu2rings.desc1=&b鸡翅戒指&r在按住空格时 &6减慢你的掉落&r。
+ftbuniversity.exu2rings.desc2=&b乌贼戒指&r 在按住空格时 &6允许往上飞一段时间&r。
+ftbuniversity.exu2rings.desc3=各种 &b天使戒指&r 允许无限 &6全面的创造飞行&r。它们之间的唯一区别是它们的外观。
+ftbuniversity.exu2rings.desc4=所有这些自然都需要GP。
+ftbuniversity.exu2rings.task=任何天使戒指
 
-ftbuniversity.exu2porcupine.title=Transvector Something or Other
-ftbuniversity.exu2porcupine.subtitle=制作一个 Ender Porcupine
-ftbuniversity.exu2porcupine.desc1=&bEnder Porcupine&r will cycle through all the blocks in its working area, mimicking them.
-ftbuniversity.exu2porcupine.desc2=In its GUI, you can set two corners of a cuboid, which are the X, Y, and Z coordinates relative to the Porcupine.
-ftbuniversity.exu2porcupine.desc3=Porcupine will iterate through every block in the working area, which you can see by hovering over it. It requires 1GP for each block away the Porcupine is from the mimicked location.
-ftbuniversity.exu2porcupine.desc4=While mimicking a block, you can pipe energy, items, and fluids into and out of the Porcupine and &6it will be treated as if it were the block&r. Mechanical Users and Miners will do the same, when pointed at the Porcupine.
+ftbuniversity.exu2porcupine.title=跨矢量或其他
+ftbuniversity.exu2porcupine.subtitle=制作一个末影代理器
+ftbuniversity.exu2porcupine.desc1=&b末影代理器&r 将在其工作区域中的所有方块之间循环，以模仿它们。
+ftbuniversity.exu2porcupine.desc2=在其GUI中，可以设置长方体的两个角，分别是相对于代理器的X，Y和Z坐标。
+ftbuniversity.exu2porcupine.desc3=代理器将扫描工作区域中的每个方块，您可以将鼠标悬停在它上面选择。代理器从模仿位置离开的每个方块需要1GP。
+ftbuniversity.exu2porcupine.desc4=模仿方块时，您可以将能量，物品和流体通过管道输送到代理器和&6它将被视为那个模仿的方块&r。当指向代理器时，使用者和挖掘机也将模仿操作。
 
 ftbuniversity.exu2fireaxe.title=Mmph Mphna Mprh
-ftbuniversity.exu2fireaxe.subtitle=制作一个 Fire Axe
-ftbuniversity.exu2fireaxe.desc1=&bFire Axe&r will &6chop down the entire tree&r when used. It also has infinite durability.
-ftbuniversity.exu2fireaxe.desc2=Its most interesting feature however, is that the &6max limit for enchantments is doubled&r in an Anvil. That means, for instance, you could put Efficiency X on it by adding two Efficiency V books to it.
+ftbuniversity.exu2fireaxe.subtitle=制作一个消防斧
+ftbuniversity.exu2fireaxe.desc1=&b消防斧&r使用时将 &6砍倒整棵树&r。它还具有无限的耐久度。
+ftbuniversity.exu2fireaxe.desc2=但是，它最有趣的功能是在铁砧上 &6附魔的最大限制加倍&r 。举例来说，这意味着您可以通过在其中添加两本效率V书籍来添加效率X。
 
-ftbuniversity.exu2kikoku.title=All According to Kikoku
-ftbuniversity.exu2kikoku.subtitle=制作一个 Kikoku
-ftbuniversity.exu2kikoku.desc1=&bKikoku&r is a very powerful sword; with every strike, the &6maximum health of the victim is lowered&r (though it would take 4 hits to lower it by a single heart).
-ftbuniversity.exu2kikoku.desc2=It also does &6void damage&r, which functions like void damage, as well as some &6armor-piercing&r damage.
-ftbuniversity.exu2kikoku.desc3=Kikoku also has &6infinite durability&r and &6enchantments' highest tiers are doubled&r in an Anvil, so you use Enchanted Books on it to get all the way up to Sharpness X and Looting VI!
+ftbuniversity.exu2kikoku.title=全部根据鬼哭
+ftbuniversity.exu2kikoku.subtitle=制作一个鬼哭
+ftbuniversity.exu2kikoku.desc1=&b鬼哭&r 是一把非常强大的剑；每次砍都会&6降低目标的最大生命&r （虽然要花4次才能将其降低一个心）。
+ftbuniversity.exu2kikoku.desc2=它也可以造成&6虚空伤害&r，其功能类似于虚空伤害，以及多一些&6穿甲&r伤害。
+ftbuniversity.exu2kikoku.desc3=鬼哭也有&6无限耐久&r和在铁砧上&6附魔的最高等级翻倍&r ，因此您可以在上面使用附魔书，直至达到锋利 X和掠夺 VI！
 
-ftbuniversity.exu2bow.title=Complex Bow
-ftbuniversity.exu2bow.subtitle=制作一个 Compound Bow
-ftbuniversity.exu2bow.desc1=&bCompound Bow&r, when fully drawn, will shoot &6gravity-defying arrows&r. It also has infinite durability.
-ftbuniversity.exu2bow.desc2=Compound Bow's &6enchantments can be double the normal limit&r when installed via an Anvil.
+ftbuniversity.exu2bow.title=复杂弓
+ftbuniversity.exu2bow.subtitle=制作一个复合弓
+ftbuniversity.exu2bow.desc1=&b复合弓&r, 当完全拉弓时，将发射 &6反重力箭&r。它还具有无限的耐久度。
+ftbuniversity.exu2bow.desc2=复合弓通过砧附魔时 &6附魔可以是正常上限的两倍&r。
 
-ftbuniversity.exu2survival.subtitle=制作一个 Survival Generator
-ftbuniversity.exu2survival.desc=&bSurvival Generator&r generates a 5 times the normal amount of RF from furnace fuels, though it works very slowly.
-ftbuniversity.exu2gensspeed.desc=This generator can be given the &6Upgrade Speed&r.
+ftbuniversity.exu2survival.subtitle=制作一个生存发电机
+ftbuniversity.exu2survival.desc=&b生存发电机&r 尽管它的工作非常缓慢，但它从炉内燃料产生的RF却是正常的5倍。
+ftbuniversity.exu2gensspeed.desc=这个发电机可以给&6速度升级&r.
 
-ftbuniversity.exu2furnacegen.subtitle=制作一个 Furnace Generator
-ftbuniversity.exu2furnacegen.desc=&bFurnace Generator&r generates an average amount of RF from furnace fuels at an average speed.
+ftbuniversity.exu2furnacegen.subtitle=制作一个熔炉发电机
+ftbuniversity.exu2furnacegen.desc=&b熔炉发电机&r 以平均速度从炉内燃料生成平均数量的RF。
 
-ftbuniversity.exu2overclocked.subtitle=制作一个 Overclocked Generator
-ftbuniversity.exu2overclocked.desc=&bOverclocked Generator&r generates 1/10th the normal amount of RF from furnace fuels at an extremely high speed.
+ftbuniversity.exu2overclocked.subtitle=制作一个超频发电机
+ftbuniversity.exu2overclocked.desc=&b超频发电机&r 以极高的速度从炉内燃料中产生正常RF量的1/10。
 
-ftbuniversity.exu2magmatic.subtitle=制作一个 Magmatic Generator
-ftbuniversity.exu2magmatic.desc=&bMagmatic Generator&r generates RF from Lava, at 100,000 RF per bucket.
+ftbuniversity.exu2magmatic.subtitle=制作一个热力发电机
+ftbuniversity.exu2magmatic.desc=&b热力发电机&r 从熔岩生成RF，每桶100,000 RF。
 
-ftbuniversity.exu2pink.subtitle=制作一个 Pink Generator
-ftbuniversity.exu2pink.desc=&bPink Generator&r generates RF from Pink Dye, anything crafted using Pink Dye, and anything that crafts &ointo&r Pink Dye, at 400 RF per item.
+ftbuniversity.exu2pink.subtitle=制作一个粉红发电机
+ftbuniversity.exu2pink.desc=&b粉红发电机&r 从粉红染料，使用粉红染料制作的任何东西以及任何可以制作的东西&o生成RF&r,每件400 RF。
 
-ftbuniversity.exu2heatedredstone.subtitle=制作一个 Heated Redstone Generator
-ftbuniversity.exu2heatedredstone.desc=&bHeated Redstone Generator&r generates RF from Lava and Redstone dust, with 50mB and 1 dust generating 20,000 RF over 6.25 seconds.
+ftbuniversity.exu2heatedredstone.subtitle=制作一个加热红石发电机
+ftbuniversity.exu2heatedredstone.desc=&b加热红石发电机&r 从熔岩和红石尘产生RF，50mB和1个红石在6.25秒内产生20,000 RF。
 
-ftbuniversity.exu2frosty.subtitle=制作一个 Frosty Generator
-ftbuniversity.exu2frosty.desc=&bFrosty Generator&r generates RF from blocks like Ice and Snow. See its uses in JEI for a full list.
+ftbuniversity.exu2frosty.subtitle=制作一个寒冰发电机
+ftbuniversity.exu2frosty.desc=&b寒冰发电机&r 从冰和雪之类的方块生成RF。查看其在JEI中的使用以获取完整列表。
 
-ftbuniversity.exu2culinary.subtitle=制作一个 Culinary Generator
-ftbuniversity.exu2culinary.desc=&bCulinary Generator&r generates RF from food, with better food generating more. See its uses in JEI for a full list.
+ftbuniversity.exu2culinary.subtitle=制作一个烹饪发电机
+ftbuniversity.exu2culinary.desc=&b烹饪发电机&r 从食物中产生RF，更好的食物产生更多。查看其在JEI中的使用以获取完整列表。
 
-ftbuniversity.exu2explosive.subtitle=制作一个 Explosive Generator
-ftbuniversity.exu2explosive.desc=&bExplosive Generator&r generates RF from Gunpowder or TNT. This will cause explosions that damage entities but not blocks, so don't put this somewhere you go too often.
+ftbuniversity.exu2explosive.subtitle=制作一个爆炸发电机
+ftbuniversity.exu2explosive.desc=&b爆炸发电机&r 从火药或TNT生成RF。这将导致爆炸造成伤害，但不会破坏方块，因此请不要将它放在您经常去的地方。
 
-ftbuniversity.exu2endergen.subtitle=制作一个 Ender Generator
-ftbuniversity.exu2endergen.desc=&bEnder Generator&r generates RF from Ender Pearls and Eyes of Ender.
+ftbuniversity.exu2endergen.subtitle=制作一个末影发电机
+ftbuniversity.exu2endergen.desc=&b末影发电机&r 从末影珍珠和末影之眼产生RF。
 
-ftbuniversity.exu2potgen.subtitle=制作一个 Potion Generator
-ftbuniversity.exu2potgen.desc=&bPotion Generator&r generates RF from potions, with more RF for the more steps required. Empty Glass Bottles will have to be piped out.
+ftbuniversity.exu2potgen.subtitle=制作一个药水发电机
+ftbuniversity.exu2potgen.desc=&b药水发电机&r 从药水中产生RF，需要越多步骤的RF就会越多。空的玻璃瓶必须通过管道输送出去。
 
-ftbuniversity.exu2slime.subtitle=制作一个 SLimey Generator
-ftbuniversity.exu2slime.desc=&bSlimey Generator&r generates RF from Slime and Milk. Empty Buckets will have to be piped out.
+ftbuniversity.exu2slime.subtitle=制作一个粘液发电机
+ftbuniversity.exu2slime.desc=&b粘液发电机&r 从史莱姆球和牛奶中产生RF。空桶将必须通过管道输送出去。
 
-ftbuniversity.exu2disenchant.subtitle=制作一个 Disenchantment Generator
-ftbuniversity.exu2disenchant.desc=&bDisenchantment Generator&r generates RF from Enchanted Books, using a strangely complex formula. In short: the closer it is to the max level, as well as the more rare, the better.
+ftbuniversity.exu2disenchant.subtitle=制作一个附魔发电机
+ftbuniversity.exu2disenchant.desc=&b附魔发电机&r 使用一个奇怪的复杂公式从附魔书生成RF。简而言之：越接近最高水平，越稀有越好。
 
-ftbuniversity.exu2halitosis.subtitle=制作一个 Halitosis Generator
-ftbuniversity.exu2halitosis.desc=&bHalitosis Generator&r generates RF from Dragon's Breath. Empty Glass Bottles will have to be piped out.
+ftbuniversity.exu2halitosis.subtitle=制作一个龙息发电机
+ftbuniversity.exu2halitosis.desc=&b龙息发电机&r 从龙息产生RF。空的玻璃瓶必须通过管道输送出去。
 
-ftbuniversity.exu2netherstar.subtitle=制作一个 Netherstar Generator
-ftbuniversity.exu2netherstar.desc=&bNetherstar Generator&r generates RF from Nether Stars. While working, it will inflict Wither II on nearby living creatures.
+ftbuniversity.exu2netherstar.subtitle=制作一个地狱之星发电机
+ftbuniversity.exu2netherstar.desc=&b地狱之星发电机&r 从地狱之星生成RF。在工作时，它将对附近的生物造成凋零II。
 
-ftbuniversity.exu2death.subtitle=制作一个 Death Generator
-ftbuniversity.exu2death.desc=&bDeath Generator&r generates RF from Bones, Rotten Flesh, and the like. If a player enters a 3x3 area around it, they will get the &cDoom&r effect inflicted on them, which spells &6certain death unless cured&r after 60 seconds.
+ftbuniversity.exu2death.subtitle=制作一个死亡发电机
+ftbuniversity.exu2death.desc=&b死亡发电机&r从“骨头”，“腐肉”等产生RF。如果玩家进入周围的3x3区域，他们将获得 &c诅咒&r，他们会在60秒之后&6必定死亡，除非60秒内治愈&r 。
 
 # Codes generated with https://scratch.mit.edu/projects/218197841/
 ftbuniversity.exu2rainbow.subtitle=制作一个彩虹发电机！
